@@ -40,7 +40,7 @@ tags
 
 #IDE files
 .idea
-src
+/src
 /.project
 /dev/-markdown.html
 .tags
