@@ -31,3 +31,17 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+tags
+/dev/static/-markdown.html
+/dev/static/script.js
+/*.png
+.sass-cache
+
+#IDE files
+.idea
+src
+/.project
+/dev/-markdown.html
+.tags
+/prod
