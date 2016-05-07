@@ -1,0 +1,41 @@
+digraph G {
+    node[shape=record resolution=100 fontsize=10 color="#0AA0DD" fontname="Free Mono Bold" fontcolor="#0AA0DD" ]
+    bgcolor = "#ffffff"
+    edge[ color="#0AA0DD" arrowsize=.7 fontsize=6 shape=insulator fontcolor="#0AA0DD" fontname="Free Mono Bold" ]
+    dpi=150
+    splines=true
+    compound=true
+    rankdir=LR
+    subgraph cluster_main {
+        label="queue result list"
+        color="#e0e0e0"
+
+        links_original [
+            label="[ -markdown.md ] | :place on surge\l" ]
+        links_local [
+            label="[ local storage links ] | :place on localStorage\l" ]
+        result_list [
+            shape=circle ]
+        links_original -> result_list
+        links_local -> result_list
+    }
+    subgraph cluster_objects {
+        label="list of classes"
+        color="#e0e0e0"
+
+        item_link [
+            label="[ item_link ] | :url\l | :description\l | :tag_list\l | :progress_study\l | :counter\l | :helpful\l | :useless\l | :hide\l" ]
+        item_tag [
+            label="[ item_tag ] | :name\l | :link_list_relation\l" ]
+        item_tag -> item_link
+    }
+    subgraph cluster_process {
+        label="process"
+        color="#e0e0e0"
+
+        init_local_storage [
+            label="[ init local storage] | { find_local_settings | or | init_local_settings } | init_settings" ]
+        init_local_storage -> get_host_content -> get_local_content
+        get_local_content -> build_link_items -> build_tag_items -> draw_items
+    }
+}
