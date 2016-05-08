@@ -132,6 +132,13 @@ Rusnet.bind = ->
     else
       Rusnet.show_all()
     return
+
+  $('img').on 'click', (event) ->
+    event = event or window.event
+    target = event.target or event.srcElement
+    if settings.img.index < (settings.img.count - 1) then settings.img.index += 1 else settings.img.index = 0
+    img = settings.img.list[settings.img.index]
+    $(target).attr 'src', ["/img/", img].join("")
   return
 
 Rusnet.show_all = ->
@@ -169,10 +176,41 @@ Rusnet.search = (string) ->
       return
   return
 
+Rusnet.get_random = (min, max) ->
+  random = Math.floor(Math.random() * (max - min + 1) + min)
+  return random
+
+Rusnet.set_img = ->
+  $.ajax
+    url: '/json/config.json'
+    type: 'get'
+    dataType: 'json'
+    success: (data) ->
+      if data.images
+        length = data.images.length
+        settings.img.list = data.images
+        settings.img.count = length
+        settings.img.index = Rusnet.get_random 0, length
+        img = data.images[ settings.img.index ]
+        $('img').attr 'src', ["/img/", img].join("")
+        $('img').removeClass 'hide'
+
+    error: (err) ->
+      console.log "err:", err
+      return
+  return
+
 $ ->
+  settings = window.settings =
+    img:
+      index: 0
+      count: 0
+      list: []
+
   Rusnet.init_view()
   Rusnet.add_target_link()
   Rusnet.add_tag_link()
   Rusnet.wrap_content()
   Rusnet.research_engine()
   Rusnet.bind()
+  Rusnet.set_img()
