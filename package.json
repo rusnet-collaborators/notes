@@ -9,14 +9,13 @@
     "h": "gulp html",
     "d": "gulp deploy",
     "w": "gulp watcher",
-    "s": "coffee app.coffee",
-    "test": "gulp"
+    "s": "coffee app.coffee"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/rusnet-collaborators/notes.git"
   },
-  "author": "",
+  "author": "sagax",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rusnet-collaborators/notes/issues"

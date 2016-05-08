@@ -6,6 +6,9 @@ gulpsync     = $.sync gulp
 path         = require 'path'
 htmlincluder = require 'gulp-htmlincluder'
 
+gulp.task 'clean', ->
+  del config.prod_path, force: true
+
 gulp.task 'gen_js', ->
   gulp.src path.join config.dev_path_coffee, '*.coffee'
     .pipe $.coffee bare: true
@@ -75,21 +78,26 @@ gulp.task 'gen_html_live', ->
   return
 
 gulp.task 'copy', ->
-  gulp.src path.join config.dev_path_css, '*.css'
-    .pipe gulp.dest config.prod_path_css
-  gulp.src path.join config.dev_path_img, '*.png'
-    .pipe gulp.dest config.prod_path_img
-  gulp.src path.join config.dev_path_img, '*.jpg'
-    .pipe gulp.dest config.prod_path_img
-  gulp.src path.join config.dev_path_js, '*.js'
-    .pipe gulp.dest config.prod_path_js
+  gulp.src path.join(config.dev_path_css, '**/*'),   base: config.dev_path
+    .pipe gulp.dest config.prod_path
+  gulp.src path.join(config.dev_path_img, '**/*'),   base: config.dev_path
+    .pipe gulp.dest config.prod_path
+  gulp.src path.join(config.dev_path_favicon, '**/*'),   base: config.dev_path
+    .pipe gulp.dest config.prod_path
+  gulp.src path.join(config.dev_path_js, '**/*'),    base: config.dev_path
+    .pipe gulp.dest config.prod_path
+  gulp.src path.join(config.dev_path_json, '**/*'),  base: config.dev_path
+    .pipe gulp.dest config.prod_path
   gulp.src path.join(config.dev_path_fonts, '**/*'), base: config.dev_path
+    .pipe gulp.dest config.prod_path
+  gulp.src path.join(config.dev_path_json, '**/*'),  base: config.dev_path
     .pipe gulp.dest config.prod_path
   gulp.src path.join config.dev_path, 'CNAME'
     .pipe gulp.dest config.prod_path
   return
 
 gulp.task 'default', gulpsync.sync [
+  'clean'
   'gen_js'
   'gen_css'
   'gen_markdown'
@@ -104,8 +112,7 @@ gulp.task 'html', gulpsync.sync [
 gulp.task 'deploy', [], $.shell.task [ 'surge ' + config.prod_path ]
 
 gulp.task 'watcher', ->
-  $.livereload.listen
-    port: process.env.LL or 35729
+  $.livereload.listen port: process.env.LL or 35729
   gulp.watch path.join(config.dev_path_coffee, '*.coffee'), ['gen_js_live']
   gulp.watch path.join(config.dev_path_sass, '*.sass'), ['gen_css_live']
   gulp.watch path.join(config.dev_path, '*.html'), ['gen_html_live']
