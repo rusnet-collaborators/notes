@@ -78,57 +78,101 @@ Rusnet.wrap_content = ->
   return
 
 Rusnet.research_engine = ->
-  cache = window.cache = {}
-  names = window.names = []
+  result = window.result = {}
 
-  headers = $('h1.custom-h1-block').get()
+  rowsing = (_count_row, _order, _hash, _string, cb) ->
+    array = _string.split("")
+
+    [0..._count_row].forEach (index) ->
+      index_1 = 0 + index
+      index_2 = _order + index
+      row = array.slice(index_1, index_2).join("")
+      result[_order + ""][_hash]['list'].push row
+      result[_order + "g"].push row
+      return
+
+    if cb
+      cb()
+    return
+
+  scan = (_string, _el) ->
+    length = _string.length
+    [1..length].forEach (order) ->
+      count_row = length - (order - 1)
+
+      result[order + ""] = result[order + ""] or {}
+      result[order + "g"] = result[order + "g"] or []
+      result[order + ""][_string] = result[order + ""][_string] or {}
+      result[order + ""][_string]['list'] = result[order + ""][_string]['list'] or []
+      result[order + ""][_string]['el'] = result[order + ""][_string]['el'] or _el
+      result['elements'] = result['elements'] or []
+      if result['elements'].indexOf(_el) is -1
+        result['elements'].push _el
+
+      rowsing count_row, order, _string, _string
+      return
+    return
+
+  headers = $('#notes_wrap h1.custom-h1-block').get()
   headers.forEach (el) ->
     text = $(el).text().trim().toLowerCase()
-    names.push text
-    cache[text] = el
+    scan text, el
     return
   return
 
-Rusnet.search_engine = ->
-  debounce = (fn, delay) ->
-    timer = null
-    ->
-      context = this
-      args = arguments
-      clearTimeout timer
-      timer = setTimeout((->
-        fn.apply context, args
-        return
-      ), delay)
-      
-  headers = $('h1.custom-h1-block')
-  $wrap = $('.wrap')
-  $search_string = $('#findString')
-  
-  $('#findString').on 'keyup', debounce(((e) ->
-    code = e.keyCode or e.which
-    search = $search_string.val()
-    if search
-      headers.each (index, item) ->
-        $item = $(item)
-        text = $item.find('a').text()
-        $wrap_inner = $item.next('.wrap')
-        if new RegExp(search, 'i').test(text)
-          $item.show 0
-        else
-          $wrap_inner.removeClass 'show', 0
-          $item.hide 0
-        return
+Rusnet.bind = ->
+  $('#findString').on 'keyup', (event) ->
+    event = event or window.event
+    target = event.target or event.srcElement
+    value = $(target).val().trim().toLowerCase()
+
+    if value isnt "" and value isnt undefined and value isnt null
+      Rusnet.search value
+
     else
-      headers.show 0
-      $wrap.removeClass 'show', 0
+      Rusnet.show_all()
     return
-  ), 300)
+  return
+
+Rusnet.show_all = ->
+  result.elements.forEach (el) ->
+    $(el).show()
+    return
+  return
+
+Rusnet.search = (string) ->
+  length = string.length
+  find = []
+  hide = []
+
+  result.elements.forEach (el) ->
+    $(el).hide()
+    return
+
+  if result[length + "g"].indexOf(string) > -1
+    keys = Object.keys result[length + ""]
+    keys.forEach (key) ->
+      result[length + ""][key]['list'].forEach (item, index, arr) ->
+        if item is string
+          if find.indexOf(key) is -1
+            find.push key
+            $( result[length + ""][key]['el'] ).show()
+
+          if hide.indexOf(key) > -1
+            hide.splice hide.indexOf(key), 1
+
+        else
+          if find.indexOf(key) is -1 and hide.indexOf(key) is -1
+            hide.push key
+            $( result[length + ""][key]['el'] ).hide()
+        return
+      return
+  return
 
 $ ->
   Rusnet.init_view()
   Rusnet.add_target_link()
   Rusnet.add_tag_link()
   Rusnet.wrap_content()
-  #Rusnet.search_engine()
   Rusnet.research_engine()
+  Rusnet.bind()
