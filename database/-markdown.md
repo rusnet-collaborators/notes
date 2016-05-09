@@ -3502,6 +3502,13 @@ Linux настройка, команды, сервер. Linux для всех
 * commands
 * servers
 
+https://github.com/cirosantilli/linux-cheat
+Linux tutorials and cheatsheets. Minimal examples. Mostly user-land.
+* github
+* linux
+* tutorials
+* cheatsheets
+
 
 # Flash
 
