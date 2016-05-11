@@ -3547,3 +3547,14 @@ Color-hex gives information about colors including color models (RGB,HSL,HSV and
 * palettes
 * hex
 * rgb
+
+
+# Operating system
+
+http://ru.osdev.wikia.com/wiki/Главная
+Добро пожаловать в OSDev Wiki. На данный момент мы написали статей: 273. Все статьи, отсортированные по категориям.
+* operating
+* system
+* wiki
+* architecture
+* developing
