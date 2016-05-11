@@ -247,6 +247,14 @@ Hammer is a open-source library that can recognize gestures made by touch, mouse
 * library
 * javascript
 
+http://packery.metafizzy.co
+Packery is a JavaScript library and jQuery plugin that makes gapless and draggable layouts.
+* packery
+* js
+* library
+* drag and drop
+* jQuery
+
 ### fileupload plugins, library javascript
 
 http://www.dropzonejs.com
