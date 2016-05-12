@@ -154,6 +154,13 @@ RQ: Better living through asynchronicity.  Douglas Crockford. 2015-04-14.
 * Q
 * RQ
 
+http://speakingjs.com
+Speaking JavaScript: An In-Depth Guide for Programmers. Dr. Axel Rauschmayer.
+* book
+* free
+* learning
+* javascript
+
 ### examples in real life
 
 http://surge.sh
