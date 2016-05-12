@@ -599,6 +599,13 @@ https://github.com/jashkenas/coffeescript/issues/1207
 * coffeescript
 * manual
 
+https://leanpub.com/coffeescript-ristretto
+CoffeeScript Ristretto. An intense cup of code.
+* coffeescript
+* ebook
+* book
+* learning
+
 ### advanced
 
 http://arcturo.github.io/library/coffeescript
