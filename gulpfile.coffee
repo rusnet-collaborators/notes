@@ -5,6 +5,7 @@ gulp         = require 'gulp'
 gulpsync     = $.sync gulp
 path         = require 'path'
 htmlincluder = require 'gulp-htmlincluder'
+mdtojson     = require 'gulp-markdown-to-json'
 
 gulp.task 'clean', ->
   del config.prod_path, force: true
@@ -77,6 +78,12 @@ gulp.task 'gen_html_live', ->
     .pipe $.livereload()
   return
 
+gulp.task 'gen_json', ->
+  gulp.src path.join config.database_path, '*.md'
+    .pipe mdtojson()
+    .pipe gulp.dest config.prod_path
+  return
+
 gulp.task 'copy', ->
   gulp.src path.join(config.dev_path_css, '**/*'),   base: config.dev_path
     .pipe gulp.dest config.prod_path
@@ -117,3 +124,7 @@ gulp.task 'watcher', ->
   gulp.watch path.join(config.dev_path_sass, '*.sass'), ['gen_css_live']
   gulp.watch path.join(config.dev_path, '*.html'), ['gen_html_live']
   return
+
+gulp.task 'json', gulpsync.sync [
+  'gen_json'
+]

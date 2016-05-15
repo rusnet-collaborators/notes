@@ -50,7 +50,7 @@ onListening = ->
   debug 'listening on ' + bind
   return
 
-port = normalizePort process.env.PORT or '40003'
+port = normalizePort process.env.PORT or '3000'
 app.set 'port', port
 
 server = http.createServer(app)

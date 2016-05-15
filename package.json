@@ -9,6 +9,7 @@
     "h": "gulp html",
     "d": "gulp deploy",
     "w": "gulp watcher",
+    "j": "gulp json",
     "s": "coffee app.coffee"
   },
   "repository": {
@@ -32,6 +33,7 @@
     "gulp-coffee":       "2.3.2",
     "gulp-ejs":          "2.1.1",
     "gulp-htmlincluder": "git+https://github.com/sagax/_gulp-htmlincluder.git",
+    "gulp-markdown-to-json": "git+https://github.com/sagax/gulp-markdown-to-json",
     "gulp-livereload":   "3.8.1",
     "gulp-load-plugins": "1.2.2",
     "gulp-markdown":     "1.2.0",
