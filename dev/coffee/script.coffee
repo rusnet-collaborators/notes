@@ -135,12 +135,38 @@ class Rusnet
         Rusnet.show_all()
       return
 
-    $('img').on 'click', (event) ->
+    $('#top').on 'click', (event) ->
       event = event or window.event
       target = event.target or event.srcElement
+
       if settings.images.index < (settings.images.count - 1) then settings.images.index += 1 else settings.images.index = 0
-      img = settings.images.list[settings.images.index]
-      $(target).attr 'src', ["/img/", img].join("")
+
+      url = settings.images.list[settings.images.index]
+
+      $('#top').html """
+<div class="cssload-wrap">
+  <div class="cssload-container">
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+  <span class="cssload-dots"></span>
+</div>
+</div>
+      """
+
+      img_w = new Image()
+      $(img_w).on 'load', (event) ->
+        $('#top').html img_w
+        return
+
+      img_w.src = ['/img/', url].join("")
+      return
     return
 
   @show_all = ->
@@ -183,6 +209,7 @@ class Rusnet
       url: '/json/config.json'
       type: 'get'
       dataType: 'json'
+      async: false
       success: (data) ->
         if data.images
           length = data.images.length
@@ -194,7 +221,6 @@ class Rusnet
           $('img').removeClass 'hide'
 
       error: (err) ->
-        console.log "err:", err
         return
     return
 
