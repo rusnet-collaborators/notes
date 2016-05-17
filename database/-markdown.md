@@ -2200,6 +2200,13 @@ Stoyan's web dev blog: phpied.com
 * web dev
 * blog
 
+https://wcoder.github.io
+Личный блог Пакало Евгения
+* blog
+* pakalo
+* evgenii
+* notes
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
