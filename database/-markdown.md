@@ -2184,7 +2184,7 @@ Simone Vittori is a web developer originally from Perugia, Italy, but now living
 * notes
 
 http://podrugomu.com
- > hello, world ! ПЕРСОНАЛЬНЫЙ БЛОГ
+ПЕРСОНАЛЬНЫЙ БЛОГ
 * blog
 * notes
 
