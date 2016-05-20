@@ -1634,6 +1634,12 @@ The SSCCE. Short, Self Contained, Correct (Compilable), Example.
 * sscce
 * methodologies
 
+http://artgorbunov.ru
+Дизайн-бюро Артёма Горбунова
+* арт
+* дизайн
+* примеры
+
 
 # EcmaScript 6
 
