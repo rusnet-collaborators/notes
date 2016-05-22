@@ -3258,6 +3258,12 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 * list
 * github
 
+http://kolenka.su/blog/love
+блог про love2d
+* blog
+* lua
+* love
+
 
 # ReactJS
 
