@@ -3243,6 +3243,21 @@ love2d.ru — русскоязычное сообщество, посвящен�
 * articles
 * lua
 
+https://github.com/LewisJEllis/awesome-lua
+A curated list of quality Lua packages and resources.
+* lua
+* awesome
+* list
+* github
+
+https://github.com/love2d-community/awesome-love2d
+A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
+* love
+* lua
+* awesome
+* list
+* github
+
 
 # ReactJS
 
