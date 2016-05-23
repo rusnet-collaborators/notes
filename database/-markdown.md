@@ -3231,6 +3231,45 @@ luainspect.vim Semantic highlighting for Lua in Vim
 * vim
 * highlights
 
+### Love2d
+
+https://love2d.org
+LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
+* love
+* framework
+* game
+* 2D
+* crossplatform
+* lua
+
+http://love2d.ru
+love2d.ru — русскоязычное сообщество, посвященное  движку LÖVE (также известен как Love2d)
+* blog
+* love2d
+* articles
+* lua
+
+https://github.com/LewisJEllis/awesome-lua
+A curated list of quality Lua packages and resources.
+* lua
+* awesome
+* list
+* github
+
+https://github.com/love2d-community/awesome-love2d
+A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
+* love
+* lua
+* awesome
+* list
+* github
+
+http://kolenka.su/blog/love
+блог про love2d
+* blog
+* lua
+* love
+
 
 # ReactJS
 
