@@ -2213,6 +2213,12 @@ https://wcoder.github.io
 * evgenii
 * notes
 
+http://catethysis.ru
+Блог им. Catethysis
+* blog
+* technologies
+* catethysis
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
