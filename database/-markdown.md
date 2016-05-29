@@ -3641,3 +3641,56 @@ http://ru.osdev.wikia.com/wiki/Главная
 * wiki
 * architecture
 * developing
+
+
+# Guitar
+
+https://www.youtube.com/user/7lineproject
+Этот канал проекта The Seventh line, но по счастливой случайности здесь выкладываются видео не про -"Купите наш альбом", а про гитарное электричество! Тут вы найдёте ролики по сборке гитарных педалей, с платами, схемами и примерами звучания. Помимо этого мы будем проводить разные сравнения, эксперименты, а так же осваивать DIY технологии.
+* guitar
+* youtube
+* channel
+* electronics
+
+https://www.youtube.com/user/th3ycharg3
+Comedy/Music/Vlogs. Vocalist/Guitarist/Drummer. All things Metal/Metalcore.
+* guitar
+* youtube
+* channel
+* metal
+* Metalcore
+
+https://www.youtube.com/channel/UCl16xaNY2arX3OzZBvTlsPQ
+Welcome to the official Youtube channel for Stevie T! My videos are generally on the topics of guitar, comedy, metal music and everything in between. If one of my videos doesn't tickle your fancy, maybe my next one will. Thanks for visiting!!!
+* guitar
+* youtube
+* channel
+* videos
+
+https://www.youtube.com/user/robs70986987
+My name is Rob and I play guitar for the internet.
+* guitar
+* youtube
+* channel
+* videos
+
+https://www.youtube.com/user/MissSmiles4u
+Hey Guys! My name is Sarah and I'm 22 :D I've been playing guitar for about 10 years and I also enjoy playing just about any other instrument I can get my hands on. Check out my music!
+* guitar
+* youtube
+* channel
+* videos
+
+https://www.youtube.com/user/guitaronlineru
+Уроки игры на гитаре: самые понятные и подробные разборы популярных песен, уникальные упражнения и техники игры. Подпишитесь, чтобы не пропустить новое видео!
+* guitar
+* youtube
+* channel
+* videos
+
+https://www.youtube.com/user/Deussoftwebru
+Гитаризм и не только! Гитарный музыкальный видеоблог на русском языке.
+* guitar
+* youtube
+* channel
+* videos
