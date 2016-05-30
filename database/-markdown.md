@@ -332,6 +332,12 @@ The definitive source of the best JavaScript libraries, frameworks, and plugins.
 * library
 * collection
 
+http://www.jqueryrain.com
+jQuery Rain plugins
+* javascript
+* jquery
+* collection
+
 
 # Gulp
 
