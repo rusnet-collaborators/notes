@@ -1410,6 +1410,12 @@ Codrops :: Tutorials - In this section you will find in-depth how-tos involving 
 * markup
 * tutorials
 
+http://snipplr.com
+Snipplr lets your store and share all of your commonly used pieces of code and HTML with other programmers and designers.
+* store
+* share
+* snippets
+
 
 # Useful help tools
 
@@ -3216,6 +3222,13 @@ Lua 5.3 Руководство пользователя. Данное справ
 * lua
 * docs
 * online
+
+http://wiki.linuxformat.ru/wiki/LXF122:LUA
+Lua: Что в нем такого?
+* lua
+* linuxformat
+* wiki
+* articles
 
 ### FastRun
 
