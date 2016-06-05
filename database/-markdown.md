@@ -1416,6 +1416,12 @@ Snipplr lets your store and share all of your commonly used pieces of code and H
 * share
 * snippets
 
+https://learnxinyminutes.com
+Learn X in Y minutes. Take a whirlwind tour of your next favorite language. Community-driven!
+* learn
+* speed learn
+* more language
+
 
 # Useful help tools
 
