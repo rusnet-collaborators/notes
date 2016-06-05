@@ -3211,6 +3211,12 @@ Programming in Lua (first edition)
 * online
 * learn
 
+http://antirek.github.io/luabook
+Lua 5.3 Руководство пользователя. Данное справочное руководство является официальным описанием языка Lua.
+* lua
+* docs
+* online
+
 ### FastRun
 
 https://zserge.wordpress.com/2012/02/23/lua-за-60-минут
