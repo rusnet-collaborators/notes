@@ -339,6 +339,42 @@ jQuery Rain plugins
 * collection
 
 
+# ECMAScript
+
+http://www.ecmascript.org
+ECMAScript Programming Language
+* ecmascript
+* programming
+* documentation
+
+http://es6-features.org
+ECMAScript 6 — New Features: Overview & Comparison
+* ecmascript
+* version 6
+* features
+* comparison
+
+http://www.ecma-international.org/ecma-262/6.0
+Standard ECMA-262 6th Edition
+* ecmascript
+* version 6
+* description
+
+https://esdiscuss.org
+ECMAScript Discussion Archives
+* ecmascript
+* discussion
+* archive
+
+http://wiki.ecmascript.org/doku.php
+This is a wiki for the ongoing specification work of Ecma TC39, the technical committee tasked with standardization of the ECMAScript programming language.
+* ecmascript
+
+https://people.mozilla.org/~jorendorff/es6-draft.html
+This is not the official ECMAScript Language Specification. This is a draft of the next edition of the standard.
+* es6
+
+
 # Gulp
 
 http://gulpjs.com
@@ -1658,17 +1694,6 @@ http://artgorbunov.ru
 * дизайн
 * примеры
 
-
-# EcmaScript 6
-
-https://esdiscuss.org
-dev forum
-
-http://wiki.ecmascript.org/doku.php
-This is a wiki for the ongoing specification work of Ecma TC39, the technical committee tasked with standardization of the ECMAScript programming language.
-
-https://people.mozilla.org/~jorendorff/es6-draft.html
-This is not the official ECMAScript Language Specification. This is a draft of the next edition of the standard.
 
 # Книги, нужные и полезные
 
