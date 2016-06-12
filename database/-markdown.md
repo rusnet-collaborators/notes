@@ -372,7 +372,6 @@ This is a wiki for the ongoing specification work of Ecma TC39, the technical co
 
 https://people.mozilla.org/~jorendorff/es6-draft.html
 This is not the official ECMAScript Language Specification. This is a draft of the next edition of the standard.
-* es6
 
 
 # Gulp
@@ -3193,6 +3192,13 @@ Lua is a powerful, fast, lightweight, embeddable scripting language.
 * official page
 * language
 
+https://www.lua.org/gems
+This is a collection of articles recording some of the existing wisdom and practice on how to program well in Lua.
+* lua
+* collection
+* articles
+* practices
+
 https://luarocks.org
 LuaRocks is the package manager for Lua modules.
 * lua
@@ -3337,6 +3343,27 @@ http://kolenka.su/blog/love
 * blog
 * lua
 * love
+
+http://phrogz.net/lua
+Learning Lua
+* lua
+* learning
+* phrogz
+* examples
+
+http://www.deanmao.com/2012/08/15/orm-in-lua
+ORM in Lua
+* orm
+* lua
+
+
+# AWK
+
+http://awk.freeshell.org/HomePage
+some links and examples
+* awk
+* examples
+* links
 
 
 # ReactJS
