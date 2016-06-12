@@ -1043,6 +1043,11 @@ Learn Ruby. With the neo ruby koans
 * ruby
 * learn
 
+http://rubyjobs.ru
+Вакансии для разработчиков, использующих Ruby.
+* ruby
+* jobs
+
 
 # Python
 
