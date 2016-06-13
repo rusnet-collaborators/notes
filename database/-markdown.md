@@ -3371,6 +3371,14 @@ some links and examples
 * links
 
 
+http://www.gnu.org/software/gawk/manual/gawk.pdf
+GAWK: Effective AWK Programming
+* awk
+* programming
+* pdf
+* book
+
+
 # ReactJS
 
 http://facebook.github.io/react
