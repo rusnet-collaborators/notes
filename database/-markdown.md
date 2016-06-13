@@ -3378,6 +3378,13 @@ GAWK: Effective AWK Programming
 * pdf
 * book
 
+http://www.lissyara.su/doc/programming/awk
+ЯЗЫК ОБРАБОТКИ ШАБЛОНОВ awk
+* awk
+* speed
+* programming
+* blog
+
 
 # ReactJS
 
