@@ -2697,6 +2697,12 @@ http://rsdn.ru/article/erlang/GettingStartedWithErlang.xml
 * erlang
 * learn
 
+http://www.erlang-in-anger.com
+Stuff Goes Bad Erlang in Anger
+* erlang
+* read
+* book
+
 
 # Koa
 
