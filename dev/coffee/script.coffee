@@ -1,6 +1,12 @@
 get_random = (min, max) ->
-  random = Math.floor(Math.random() * (max - min + 1) + min)
-  return random
+  min = min ? 0
+  max = max ? 0
+
+  if typeof(min) is 'number' and typeof(max) is 'number'
+    random = Math.floor(Math.random() * (max - min + 1) + min)
+  else
+    random = null
+  random
 
 class Rusnet
 
@@ -11,28 +17,32 @@ class Rusnet
       do (i) ->
         text_wrap = i.textContent
         link_wrap = text_wrap.trim()
-        link_wrap = link_wrap.replace(/(\s|\.|,|:)/g, '_')
+        link_wrap = link_wrap.replace /(\s|\.|,|:)/g, '_'
         link_wrap = link_wrap.replace(/_{2,}/g, '_').replace(/_$/g, '')
-        link_wrap = link_wrap.replace(/_$/g, '')
+        link_wrap = link_wrap.replace /_$/g, ''
         link_wrap = link_wrap.toLowerCase()
-        li = $('<li>').attr('role', 'presentation')
+        li = document.createElement 'li'
+        $(li).attr 'role', 'presentation'
 
-        count_link = $('<span>')
-          .attr('class', 'badge pull-right')
+        count_link = document.createElement 'span'
+        $(count_link)
+          .attr 'class', 'badge pull-right'
           .text( $(i).nextUntil('h1').find('a').length )
 
-        link_menu = $('<a>')
-          .attr('href', '#' + link_wrap )
-          .attr('role', 'menuitem')
-          .attr('tabindex', '-1')
-          .text(text_wrap)
-          .append(count_link)
+        link_menu = document.createElement 'a'
+        $(link_menu)
+          .attr 'href', '#' + link_wrap
+          .attr 'role', 'menuitem'
+          .attr 'tabindex', '-1'
+          .text text_wrap
+          .append count_link
 
-        link_anchor = $('<a>')
-          .attr('name', link_wrap)
-          .attr('href', '#' + link_wrap)
-          .attr('class', 'block')
-          .text(text_wrap)
+        link_anchor = document.createElement 'a'
+        $(link_anchor)
+          .attr 'name', link_wrap
+          .attr 'href', '#' + link_wrap
+          .attr 'class', 'block'
+          .text text_wrap
 
         $(i).text('')
         $(i).append(link_anchor)
