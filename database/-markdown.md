@@ -2697,6 +2697,24 @@ http://rsdn.ru/article/erlang/GettingStartedWithErlang.xml
 * erlang
 * learn
 
+http://www.erlang-in-anger.com
+Stuff Goes Bad Erlang in Anger
+* erlang
+* read
+* book
+
+http://opensource.erlang-solutions.com/erlang-handbook
+Erlang Handbook. A concise reference for Erlang.
+* erlang
+* book
+
+http://erlangcentral.org
+Erlang Tutorials. Learning Erlang programming? Check out our Erlang Central Tutorials.
+* erlang
+* resources
+* programming
+* tutorials
+
 
 # Koa
 
