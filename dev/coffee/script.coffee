@@ -5,13 +5,14 @@ get_random = (min, max) ->
   if typeof(min) is 'number' and typeof(max) is 'number'
     random = Math.floor(Math.random() * (max - min + 1) + min)
   else
-    random = null
+    random = false
   random
 
 class Rusnet
-
   @init_view = ->
-    items = $('#notes_wrap h1').addClass 'custom-h1-block'
+    items = $('#notes_wrap h1')
+    $(items).addClass 'custom-h1-block'
+
     menu = $('#menu').find('ul')
     for i in items
       do (i) ->
@@ -21,13 +22,15 @@ class Rusnet
         link_wrap = link_wrap.replace(/_{2,}/g, '_').replace(/_$/g, '')
         link_wrap = link_wrap.replace /_$/g, ''
         link_wrap = link_wrap.toLowerCase()
+
         li = document.createElement 'li'
         $(li).attr 'role', 'presentation'
 
+        count_number = $(i).nextUntil('h1').find('a').length
         count_link = document.createElement 'span'
         $(count_link)
           .attr 'class', 'badge pull-right'
-          .text( $(i).nextUntil('h1').find('a').length )
+          .text count_number
 
         link_menu = document.createElement 'a'
         $(link_menu)
@@ -44,11 +47,12 @@ class Rusnet
           .attr 'class', 'block'
           .text text_wrap
 
-        $(i).text('')
-        $(i).append(link_anchor)
+        $(i)
+          .text ''
+          .append link_anchor
 
-        $(li).append(link_menu)
-        $(menu).append(li)
+        $(li).append link_menu
+        $(menu).append li
         return
     return
         
@@ -56,10 +60,13 @@ class Rusnet
     items = $('#notes_wrap p a')
     for i in items
       do (i) ->
-        $(i).attr('target', '_blank')
-          .text( i.textContent.replace(/(http|https):\/\/(www){0,1}\.{0,1}/, '') )
-          .text( i.textContent.replace(/\/$/, '') )
-        $('<br/>').insertAfter(i)
+        $(i)
+          .attr 'target', '_blank'
+          .text i.textContent.replace(/(http|https):\/\/(www){0,1}\.{0,1}/, '')
+          .text i.textContent.replace(/\/$/, '')
+
+        br = document.createElement 'br'
+        $(br).insertAfter i
         return
     return
 
@@ -67,27 +74,34 @@ class Rusnet
     tags = $('#notes_wrap ul li')
     for i in tags
       do (i) ->
-        link_tag = $('<a>')
-          .attr('href', '#tag-' + i.textContent)
-          .attr('class', 'white')
-          .text(i.textContent)
+        link_tag = document.createElement 'a'
+        $(link_tag)
+          .attr 'href', '#tag-' + i.textContent
+          .attr 'class', 'white'
+          .text i.textContent
+
         $(i)
-          .attr('class', 'label label-primary')
-          .text('')
-          .append(link_tag)
+          .attr 'class', 'label label-primary'
+          .text ''
+          .append link_tag
         return
     return
 
   @wrap_content = ->
-    $items = $('#notes_wrap h1')
-    for i in $items
+    items = $('#notes_wrap h1')
+    for i in items
       do (i) ->
+        div = document.createElement 'div'
+        $(div).attr 'class', 'wrap'
+
+        $(i).on 'click', (event) ->
+          event.preventDefault()
+          $(i).next('.wrap').toggleClass 'show', 500
+          return
+
         $(i)
-          .on 'click', (event) ->
-            event.preventDefault
-            $(@).next('.wrap').toggleClass 'show', 500
-          .nextUntil('h1')
-          .wrapAll $('<div>').attr('class', 'wrap')
+          .nextUntil 'h1'
+          .wrapAll div
         return
     return
 
