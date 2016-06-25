@@ -2692,6 +2692,12 @@ This is Learn You Some Erlang for great good! This book is for you if you’ve g
 * learn
 * erlang
 
+http://erlangbyexample.org
+Erlang/OTP by Example
+* erlang
+* example
+* OTP
+
 http://rsdn.ru/article/erlang/GettingStartedWithErlang.xml
 Начала работы с Erlang
 * erlang
