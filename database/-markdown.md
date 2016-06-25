@@ -3821,3 +3821,11 @@ https://www.youtube.com/user/Deussoftwebru
 * youtube
 * channel
 * videos
+
+# Perl
+
+http://pragmaticperl.com
+Pragmatic PerlRSS subscription. Журнал о современном Perl на русском.
+# perl
+# pragmatic
+# журнал
