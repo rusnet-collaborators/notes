@@ -3832,6 +3832,6 @@ https://www.youtube.com/user/Deussoftwebru
 
 http://pragmaticperl.com
 Pragmatic PerlRSS subscription. Журнал о современном Perl на русском.
-# perl
-# pragmatic
-# журнал
+* perl
+* pragmatic
+* журнал
