@@ -2721,6 +2721,20 @@ Erlang Tutorials. Learning Erlang programming? Check out our Erlang Central Tuto
 * programming
 * tutorials
 
+http://ferd.ca
+“As bad as anything else”
+* blog
+* articles
+* example
+* learning
+
+http://trigonakis.com/blog/series/introduction-to-erlang
+Distributed Life. Vasileios Trigonakis' Technology Blog. Introduction to Erlang post series.
+* erlang
+* learning
+* articles
+* examples
+
 
 # Koa
 
@@ -3154,6 +3168,46 @@ NASM Tutorial
 * assembler
 * tutorial
 * NASM
+
+http://www.wasm.ru
+WASM – это загадочная аббревиатура, уже долгое время волнующая лучшие умы человечества. Русско-язычный ресурс о программировании на разных диалектах языка программирования Assembler.
+* assembler
+* tutorials
+* notes
+* blog
+
+https://ru.wikipedia.org/wiki/NASM
+NASM (Netwide Assembler) — свободный (LGPL и лицензия BSD) ассемблер для архитектуры Intel x86. Используется для написания 16-, 32- и 64-разрядных программ.
+* NASM
+* wiki
+
+https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C#_
+Ассемблер в Linux для программистов C. Материал из Викиучебника — открытых книг для открытого мира
+* assembler
+* book
+* wiki
+
+http://archkomp.narod.ru
+Целью данного курса является изучение основ внутреннего устройства и функционирования персонального компьютера (ПК). Курс разработан для студентов педагогического университета (ЗабГГПУ) - будущих учителей информатики.
+* assembler
+* tutorials
+* book
+* online
+
+http://asmworld.ru
+Asmworld - Программирование на ассемблере для начинающих и не только.
+* assembler
+* blog
+* tutorials
+
+http://www.stolyarov.info/books/asm_unix
+Программирование на языке ассемблера NASM для ОС Unix
+* nasm
+* book
+* pdf
+* tutorials
+* learning
+
 
 # HTML CSS JS Framework
 
