@@ -2741,6 +2741,21 @@ The package manager for the Erlang ecosystem
 * packages
 * manager
 
+https://habrahabr.ru/post/195542
+Erlang для самых маленьких. Глава 1: Типы данных, переменные, списки и кортежи.
+* erlang
+* habrahabr
+* beginner
+* articles
+
+### Framework
+
+http://chicagoboss.org
+Erlang web MVC, now featuring Comet.
+* erlang
+* framework
+* web
+
 
 # Koa
 
