@@ -2735,6 +2735,12 @@ Distributed Life. Vasileios Trigonakis' Technology Blog. Introduction to Erlang 
 * articles
 * examples
 
+https://hex.pm
+The package manager for the Erlang ecosystem
+* erlang
+* packages
+* manager
+
 
 # Koa
 
