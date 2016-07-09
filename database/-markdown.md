@@ -1468,6 +1468,12 @@ Freely available programming books
 * books
 * programming
 
+http://ebooks.programmersheaven.com
+Free Programming Ebooks
+* books
+* programming
+* programmersheaven
+
 
 # Useful help tools
 
