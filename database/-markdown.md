@@ -1462,6 +1462,12 @@ Learn X in Y minutes. Take a whirlwind tour of your next favorite language. Comm
 * speed learn
 * more language
 
+https://github.com/vhf/free-programming-books
+Freely available programming books
+* free
+* books
+* programming
+
 
 # Useful help tools
 
