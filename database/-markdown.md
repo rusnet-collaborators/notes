@@ -1665,6 +1665,32 @@ Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Gri
 * grid
 * design
 
+http://paletton.com
+Color Schema generator
+* color
+* schema
+* generator
+
+http://www.degraeve.com/color-palette
+Color Palette Generator
+* color
+* schema
+* palette
+* generator
+
+https://color.adobe.com/ru/create/color-wheel
+Color Schema generator
+* color
+* schema
+* generator
+
+http://colorscheme.ru
+Инструмент для подбора цветов и генерации цветовых схем
+* color
+* schema
+* palette
+* generator
+
 
 # Wiki
 
