@@ -1671,6 +1671,32 @@ Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Gri
 * grid
 * design
 
+http://paletton.com
+Color Schema generator
+* color
+* schema
+* generator
+
+http://www.degraeve.com/color-palette
+Color Palette Generator
+* color
+* schema
+* palette
+* generator
+
+https://color.adobe.com/ru/create/color-wheel
+Color Schema generator
+* color
+* schema
+* generator
+
+http://colorscheme.ru
+Инструмент для подбора цветов и генерации цветовых схем
+* color
+* schema
+* palette
+* generator
+
 
 # Wiki
 
@@ -2911,6 +2937,13 @@ http://ohaskell.dshevchenko.biz/ru
 * doc
 * online
 
+### Cheatsheet
+
+http://cheatsheet.codeslower.com/CheatSheet.pdf
+Haskell Cheat Sheet
+* haskell
+* cheatsheet
+
 ### some packages
 
 http://xmonad.org
@@ -3922,3 +3955,24 @@ Pragmatic PerlRSS subscription. Журнал о современном Perl на
 * perl
 * pragmatic
 * журнал
+
+
+# ALSA
+
+https://wiki.gentoo.org/wiki/ALSA
+This article describes the setup of a sound card with ALSA (Advanced Linux Sound Architecture).
+* alsa
+* article
+* gentoo
+
+http://ubuntuforums.org/showthread.php?t=783222
+Thread: HOWTO: (ALSA) Stereo music and 5.1 surround on 5.1 speakers
+* alsa
+* howto
+* thread
+
+http://alsa.opensrc.org
+This is a Markdown conversion of the old MediaWiki
+* alsa
+* wiki
+* markdown
