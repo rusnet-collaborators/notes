@@ -288,6 +288,24 @@ Cross-db ORM for NodeJS! Multi-database ORM: redis, mongodb, mysql, sqlite, post
 * orm
 * nodejs
 
+### testing
+
+http://chaijs.com
+Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+* chai
+* bdd
+* tdd
+* library
+
+### packed source
+
+http://webpack.github.io
+webpack, the production unbiased flexible extensible open source module bundler.
+* webpack
+* production
+* source
+* module
+
 ### blogs
 
 http://howtonode.org
@@ -2314,6 +2332,15 @@ http://tylerneylon.com
 * blog
 * list articles
 * articles
+
+http://callmenick.com
+Call Me Nick - Front End Development Advenutures, Experiments, Tutorials, & Musings
+* front
+* development
+* experiments
+* blog
+* articles
+* example
 
 ### может это и не блог, но тоже полезно
 
