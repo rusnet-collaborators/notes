@@ -4024,4 +4024,15 @@ Elixir is a modern functional language built on top of the Erlang VM. It’s ful
 * learnxinyminutes
 * cheatsheet
 
+https://github.com/itsgreggreg/elixir_quick_reference
+Quick reference for the Elixir programming language and standard library.
+* elixir
+* quick reference
+* programming
+* speed
 
+https://media.pragprog.com/titles/elixir/ElixirCheat.pdf
+cheat sheet elixir-lang.org v1.2 Updated 1/4/2016
+* elixir
+* cheat sheet
+* elixir
