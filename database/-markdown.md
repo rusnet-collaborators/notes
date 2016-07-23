@@ -4008,3 +4008,20 @@ This is a Markdown conversion of the old MediaWiki
 * alsa
 * wiki
 * markdown
+
+
+# Elixir
+
+http://elixir-lang.org
+Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
+* elixir
+* language
+* erlang
+
+https://learnxinyminutes.com/docs/elixir
+Elixir is a modern functional language built on top of the Erlang VM. It’s fully compatible with Erlang, but features a more standard syntax and many more features.
+* elixir
+* learnxinyminutes
+* cheatsheet
+
+
