@@ -4056,3 +4056,29 @@ Phoenix is a web development framework written in Elixir which implements the se
 * mvc
 * development
 * web
+
+# AutoDoc Generators
+
+### coffeescript
+
+http://jashkenas.github.io/docco
+Literate Programming can be Quick and Dirty.
+* coffeescript
+* markdown
+* doc
+* auto
+* generator
+
+https://github.com/coffeedoc/codo
+CoffeeScript API documentation generator. It's like YARD but for CoffeeScript!
+* coffeescript
+* doc
+* auto
+* generator
+
+http://croquiscom.github.io/crojsdoc
+CroJSDoc is a documentation generator for JavaScript and CoffeeScript. This works best with CoffeeScript.
+* coffeescript
+* doc
+* auto
+* generator
