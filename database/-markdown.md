@@ -1502,6 +1502,11 @@ stackoverflow Documentation, beta
 * stackoverflow
 * documentation
 
+http://wiki.colobridge.net
+БАЗА ЗНАНИЙ WIKI colobridge
+* colobridge
+* wiki
+
 
 # Useful help tools
 
