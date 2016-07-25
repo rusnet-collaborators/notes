@@ -4082,3 +4082,6 @@ CroJSDoc is a documentation generator for JavaScript and CoffeeScript. This work
 * doc
 * auto
 * generator
+
+
+# Logger
