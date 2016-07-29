@@ -1519,6 +1519,12 @@ http://wiki.colobridge.net
 * colobridge
 * wiki
 
+http://hostciti.net/support
+Техподдержка HostCITI. Много полезных примеров.
+* hosting
+* examples
+* cookbook
+
 
 # Useful help tools
 
