@@ -196,6 +196,13 @@ Search for node packages on the npm registry.
 * search
 * packages
 
+http://nodeframework.com
+Node Framework. Hand-picked registry of Node.js frameworks.
+* nodejs
+* frameworks
+* library
+* online
+
 ### cheatsheet
 
 http://browsenpm.org/help
@@ -653,6 +660,11 @@ CoffeeScript Cookbook. Welcome to the CoffeeScript Cookbook!
 * coffeescript
 * cookbook
 * guide
+
+http://www.coffeescriptlove.com
+A fan blog dedicated to the "little language that compiles into JavaScript"
+* coffeescript
+* blog
 
 http://www.coffeescriptlove.com/2012/08/coffeescript-and-jquery.html
 CoffeeScript and jQuery. The CoffeeScript project page is overflowing with great examples of the little language used in a clean, uncluttered, academic context.
