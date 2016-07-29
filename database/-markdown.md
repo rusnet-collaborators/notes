@@ -1859,6 +1859,14 @@ A Great Vim Cheat Sheet
 * vim
 * cheatsheet
 
+https://www.vi-improved.org
+vim on freenode
+* vim
+* freenode
+* irc
+* blog
+
+
 ### awesome plugins
 
 https://github.com/Valloric/YouCompleteMe
