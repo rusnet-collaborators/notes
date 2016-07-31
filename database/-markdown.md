@@ -4120,3 +4120,12 @@ PgTune - Tuning PostgreSQL config by your hardware. Based on original pgtune.
 * pgsql
 * tune
 * postgresql
+
+
+# FFmpeg
+
+https://trac.ffmpeg.org/wiki
+Welcome to the FFmpeg Bug Tracker and Wiki. This Wiki is intended for all kinds of FFmpeg and multimedia related information. Everyone is welcome to add to, edit and improve it!
+* ffmpeg
+* wiki
+* multimedia
