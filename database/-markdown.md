@@ -1525,6 +1525,13 @@ http://hostciti.net/support
 * examples
 * cookbook
 
+http://www.pincer.io
+Pincer - Best Node.js Modules
+* pincer
+* node.js
+* modules
+* collection
+
 
 # Useful help tools
 
@@ -4108,6 +4115,19 @@ CroJSDoc is a documentation generator for JavaScript and CoffeeScript. This work
 * doc
 * auto
 * generator
+
+http://apidocjs.com
+APIDOC. Inline Documentation for RESTful web APIs. apiDoc creates a documentation from API annotations in your source code.
+* doc
+* api
+* javascript
+* ruby
+* coffeescript
+* elixir
+* erlang
+* python
+* java
+* php
 
 
 # Logger
