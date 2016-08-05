@@ -398,6 +398,12 @@ This is a wiki for the ongoing specification work of Ecma TC39, the technical co
 https://people.mozilla.org/~jorendorff/es6-draft.html
 This is not the official ECMAScript Language Specification. This is a draft of the next edition of the standard.
 
+http://www.slideshare.net/moldovaictsummit2016/ss-61624327
+Парадигмы программирования и шаблоны проектирования
+* javascript
+* slideshare
+* patterns
+
 
 # Gulp
 
