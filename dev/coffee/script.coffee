@@ -55,7 +55,7 @@ class Rusnet
         $(menu).append li
         return
     return
-        
+
   @add_target_link = ->
     items = $('#notes_wrap p a')
     for i in items
@@ -241,8 +241,8 @@ class Rusnet
           settings.images.count = length
           settings.images.index = get_random 0, length - 1
           img = data.images[ settings.images.index ]
-          $('img').attr 'src', ["/img/", img].join("")
-          $('img').removeClass 'hide'
+          $('img[role="top banner"]').attr 'src', ["/img/", img].join("")
+          $('img[role="top banner"]').removeClass 'hide'
 
       error: (err) ->
         return
