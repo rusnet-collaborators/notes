@@ -1538,6 +1538,12 @@ Pincer - Best Node.js Modules
 * modules
 * collection
 
+http://langref.org
+Welcome to langref.org. This is a repository of some standard programming situations you might encounter and their solutions in a variety of languages. There are currently 2049 solutions to 698 problems in 16 languages.
+* langref
+* education
+* programming
+
 
 # Useful help tools
 
@@ -2012,6 +2018,13 @@ CSS with superpowers :) Sass is the most mature, stable, and powerful profession
 * mixin
 * powerful
 * scss
+
+http://www.sassmeister.com
+SassMeister is a playground for Sass, Compass, and LibSass. Add some Sass and SassMeister will show you the rendered CSS. SassMeister supports both Sass and SCSS syntaxes, all output styles, and an ever-expanding list of Sass libraries.
+* sass
+* css
+* scss
+* compass
 
 http://lesscss.org
 Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themable and extendable.
