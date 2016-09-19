@@ -939,6 +939,12 @@ CodeMonk is an online platform to learn and teach programming in an interactive,
 * interactive
 * learning
 
+http://rubycode.ru
+Ruby code высокоуровневый язык программирования на русском предназначенный для удобного и быстрого объектно-ориентированного программирования.
+* ruby
+* rubycode
+* learning
+
 http://iwanttolearnruby.com
 Collection of Ruby tutorials, excercises, puzzles, screencasts, blogs, podcasts, conference recordings, and other resources to help you learn Ruby.
 * collection
@@ -1543,6 +1549,11 @@ Welcome to langref.org. This is a repository of some standard programming situat
 * langref
 * education
 * programming
+
+http://qps.ru
+Сокращатель ссылок c очень простым API
+* short
+* url
 
 
 # Useful help tools
