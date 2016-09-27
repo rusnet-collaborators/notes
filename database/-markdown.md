@@ -724,6 +724,21 @@ CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
 * coffeescript
 * json
 * cson
+* github
+
+https://github.com/polarmobile/coffeescript-style-guide
+Best-practices and coding conventions for the CoffeeScript programming language
+* coffeescript
+* style
+* code
+* best-practices
+* github
+
+https://github.com/spencereldred/CoffeeScript
+CoffeeScript Lesson
+* coffeescript
+* lesson
+* github
 
 ### cheatsheet
 
@@ -1717,6 +1732,13 @@ http://www.transliter.ru
 https://dpaste.de
 dpaste.de is powered by dpaste, which is open source.
 * paste
+
+https://duck.mail.ru
+Утка приходит на помощь. Кто поможет найти баги в коде? Конечно же, жёлто-резиновый гений!
+* duck
+* mail.ru
+* help
+* auto
 
 
 # Тренировки и развитие
@@ -3312,6 +3334,11 @@ http://alexott.net/ru/clojure/clojure-intro
 
 
 # Rust
+
+https://habrahabr.ru/post/273561
+Добро пожаловать на русскоязычный сайт для разработчиков на Rust
+* rust
+* habrahabr
 
 ### beginner
 
