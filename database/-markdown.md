@@ -878,8 +878,19 @@ Rails Girls Guides. Это руководство было создано для
 * rails
 * guide
 
+https://github.com/morsbox/rusrails
+Ruby on Rails по-русски http://rusrails.ru
+* rubyonrails
+* ruby
+* russian
+
 https://www.ruby-lang.org/ru
 Этот сайт с гордостью поддерживается членами сообщества Ruby.
+* ruby
+* rails
+* docs
+* examples
+* links
 
 http://rusrails.ru
 На этом сайте выложены переводы официального руководства по Rails. Надеемся, эти руководства позволят вам немедленно приступить к использованию Rails и помогут разобраться, что и как в нем работает.
@@ -2447,6 +2458,15 @@ Call Me Nick - Front End Development Advenutures, Experiments, Tutorials, & Musi
 http://urbanautomaton.com
 Some not-particularly exciting things I wrote, usually about whatever it was I happened to be working on at the time.
 * blog
+
+http://commandercoriander.net
+Commander Coriander
+* blog
+* commander
+* fast
+* examples
+* ruby
+* rails
 
 ### может это и не блог, но тоже полезно
 
