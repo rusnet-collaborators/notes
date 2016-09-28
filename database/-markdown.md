@@ -1570,6 +1570,13 @@ http://qps.ru
 * short
 * url
 
+http://www.freepik.com
+Graphic resources for everyone. Find Free Vectors, PSD, Icons and photos
+* freepik
+* graphics
+* resources
+* everyone
+
 
 # Useful help tools
 
