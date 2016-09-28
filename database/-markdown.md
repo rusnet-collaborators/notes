@@ -2437,6 +2437,10 @@ Call Me Nick - Front End Development Advenutures, Experiments, Tutorials, & Musi
 * articles
 * example
 
+http://urbanautomaton.com
+Some not-particularly exciting things I wrote, usually about whatever it was I happened to be working on at the time.
+* blog
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
