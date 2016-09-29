@@ -938,6 +938,28 @@ Screencasts for intermediate Ruby on Rails developers.
 * rails
 * screencast
 
+http://nashbridges.me
+Ruby и точка. Статьи, посвященные разработке на языке программирования Ruby.
+* ruby
+* learning
+* blog
+
+https://github.com/appleios/ruby_teach/wiki
+Welcome to the Ruby wiki! Here I'm going to share lessons.
+* ruby
+* learning
+* examples
+* wiki
+* russian
+
+http://pleac.sourceforge.net/pleac_ruby
+PLEAC-Ruby. Ruby language examples.
+* ruby
+* learning
+* examples
+* articles
+* materials
+
 https://richonrails.com
 Welcome to RichOnRails. We strive to provide the best Ruby on Rails Tutorials on the internet.
 * ruby
@@ -1216,6 +1238,15 @@ Python2 vs Python3: различия синтаксиса
 * article
 
 
+# Django
+
+https://djangosnippets.org
+Welcome to Djangosnippets.org, a site for users of the Django web framework to come together and share useful "snippets" of reusable code.
+* django
+* djangosnippets
+* examples
+
+
 # Useful help resources
 
 http://character-code.com
@@ -1439,6 +1470,7 @@ http://lzone.de
 Great Cheat Sheets Collection
 * cheatsheet
 * collection
+* links
 
 http://devdocs.io
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
@@ -1587,6 +1619,14 @@ Graphic resources for everyone. Find Free Vectors, PSD, Icons and photos
 * graphics
 * resources
 * everyone
+
+http://hasbrains.org
+hasBrains. Научись программировать. Работай из любой точки мира.
+* programming
+* learning
+* video
+* tutorial
+* examples
 
 
 # Useful help tools
@@ -1757,6 +1797,15 @@ https://duck.mail.ru
 * mail.ru
 * help
 * auto
+
+https://coreos.com/etcd
+etcd is a distributed key value store that provides a reliable way to store data across a cluster of machines. It’s open-source and available on GitHub. etcd gracefully handles leader elections during network partitions and will tolerate machine failure, including the leader.
+* etcd
+* settings
+* key
+* value
+* store
+* database
 
 
 # Тренировки и развитие
