@@ -3209,7 +3209,13 @@ YAML Tutorial. Many years ago I wrote a tutorial on using YAML in ruby. It still
 
 # NES Cover & Chiptune & Demoscene & other
 
-не может человек творить без вдохновения
+http://www.vgmaps.com/Atlas
+VGMaps.com is an archive of video game maps up since May 6, 2002.
+* nes
+* gameboy
+* sega
+* other platform
+* maps
 
 ### youtube
 
