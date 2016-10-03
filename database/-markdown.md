@@ -1807,6 +1807,12 @@ etcd is a distributed key value store that provides a reliable way to store data
 * store
 * database
 
+http://online-video-cutter.com
+Обрезка видео онлайн и многое другое
+* online
+* video
+* cutter
+
 
 # Тренировки и развитие
 
