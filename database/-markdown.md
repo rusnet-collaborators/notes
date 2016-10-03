@@ -4308,3 +4308,12 @@ Guide to Windows Batch Scripting
 * batch
 * scripting
 * guide
+
+
+# Mast Have
+
+http://floating-point-gui.de
+What Every Programmer Should Know About Floating-Point Arithmetic.
+* float number
+* should know
+* floating-point
