@@ -363,6 +363,13 @@ jQuery Rain plugins
 * jquery
 * collection
 
+https://github.com/dorey/JavaScript-Equality-Table
+JavaScript equality comparison is a crazy thing, sometimes. When in doubt, use three equals signs.
+* javascript
+* comparison
+* table
+* github
+
 
 # ECMAScript
 
@@ -1228,6 +1235,13 @@ Kivy - Open source Python library for rapid development of applications that mak
 * application
 * touch
 
+https://github.com/channelcat/sanic
+Python 3.5+ web server that's written to go fast
+* python
+* web
+* server
+* fast
+
 ### ---
 
 http://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html
@@ -1628,6 +1642,12 @@ hasBrains. Научись программировать. Работай из л
 * tutorial
 * examples
 
+http://hyperpolyglot.org
+Hyperpolyglot. Programming Languages. commonly used features in a side-by-side format
+* programming
+* languages
+* side-by-side
+
 
 # Useful help tools
 
@@ -1872,6 +1892,12 @@ http://colorscheme.ru
 * schema
 * palette
 * generator
+
+http://www.graphviz.org/doc/info/colors.html
+Color Names. The X11 color scheme.
+* colors
+* codes
+* hex
 
 
 # Wiki
@@ -2612,6 +2638,16 @@ HTML: The Markup Language (an HTML language reference)
 * html5
 * markup
 * reference
+
+### framework
+
+https://framework7.io
+Framework7 Full Featured HTML Framework For Building iOS & Android Apps
+* framework
+* html
+* ios
+* android
+* apps
 
 
 # CSS
