@@ -1,29 +1,34 @@
-<div>
-<div id='Rambler-counter'>
-<!-- Внимание! В этом div'е не нельзя размещать пользовательский контент: он будет затерт! -->
-<noscript>
-<a href="http://top100.rambler.ru/navi/4443195/">
-  <img src="http://counter.rambler.ru/top100.cnt?4443195" alt="Rambler's Top100" border="0" />
-</a>
-</noscript>
-</div>
+<!-- Top100 (Kraken) Widget -->
+<div id="top100_widget"></div>
+<!-- END Top100 (Kraken) Widget -->
 
-<!-- Код скрипта должен быть размещен строго ниже контейнера для логотипа (div c id='Rambler-counter') -->
-<script type="text/javascript">
-var _top100q = _top100q || [];
-_top100q.push(['setAccount', '4443195']);
-_top100q.push(['trackPageviewByLogo', document.getElementById('Rambler-counter')]);
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 4443195,
+            element: 'top100_widget'
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
 
-(function(){
-  var pa = document.createElement("script"); 
-  pa.type = "text/javascript"; 
-  pa.async = true;
-  pa.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js";
-  var sr = document.getElementsByTagName("script")[0]; 
-  sr.parentNode.insertBefore(pa, sr);
-})();
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
 </script>
-</div>
+<noscript><img src="//counter.rambler.ru/top100.cnt?pid=4443195"></noscript> <!-- END Top100 (Kraken) Counter -->
 
 <div>
 <!-- Yandex.Metrika informer -->
