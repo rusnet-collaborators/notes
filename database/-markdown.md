@@ -4353,3 +4353,43 @@ What Every Programmer Should Know About Floating-Point Arithmetic.
 * float number
 * should know
 * floating-point
+
+
+# Testing of language skills
+
+http://www.mypythonquiz.com
+My Python Quiz. The ultimate place for testing what you have learned.
+* python
+* testing
+
+https://tests4geeks.com
+Tests4Geeks is the service for IT skills assessment
+* testing
+* platform
+
+https://www.brainbench.com
+Brainbench has been the best way to measure, improve, and promote your skills through certifications
+* brainbench
+* measure
+* improve
+* promote
+* skills
+* certifications
+
+https://www.testdome.com
+Automated testing of programming skills
+* testing
+* programming
+* skills
+
+http://www.quizful.net
+Проект Quizful предназначен для онлайн-тестирования специалистов в сфере информационных технологий. Quizful является community-driven сервисом и развивается во многом благодаря усилиям сообщества ИТ-специалистов.
+* testing
+* programming
+* skills
+* quizful
+
+https://alexbers.com/python_quiz
+Do you know Python?
+* python
+* testing
