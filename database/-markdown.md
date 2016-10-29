@@ -2414,6 +2414,10 @@ http://eax.me
 Записки программиста. Блог о программировании, операционных системах, СУБД, девайсах, сетях, алгоритмах и пр.
 * blog
 
+https://letsclearitup.com.ua
+Let'sclearITup. Давайте разберемся!
+* blog
+
 http://maksd.info
 За 10 лет работы в IT индустрии мне довелось поработать с множеством разнообразных платформ и технологий. В настоящий момент в круг моих обязанностей и интересов в основном входит разработка веб-приложений на Rails, back-end сервисов на Ruby и мобильных приложений для платформы iOS в свободное время.
 * blog
@@ -3121,6 +3125,13 @@ ttclcheck - Typed Tcl Checker
 * ttclcheck
 * tcl
 * checker
+
+http://core.tcl.tk/jenglish/gutter/browse.html
+Tcl Extensions - by Category
+* tcl
+* extensions
+* category
+* list
 
 ### examples
 
@@ -4393,3 +4404,25 @@ https://alexbers.com/python_quiz
 Do you know Python?
 * python
 * testing
+
+# Orm
+
+http://ohm.keyvalue.org
+Ohm. Object-hash mapping library for Redis.
+* rails
+* ruby
+* orm
+* key
+* value
+
+# HighLoad & HighAvailable
+
+http://galeracluster.com
+Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth
+* galera
+* cluster
+* mysql
+* mariadb
+* high
+* load
+* available
