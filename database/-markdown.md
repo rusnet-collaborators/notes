@@ -1145,6 +1145,14 @@ http://rubyjobs.ru
 * ruby
 * jobs
 
+### blogs
+
+http://codebeerstartups.com
+Proudly published with Jekyll
+* rails
+* blog
+* articles
+
 
 # Python
 
