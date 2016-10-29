@@ -2081,6 +2081,15 @@ Interested in learning Git? Well you've come to the right place! "Learn Git Bran
 * learn
 
 
+# Fossil
+
+https://fossil-scm.org
+Fossil is a simple, high-reliability, distributed software configuration management system with these advanced features
+* fossil
+* scm
+* high-reliability
+
+
 # Алгоритмы
 
 ### поиск текста
