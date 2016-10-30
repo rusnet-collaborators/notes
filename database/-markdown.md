@@ -4422,6 +4422,7 @@ Do you know Python?
 * python
 * testing
 
+
 # Orm
 
 http://ohm.keyvalue.org
@@ -4431,6 +4432,7 @@ Ohm. Object-hash mapping library for Redis.
 * orm
 * key
 * value
+
 
 # HighLoad & HighAvailable
 
@@ -4443,3 +4445,12 @@ Galera Cluster for MySQL is an easy-to-use high-availability solution with high 
 * high
 * load
 * available
+
+
+# Article Must Have
+
+http://ru.smalltalk.wikia.com/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E_%D1%81_%D0%90%D0%BB%D0%B0%D0%BD%D0%BE%D0%BC_%D0%9A%D0%B5%D0%B5%D0%BC_%282004%29
+Интервью с Аланом Кеем (2004)
+* article
+* must have
+* reading
