@@ -1024,6 +1024,19 @@ Ruby is not only optimized for developer happiness, but also for writing one-lin
 * learning
 * tutorials
 
+http://rails-sqli.org
+Rails SQL Injection
+* rails 3
+* rails 4
+* sql
+* injection
+
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3
+10 Ruby on Rails Best Practices
+* rails
+* ruby
+* best practices
+
 ### advanced
 
 http://learnrubythehardway.org/book
@@ -3104,6 +3117,21 @@ http://tclstudy.narod.ru/tcl
 * doc
 * lessons
 
+http://www.magicsplat.com
+Welcome, gentle programmer. This is a site (mostly) about programming in Tcl.
+* open source
+* tutorials
+* blog
+* articles
+* book
+* faq
+
+http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html
+Tcl Tutorial
+* tcl
+* tutorial
+* articles
+
 ### libs, framework
 
 http://tanzer.io
@@ -3149,6 +3177,21 @@ Tcl Extensions - by Category
 * extensions
 * category
 * list
+
+https://github.com/mroll/orm
+Tcl Object Relational Management
+* tcl
+* sql
+* base
+* orm
+* package
+
+http://wiki.tcl.tk/36805
+WebSocket Client Library
+* tcl
+* websocket
+* rfc 6455
+* package
 
 ### examples
 
@@ -4445,7 +4488,12 @@ Galera Cluster for MySQL is an easy-to-use high-availability solution with high 
 * high
 * load
 * available
-
+http://wiki.tcl.tk/36805
+WebSocket Client Library
+* tcl
+* websocket
+* rfc 6455
+* package
 
 # Article Must Have
 
