@@ -3836,6 +3836,54 @@ ORM in Lua
 * orm
 * lua
 
+### framework
+
+http://sailorproject.org
+Sailor - A Lua MVC web framework
+* sailor
+* lua
+* mvc
+* framework
+* web
+
+http://leafo.net/lapis
+Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty.
+* lapis
+* lua
+* framework
+* web
+
+http://keplerproject.github.io/orbit
+Orbit. MVC for Lua Web Development
+* orbit
+* lua
+* framework
+* web
+
+https://luvit.io
+Luvit 2.0 - Node.JS for the Lua Inventor. Lua + libUV + jIT = pure awesomesauce.
+* luvit
+* lua
+* framework
+* web
+* async
+* libUV
+
+http://luapress.org
+Luapress. Luapress is a simple and fast static site/blog generator.
+* lua
+* static
+* site
+* generator
+* web
+
+http://www.turbolua.org
+Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications
+* turbolua
+* lua
+* framework
+* web
+
 
 # AWK
 
