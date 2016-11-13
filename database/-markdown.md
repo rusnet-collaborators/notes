@@ -3132,6 +3132,14 @@ Tcl Tutorial
 * tutorial
 * articles
 
+http://www.siftsoft.com/tcl/index.html
+TCL-related stuff: texts in Russian
+* tcl
+* russian
+* doc
+* description
+* A. Kovalenko
+
 ### libs, framework
 
 http://tanzer.io
