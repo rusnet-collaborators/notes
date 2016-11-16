@@ -1854,6 +1854,20 @@ http://online-video-cutter.com
 * video
 * cutter
 
+https://wiki.gnome.org/Projects/Tracker
+Tracker is a search engine, search tool and metadata storage system
+* tracker
+* search
+* engine
+* full text
+
+http://www.lesbonscomptes.com/recoll
+Recoll is a desktop full-text search tool
+* recoll
+* search
+* engine
+* full text
+
 
 # Тренировки и развитие
 
