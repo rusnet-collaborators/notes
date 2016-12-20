@@ -4295,6 +4295,14 @@ Linux tutorials and cheatsheets. Minimal examples. Mostly user-land.
 * cheatsheets
 
 
+# Make & Makefile
+
+http://mrbook.org/blog/tutorials/make
+Makefiles. A tutorial by example.
+* makefiles
+* tutorial
+
+
 # Flash
 
 http://help.adobe.com/ru_RU/FlashPlatform/reference/actionscript/3/index.html
