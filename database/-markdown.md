@@ -370,6 +370,15 @@ JavaScript equality comparison is a crazy thing, sometimes. When in doubt, use t
 * table
 * github
 
+### tools
+
+https://github.com/google/closure-compiler
+A JavaScript checker and optimizer
+* clojure
+* javascript
+* optimizer
+* java
+
 
 # ECMAScript
 
@@ -1933,6 +1942,22 @@ Color Names. The X11 color scheme.
 * colors
 * codes
 * hex
+
+http://pasteboard.co
+Pasteboard is a quick and simple image sharing web app driven and developed by me, Joel Besada
+* paste
+* board
+* image
+* simple
+* sharing
+
+http://picpaste.com
+With PicPaste you can upload your pictures quick and easy and show them to your friends
+* paste
+* board
+* image
+* simple
+* sharing
 
 
 # Wiki
