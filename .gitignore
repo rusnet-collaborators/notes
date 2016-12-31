@@ -45,3 +45,4 @@ tags
 /dev/-markdown.html
 .tags
 /prod
+*.dot
