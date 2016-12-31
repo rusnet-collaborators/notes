@@ -1112,6 +1112,16 @@ test-unit is a xUnit family unit testing framework for Ruby.
 * unit-test
 * gem
 
+### monk framework
+
+https://github.com/monkrb/monk
+Monk, the glue framework for web development
+* ruby
+* monk
+* framework
+* web
+* development
+
 ### useful help tools
 
 http://rubular.com
@@ -4174,6 +4184,14 @@ The Little Redis Book is a free book introducing Redis.
 * book
 * free
 
+http://www.slideshare.net/autonomous/redis-resque-friends
+Redis, Resque & Friends
+* redis
+* resque
+* friends
+* slides
+* docs
+
 ### tools
 
 http://redisdesktop.com
@@ -4587,6 +4605,14 @@ Ohm. Object-hash mapping library for Redis.
 * key
 * value
 
+http://www.slideshare.net/autonomous/ohm-7111744
+Object-hash mapping library for Redis
+* object
+* hash
+* mapping
+* library
+* redis
+
 
 # HighLoad & HighAvailable
 
@@ -4599,12 +4625,7 @@ Galera Cluster for MySQL is an easy-to-use high-availability solution with high 
 * high
 * load
 * available
-http://wiki.tcl.tk/36805
-WebSocket Client Library
-* tcl
-* websocket
-* rfc 6455
-* package
+
 
 # Article Must Have
 
