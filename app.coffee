@@ -1,13 +1,11 @@
 express = require 'express'
 path    = require 'path'
-logger  = require 'morgan'
 app     = express()
 debug   = require('debug')('app:server')
 http    = require 'http'
 
 app.set 'views', path.join __dirname, 'views'
 app.set 'view engine', 'ejs'
-app.use logger 'dev'
 app.use express.static path.join __dirname, 'prod'
 
 app.use (req, res, next) ->
