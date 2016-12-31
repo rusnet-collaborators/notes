@@ -5,7 +5,6 @@ gulp         = require 'gulp'
 gulpsync     = $.sync gulp
 path         = require 'path'
 htmlincluder = require 'gulp-htmlincluder'
-mdtojson     = require 'gulp-markdown-to-json'
 
 gulp.task 'clean', ->
   del config.prod_path, force: true
@@ -19,7 +18,6 @@ gulp.task 'gen_js_live', ->
   gulp.src path.join config.dev_path_coffee, '*.coffee'
     .pipe $.coffee bare: true
     .pipe gulp.dest config.prod_path_js
-    .pipe $.livereload()
 
 gulp.task 'gen_css', ->
   gulp.src path.join config.dev_path_sass, '*.sass'
@@ -58,7 +56,6 @@ gulp.task 'gen_css_live', ->
       ]
       cascade: true
     .pipe gulp.dest config.prod_path_css
-    .pipe $.livereload()
 
 gulp.task 'gen_markdown', ->
   gulp.src path.join config.database_path, '*.md'
@@ -74,13 +71,6 @@ gulp.task 'gen_html', ->
 gulp.task 'gen_html_live', ->
   gulp.src path.join config.dev_path, '*.html'
     .pipe htmlincluder()
-    .pipe gulp.dest config.prod_path
-    .pipe $.livereload()
-  return
-
-gulp.task 'gen_json', ->
-  gulp.src path.join config.database_path, '*.md'
-    .pipe mdtojson()
     .pipe gulp.dest config.prod_path
   return
 
@@ -119,12 +109,8 @@ gulp.task 'html', gulpsync.sync [
 gulp.task 'deploy', [], $.shell.task [ 'surge ' + config.prod_path ]
 
 gulp.task 'watcher', ->
-  $.livereload.listen port: process.env.LL or 35729
   gulp.watch path.join(config.dev_path_coffee, '*.coffee'), ['gen_js_live']
   gulp.watch path.join(config.dev_path_sass, '*.sass'), ['gen_css_live']
   gulp.watch path.join(config.dev_path, '*.html'), ['gen_html_live']
   return
 
-gulp.task 'json', gulpsync.sync [
-  'gen_json'
-]
