@@ -4640,3 +4640,12 @@ http://ru.smalltalk.wikia.com/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1
 * article
 * must have
 * reading
+
+# Monitoring system
+
+http://grafana.org
+Grafana it's beautiful metric & analytic dashboards
+* grafana
+* metrics
+* analytics
+* dashboards
