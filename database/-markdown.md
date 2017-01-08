@@ -3205,6 +3205,12 @@ tänzer: The lovable web server framework for Tcl!
 * web server
 * framework
 
+http://wiki.tcl.tk/2090
+NaviServer is a programmable web server written in C and Tcl. It offers many features for building custom web sites. The implementation is high performance, but the interface is easy to use, at both the C and Tcl level.
+* naviserver
+* tcl
+* web server
+
 https://github.com/tclssg/tclssg
 A static site generator with template support written in Tcl.
 * tcl
