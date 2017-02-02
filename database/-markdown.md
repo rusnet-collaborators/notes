@@ -4297,6 +4297,18 @@ Learn R and data analysis in the comfort of your browser with video lessons and 
 * analysis
 * R
 
+http://lectoriy.mipt.ru
+Видеолекции и открытые. Образовательные материалы Физтеха.
+* courses
+* videos
+* collection
+
+https://www.youtube.com/user/TPMGTU
+Технострим Mail.Ru Group
+* youtube
+* tech
+* courses
+
 
 # Linux
 
