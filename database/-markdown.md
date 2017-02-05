@@ -4612,6 +4612,12 @@ Do you know Python?
 * python
 * testing
 
+https://www.shortcutfoo.com
+Choose shortcuts to practice. shortcutFoo was created by programmers for programmers in an attempt to make learning your editor fun, easy, and effective.
+* learning
+* testing
+* interactive
+
 
 # Orm
 
