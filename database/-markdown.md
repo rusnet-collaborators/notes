@@ -2640,6 +2640,15 @@ Commander Coriander
 * ruby
 * rails
 
+http://bigbinary.com
+BigBinary - интересный ресурс, присутствуют записи, статьи, видео, книги
+* bigbinary
+* resource
+* articles
+* videos
+* blog
+* books
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
