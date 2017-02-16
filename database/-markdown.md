@@ -3916,6 +3916,31 @@ ORM in Lua
 * orm
 * lua
 
+http://sheepolution.com
+sheepolution
+* love
+* lua
+* games
+* learn
+* blog
+* press
+* tutorials
+
+https://simplegametutorials.github.io/
+Tutorials for making simple games with LÖVE
+* love
+* tutorials
+* simple
+* tutorials
+* making
+
+https://love2d.org/wiki/Category:Tutorials
+Love2d Category:Tutorials
+* love
+* tutorials
+* learn
+* wiki
+
 ### framework
 
 http://sailorproject.org
