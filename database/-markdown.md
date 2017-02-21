@@ -1291,6 +1291,30 @@ Python2 vs Python3: различия синтаксиса
 * different
 * article
 
+https://habrahabr.ru/post/84235
+Материалы продвинутого уровня по Питону
+* python
+* habrahabr
+* article
+
+https://habrahabr.ru/post/85238
+Python: советы, уловки, хаки (часть 1)
+* python
+* habrahabr
+* article
+
+https://habrahabr.ru/post/85459
+Python Tips, Tricks, and Hacks (часть 2)
+* python
+* habrahabr
+* article
+
+https://pythonz.net
+Про Python
+* python
+* resources
+* collections
+
 
 # Django
 
