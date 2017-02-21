@@ -35,7 +35,7 @@
     "gulp-htmlincluder": "git+https://github.com/sagax/_gulp-htmlincluder.git",
     "gulp-load-plugins": "1.4.0",
     "gulp-markdown":     "1.2.0",
-    "gulp-sass":         "3.0.0",
+    "gulp-sass":         "3.1.0",
     "gulp-shell":        "0.5.2",
     "gulp-sync":         "0.1.4",
     "gulp-util":         "3.0.8",
