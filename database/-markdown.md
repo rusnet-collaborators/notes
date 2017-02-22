@@ -1046,6 +1046,13 @@ https://www.sitepoint.com/10-ruby-on-rails-best-practices-3
 * ruby
 * best practices
 
+https://www.driftingruby.com
+Drifting Ruby. Drifting Ruby site and episodes. While there is currently no commitment on the frequency of new episodes, I'll try to create a new episode every week.
+* ruby
+* episodes
+* articles
+* learning
+
 ### advanced
 
 http://learnrubythehardway.org/book
