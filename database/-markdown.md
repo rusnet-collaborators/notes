@@ -203,6 +203,13 @@ Node Framework. Hand-picked registry of Node.js frameworks.
 * library
 * online
 
+http://jstherightway.org
+JavaScript. The Right Way.
+* javascript
+* right
+* collection
+* resource
+
 ### cheatsheet
 
 http://browsenpm.org/help
@@ -1727,6 +1734,14 @@ Fonts4Web.ru Русские шрифты в комплектации TTF + WOFF 
 * woff
 * eot
 
+http://sysadminwiki.ru
+СисадминВики - записная книжка сисадмина, программиста, вебмастера и т.п. Здесь собираются решения проблем, полезные ссылки, описывается настройка ПО - в общем всё, что может быть полезным при работе с/на/в компьютере и сети.
+* sysadminwiki
+* wiki
+* system administration
+* collection
+* articles
+
 
 # Useful help tools
 
@@ -2769,6 +2784,16 @@ HTML: The Markup Language (an HTML language reference)
 * html5
 * markup
 * reference
+
+https://dirtymarkup.com
+DirtyMarkup - Tidy up your HTML, CSS, and JavaScript code
+* html
+* dirty
+* markup
+* tidy
+* css
+* javascript
+* code
 
 ### framework
 
