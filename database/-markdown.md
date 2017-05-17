@@ -386,6 +386,10 @@ A JavaScript checker and optimizer
 * optimizer
 * java
 
+### graphics library and framework
+
+
+
 
 # ECMAScript
 
@@ -3328,6 +3332,24 @@ WebSocket Client Library
 * websocket
 * rfc 6455
 * package
+
+### JSON
+
+https://wiki.tcl-lang.org/21116
+Huddle provides a generic Tcl-based serialization/intermediary format. Currently, each node is wrapped in a tag with simple type information. Huddle object can contain both dicts and list with mixed.
+* tcl
+* json
+* yaml
+* serialization
+* yaml
+
+https://wiki.tcl-lang.org/13419
+JSON библиотеки и материалы о JSON в tcl
+* tcl
+* json
+* libraries
+* serialization
+* articles
 
 ### examples
 
