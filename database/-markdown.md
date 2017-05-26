@@ -4272,6 +4272,12 @@ RFC 1459 — Протокол ретранслируемого интернет-
 
 # NoSQL
 
+http://nosql-database.org
+NoSQL DEFINITION: Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.
+* nosql
+* collections
+* database
+
 ### Redis
 
 http://redis.io
