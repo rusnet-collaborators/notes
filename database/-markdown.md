@@ -388,7 +388,44 @@ A JavaScript checker and optimizer
 
 ### graphics library and framework
 
+http://paperjs.org
+Paper.js — The Swiss Army Knife of Vector Graphics Scripting.
+* paper.js
+* graphics
+* vector
+* framework
 
+http://fabricjs.com
+Fabric.js is a powerful and simple Javascript HTML5 canvas library
+* fabricjs
+* html5
+* library
+* graphics
+
+https://konvajs.github.io
+Konva.js - 2d html5 canvas library for desktop and mobile applications
+* konvajs
+* html5
+* 2d
+* library
+* graphics
+
+https://p5js.org
+p5.js is a JavaScript library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners, and reinterprets this for today's web.
+* p5js
+* library
+* coding
+* 2d
+* graphics
+
+http://svgjs.com
+The lightweight library for manipulating and animating SVG
+* svgjs
+* svg
+* library
+* 2d
+* graphics
+* library
 
 
 # ECMAScript
