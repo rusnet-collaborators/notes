@@ -4315,6 +4315,16 @@ NoSQL DEFINITION: Next Generation Databases mostly addressing some of the points
 * collections
 * database
 
+http://www.datomic.com
+Datomic. The fully transactional, cloud-ready, distributed database.
+* datomic
+* transactional
+* cloud-ready
+* distributed
+* database
+* nosql
+* guarantees
+
 ### Redis
 
 http://redis.io
