@@ -46,3 +46,4 @@ tags
 .tags
 /prod
 *.dot
+/docs
