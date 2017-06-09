@@ -1,3 +1,9 @@
+# # script.coffee
+
+# # Method - get_random
+# @param min
+# @param max
+#
 get_random = (min, max) ->
   min = min or 0
   max = max or 0
@@ -89,6 +95,7 @@ class Rusnet
 
   @wrap_content = ->
     items = $('#notes_wrap h1')
+    items = [].slice.call( document.querySelectorAll('#notes_wrap h1') )
     for i in items
       do (i) ->
         div = document.createElement 'div'
@@ -106,43 +113,65 @@ class Rusnet
     return
 
   @research_engine = ->
-    rowsing = (_count_row, _order, _hash, _string, cb) ->
-      array = _string.split("")
+    # # Method - rowsing
+    # @param length_row
+    # @param type_order
+    # @param name
+    #
+    # Example if we input "markdown" and type_order will be 3 then length_row must be 6. Then we will get:
+    # - database["3"]["markdown"]['list'].push "mar"
+    # - database["3"]["markdown"]['list'].push "ark"
+    # - database["3"]["markdown"]['list'].push "rkd"
+    # - database["3"]["markdown"]['list'].push "kdo"
+    # - ...
+    #
+    rowsing = (length_row, type_order, name) ->
+      array = name.split("")
 
-      [0..._count_row].forEach (index) ->
+      [0...length_row].forEach (index) ->
         index_1 = 0 + index
-        index_2 = _order + index
+        index_2 = type_order + index
         row = array.slice(index_1, index_2).join("")
-        database[_order + ""][_hash]['list'].push row
-        database[_order + "g"].push row
-        return
-
-      if cb
-        cb()
-      return
-
-    scan = (_string, _el) ->
-      length = _string.length
-      [1..length].forEach (order) ->
-        count_row = length - (order - 1)
-
-        database[order + ""] = database[order + ""] or {}
-        database[order + "g"] = database[order + "g"] or []
-        database[order + ""][_string] = database[order + ""][_string] or {}
-        database[order + ""][_string]['list'] = database[order + ""][_string]['list'] or []
-        database[order + ""][_string]['el'] = database[order + ""][_string]['el'] or _el
-        database['elements'] = database['elements'] or []
-        if database['elements'].indexOf(_el) is -1
-          database['elements'].push _el
-
-        rowsing count_row, order, _string, _string
+        database[type_order + ""][name]['list'].push row
+        database[type_order + "g"].push row
         return
       return
 
-    headers = window.headers = $('#notes_wrap h1.custom-h1-block').get()
-    headers.forEach (el) ->
-      text = $(el).text().trim().toLowerCase()
-      scan text, el
+    # # Method - scan
+    # @param name
+    # @param el
+    #
+    # Example if we input "markdown" then we will get
+    # - database["1"]["markdown"]
+    # - database["2"]["markdown"]
+    # - database["3"]["markdown"]
+    # - ...
+    # - database["8"]["markdown"]
+    #
+    scan = (name, el) ->
+      length = name.length
+      [1..length].forEach (type_order) ->
+        length_row = length - (type_order - 1)
+
+        database[type_order + ""]  = database[type_order + ""] or {}
+        database[type_order + "g"] = database[type_order + "g"] or []
+
+        database[type_order + ""][name]         = database[type_order + ""][name]         or {}
+        database[type_order + ""][name]['list'] = database[type_order + ""][name]['list'] or []
+        database[type_order + ""][name]['el']   = database[type_order + ""][name]['el']   or el
+
+        if database['elements'].indexOf(el) < 0 then database['elements'].push el
+
+        rowsing length_row, type_order, name
+        return
+      return
+
+    # Find all **H1** tags. Get **text** and **html**. Send **text** and **html** to method **scan**.
+    #
+    headers_h1 = [].slice.call( document.querySelectorAll('#notes_wrap h1.custom-h1-block') )
+    headers_h1.forEach (head) ->
+      text = head.textContent.trim().toLowerCase()
+      scan text, head
       return
     return
 
@@ -257,6 +286,7 @@ $ ->
       list: []
 
   database = window.database = {}
+  database['elements'] = []
 
   Rusnet.init_view()
   Rusnet.add_target_link()
