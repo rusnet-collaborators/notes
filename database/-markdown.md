@@ -1839,12 +1839,6 @@ RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / Re
 * online
 * tool
 
-http://subtlepatterns.com
-There has always been great resources available online for designers and developers, and I’ve been using these myself since I started making websites some twelve years ago – that’s the fantastic thing about the web community.
-* background
-* image
-* pattern
-
 http://vue.tufts.edu
 The Visual Understanding Environment (VUE) is an Open Source project based at Tufts University. The VUE project is focused on creating flexible tools for managing and integrating digital resources in support of teaching, learning and research. VUE provides a flexible visual environment for structuring, presenting, and sharing digital information.
 * vue
@@ -1996,12 +1990,6 @@ Project Euler is a series of challenging mathematical/computer programming probl
 * practices
 * mathematical
 
-https://duck.mail.ru
-Утка приходит на помощь.
-* duck
-* help
-* mail.ru
-
 http://loader.io
 Loader.io is a FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
 * loader
@@ -2015,38 +2003,6 @@ Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Gri
 * responsive
 * grid
 * design
-
-http://paletton.com
-Color Schema generator
-* color
-* schema
-* generator
-
-http://www.degraeve.com/color-palette
-Color Palette Generator
-* color
-* schema
-* palette
-* generator
-
-https://color.adobe.com/ru/create/color-wheel
-Color Schema generator
-* color
-* schema
-* generator
-
-http://colorscheme.ru
-Инструмент для подбора цветов и генерации цветовых схем
-* color
-* schema
-* palette
-* generator
-
-http://www.graphviz.org/doc/info/colors.html
-Color Names. The X11 color scheme.
-* colors
-* codes
-* hex
 
 http://pasteboard.co
 Pasteboard is a quick and simple image sharing web app driven and developed by me, Joel Besada
@@ -4527,6 +4483,59 @@ Color-hex gives information about colors including color models (RGB,HSL,HSV and
 * hex
 * rgb
 
+http://www.graphviz.org/doc/info/colors.html
+Color Names. The X11 color scheme.
+* colors
+* codes
+* hex
+
+http://colorscheme.ru
+Инструмент для подбора цветов и генерации цветовых схем
+* color
+* schema
+* palette
+* generator
+
+https://color.adobe.com/ru/create/color-wheel
+Color Schema generator
+* color
+* schema
+* generator
+
+http://www.degraeve.com/color-palette
+Color Palette Generator
+* color
+* schema
+* palette
+* generator
+
+http://paletton.com
+Color Schema generator
+* color
+* schema
+* generator
+
+http://htmlcolorcodes.com/color-names
+We built HTML Color Codes because we believe tools for design should be well designed themselves.
+* color
+* codes
+* tool
+* design
+
+http://www.heropatterns.com
+Hello! I’m Steve Schoger, a UI designer and illustrator from Kitchener, Ontario. I draw and maintain Hero Patterns. Hero Patterns will always be updating and will always be free.
+* colors
+* UI
+* design
+* draw
+* pattern
+
+http://subtlepatterns.com
+There has always been great resources available online for designers and developers, and I’ve been using these myself since I started making websites some twelve years ago – that’s the fantastic thing about the web community.
+* background
+* image
+* pattern
+
 
 # Operating system
 
@@ -4832,3 +4841,22 @@ Grafana it's beautiful metric & analytic dashboards
 * metrics
 * analytics
 * dashboards
+
+
+# Helpers
+
+https://duck.mail.ru
+Утка приходит на помощь.
+* duck
+* help
+* mail.ru
+
+
+# DNS hosting
+
+https://zonomi.com
+Zonomi is a RimuHosting Ltd business.
+* zonomi
+* dns
+* hosting
+* api
