@@ -2701,6 +2701,15 @@ BigBinary - интересный ресурс, присутствуют запи
 * blog
 * books
 
+http://www.norbauer.com/rails-consulting/code/blog_archive.html
+norbauer - Blog Archive: Code
+* blog
+* codes
+* examples
+* notes
+* recommendations
+* articles
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
@@ -3927,6 +3936,13 @@ Learn Lua in 15 Minutes
 * speed learning
 * run
 
+https://learnxinyminutes.com/docs/ru-ru/lua-ru
+Изучите X за Y минут, где X=Lua
+* lua
+* learning
+* speed
+* docs
+
 ### Blogs
 
 https://ilovelua.wordpress.com
@@ -4869,3 +4885,85 @@ Zonomi is a RimuHosting Ltd business.
 * dns
 * hosting
 * api
+
+
+# Mailing
+
+https://vamsoft.com/support/tools
+SPF Syntax Validator | SPF Policy Tester | Geo Blacklist | External Agents | Offline Tools | Spam Statistics
+* mailing
+* validator
+* tester
+* tools
+* blacklist
+* spam
+* spf
+
+https://250ok.com/tools
+Blacklist Checker | SPF Analyzer | DMARC Wizard | CIDR to IP Range | IP Range to CIDR | DNS Lookup
+* mailing
+* validator
+* tester
+* tools
+* blacklist
+* spf
+* dmarc
+* CIDR
+* dns
+
+http://www.dnsqueries.com
+Domain Health Check | Ip Neighbors | Check IP on RBLs | Reverse DNS lookup | Perform DNS query | Dns Traversal | Get ip geo location | Server banner check | RegExp Tester | Encrypter | IPv4 converter | Http Headers | Ping tool | Traceroute utility | Googlebot Simulator | Check your SMTP server | Http Gzip Test | Keyword Density Analyzer | Whois Lookup | Live port scanner | Mx Lookup
+* mailing
+* validator
+* tester
+* tools
+* ip
+* domain
+* dns
+* RBL
+* MX
+* http
+* ping
+* googlebot
+* whois
+
+https://technet.microsoft.com/ru-ru/library/mt695945(v=exchg.150).aspx
+Проверка исходящей электронной почты, отправляемой с личного домена в Office 365, с помощью DKIM
+* mailing
+* microsoft
+* рекомендации
+
+https://serverfault.com/questions/115161/fixing-my-mtas-poor-reputation
+Fixing My MTA's Poor Reputation
+* serverfault
+* mailing
+* рекомендации
+
+https://mxtoolbox.com/NetworkTools.aspx
+DNS Lookup for MX records | Check IP or host | DNS Lookup for IP address | Test mail server SMTP (25) | DNS reverse lookup | Domain lookup | Check your DNS Servers | Sender Policy Framework | Domain Keys Identified Mail | DMARC Lookup | Open Ports | DNS Lookup for IPv6 | DNS Lookup Service Record | DNSKEY Lookup | CERT Lookup | DNS Lookup for Location | IPSECKEY Lookup | Domain Health Report | IP and location | ASN Lookup | DNSSEC Signature | NSEC Lookup | DS Lookup | NSEC3PARAM | IP Address Blocks | DNS Lookup Canonical | DNS Lookup Text Record | DNS Start of Authority | Port status (ip:port) | Website query (http://) | Website query (https://) | ICMP - Echo Request | ICMP - Traceroute | 
+* mailing
+* validator
+* tester
+* tools
+* dns
+* ip
+* http
+* mail server
+* check
+* lookup
+* smtp
+* spf
+* ptr
+* dkim
+* dmarc
+
+http://www.dnsinspect.com
+DNS Inspect. A free web tool which checks your domain's servers for common DNS and mail errors and generates a report with explanations how to fix them.
+* dns
+* inspect
+* tools
+* health
+* domain
+* server
+* mail server
+* check
