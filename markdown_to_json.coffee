@@ -53,7 +53,7 @@ findItem = (rows, index, item) ->
     item.links.push link
     findItem rows, index, item
 
-  else if /^#\s\w/.test(row)
+  else if /^#\s[A-Za-zА-Яа-я0-9]/.test(row)
     JSONSTRING.push item
     index -= 1
     findHead rows, index
@@ -70,7 +70,7 @@ findHead = (rows, index) ->
   index += 1
   row = rows[index]
 
-  if /^#\s\w/.test(row)
+  if /^#\s[A-Za-zА-Яа-я0-9]/.test(row)
     item = {}
     item.name = row.replace(/^#\s/, '')
     item.links = []
