@@ -2710,6 +2710,27 @@ norbauer - Blog Archive: Code
 * recommendations
 * articles
 
+http://qualcode.ru
+qualcode.ru - Сайт о программировании
+* blog
+* codes
+* notes
+* articles
+
+http://blog.jetfix.ru
+Блог о создании вебсайтов, продвижении и инструментах
+* blog
+* codes
+* notes
+* articles
+
+http://alenacpp.blogspot.ru
+Алёна C++. программирование для прагматиков.
+* alena
+* alenacpp
+* c++
+* blog
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
@@ -4967,3 +4988,38 @@ DNS Inspect. A free web tool which checks your domain's servers for common DNS a
 * server
 * mail server
 * check
+
+# Racket
+
+http://beautifulracket.com
+Beautiful Racket by Matthew Butterick
+* racket
+* Matthew Butterick
+
+
+# Relational database management systems
+
+https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
+* relational
+* database
+* management
+* system
+* table
+* comparison
+
+https://en.wikipedia.org/wiki/Comparison_of_object_database_management_systems
+Comparison of object database management systems
+* comparison
+* object
+* database
+* management
+* system
+
+http://www.sql-workbench.net/dbms_comparison.html
+SQL Feature Comparison
+* sql
+* features
+* comparison
+* table
+
+
