@@ -4654,6 +4654,16 @@ Pragmatic PerlRSS subscription. Журнал о современном Perl на
 * pragmatic
 * журнал
 
+http://www.cpan.org
+The Comprehensive Perl Archive Network (CPAN)
+* cpan
+* perl
+* archive
+* network
+* modules
+* finding
+* searching
+
 
 # ALSA
 
