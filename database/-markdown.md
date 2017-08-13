@@ -3490,6 +3490,55 @@ In addition to the resources available at golang.org there are a range of commun
 * go
 * learning
 
+https://github.com/dariubs/GoBooks
+List of Golang books
+* go
+* programming
+* books
+* collection
+* learning
+
+http://golang-book.ru
+Введение в программирование на Go. Калеб Докси.
+* go
+* programming
+* learning
+* book
+
+https://4gophers.ru
+4gophers
+* blog
+* examples
+* articles
+* go
+
+http://golanglibs.com
+go libs collection
+* go
+* collection
+* libs
+* library
+
+https://vk.com/golang
+Go, который язык программирования. Различные ссылки
+* go
+* links
+* collection
+* resources
+
+https://dave.cheney.net
+Dave Cheney. The acme of foolishness
+* go
+* blog
+* articles
+
+https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
+JustForFunc: Programming in Go
+* go
+* youtube
+* learning
+* video
+
 
 # YAML
 
