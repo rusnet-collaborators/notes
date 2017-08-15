@@ -1,3 +1,4 @@
+<% if(env === 'production') { ver=hash_gen(30); } else { ver="development"; } %>
 <meta charset="UTF-8">
 <meta http-equiv="content-type"  content="text/html; charset=utf-8" />
 <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate" />
@@ -6,7 +7,7 @@
 <meta name="viewport"            content="width=device-width, initial-scale=1">
 <title>rusnet#notes</title>
 <link rel="stylesheet" href="/css/bootstrap.css?ver=100">
-<link rel="stylesheet" href="/css/style.css?ver=120">
+<link rel="stylesheet" href="/css/style.css?ver=<%= ver %>">
 
 <link rel="apple-touch-icon" sizes="57x57"        href="/favicon/apple-icon-57x57.png?ver=100">
 <link rel="apple-touch-icon" sizes="60x60"        href="/favicon/apple-icon-60x60.png?ver=100">
