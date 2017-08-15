@@ -4376,6 +4376,24 @@ Datomic. The fully transactional, cloud-ready, distributed database.
 * nosql
 * guarantees
 
+http://ssdb.io
+SSDB. A high performance NoSQL database supporting many data structures, an alternative to Redis.
+* nosql
+* ssdb
+* high
+* performance
+* database
+* data
+* alternative
+
+http://ledisdb.com
+LedisDB. A high performance NoSQL like Redis powered by Go.
+* ledisdb
+* high
+* performance
+* nosql
+* go
+
 ### Redis
 
 http://redis.io
@@ -5080,5 +5098,16 @@ SQL Feature Comparison
 * features
 * comparison
 * table
+
+
+# FP - functional programming languages are not major
+
+http://www.purescript.org
+Purescript. A strongly-typed functional programming language that compiles to JavaScript.
+* purescript
+* javascript
+* strongly-typed
+* functional
+* programming
 
 
