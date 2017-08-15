@@ -295,3 +295,4 @@ $ ->
   Rusnet.research_engine()
   Rusnet.set_img()
   Rusnet.bind()
+  return
