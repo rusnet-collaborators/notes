@@ -5,7 +5,7 @@ fs   = require 'fs'
 util = require 'util'
 
 OBJECT     = {}
-JSONSTRING = []
+JSONSTRING = {}
 TAGS       = []
 STATS      = {}
 STATS.tags =
@@ -17,7 +17,7 @@ STATS.part =
 
 showJson = ->
   OBJECT.items = JSONSTRING
-  OBJECT.tags = TAGS
+  OBJECT.tags = TAGS.sort()
   OBJECT.stats = STATS
   console.log JSON.stringify(OBJECT)
   return
@@ -49,7 +49,7 @@ findDesc = (rows, index, desc) ->
 
 findItem = (rows, index, item) ->
   if index + 1 >= rows.length
-    JSONSTRING.push item
+    JSONSTRING[item.name] = item
     STATS.links.count += 1
     findHead rows, index
     return
@@ -75,7 +75,7 @@ findItem = (rows, index, item) ->
     findItem rows, index, item
 
   else if /^#\s[A-Za-zА-Яа-я0-9]/.test(row)
-    JSONSTRING.push item
+    JSONSTRING[item.name] = item
     STATS.part.count += 1
     index -= 1
     findHead rows, index
