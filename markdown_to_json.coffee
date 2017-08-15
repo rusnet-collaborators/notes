@@ -1,10 +1,25 @@
-fs = require 'fs'
+md_file_path = process.argv[2]
+if md_file_path is undefined then process.exit(0)
+
+fs   = require 'fs'
 util = require 'util'
 
+OBJECT     = {}
 JSONSTRING = []
+TAGS       = []
+STATS      = {}
+STATS.tags =
+  count: 0
+STATS.links =
+  count: 0
+STATS.part =
+  count: 0
 
 showJson = ->
-  console.log JSON.stringify(JSONSTRING)
+  OBJECT.items = JSONSTRING
+  OBJECT.tags = TAGS
+  OBJECT.stats = STATS
+  console.log JSON.stringify(OBJECT)
   return
 
 findTag = (rows, index, tag) ->
@@ -12,6 +27,10 @@ findTag = (rows, index, tag) ->
   row = rows[index]
   if /^\*\s/.test(row)
     tag_name = row.replace /^\*\s/, ""
+    if TAGS.indexOf(tag_name) is -1
+      TAGS.push(tag_name)
+      STATS.tags.count += 1
+
     tag.push tag_name
     findTag rows, index, tag
 
@@ -31,6 +50,7 @@ findDesc = (rows, index, desc) ->
 findItem = (rows, index, item) ->
   if index + 1 >= rows.length
     JSONSTRING.push item
+    STATS.links.count += 1
     findHead rows, index
     return
 
@@ -51,10 +71,12 @@ findItem = (rows, index, item) ->
     index = tags.index
 
     item.links.push link
+    STATS.links.count += 1
     findItem rows, index, item
 
   else if /^#\s[A-Za-zА-Яа-я0-9]/.test(row)
     JSONSTRING.push item
+    STATS.part.count += 1
     index -= 1
     findHead rows, index
 
@@ -82,6 +104,6 @@ startFind = (content) ->
   findHead rows, -1
   return
 
-fs.readFile 'copy.md', 'utf8', (err, content) ->
+fs.readFile md_file_path, 'utf8', (err, content) ->
   startFind content
   return
