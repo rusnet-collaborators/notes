@@ -562,6 +562,48 @@ Sails makes it easy to build custom, enterprise-grade Node.js apps. It is design
 * apps
 * ruby on rails
 
+https://habrahabr.ru/post/218151
+Sails.js: первые шаги
+* sails.js
+* quick
+* start
+* habrahabr
+
+https://habrahabr.ru/post/228253
+Особенности использования SailsJS для начинающих (Часть 1)
+* sails.js
+* quick
+* start
+* habrahabr
+
+https://habrahabr.ru/post/228419
+Особенности использования Sails для начинающих (Часть 2)
+* sails.js
+* quick
+* start
+* habrahabr
+
+https://habrahabr.ru/post/224195
+Написание простого блога на SailsJS: наглядная практика для начинающих (Часть 1)
+* sails.js
+* quick
+* start
+* habrahabr
+
+https://habrahabr.ru/post/224403
+Написание простого блога на SailsJS: наглядная практика для начинающих (Часть 2)
+* sails.js
+* quick
+* start
+* habrahabr
+
+http://iantonov.me/page/sailsjs-frejmvork-dlja-lenivyh-primer-prostogo-bag-trekera-na-sailsjs
+Sails.js – фреймворк для ленивых. Пример простого баг трекера на sails.js
+* sails.js
+* quick
+* start
+* blog
+
 
 # AngularJS
 
@@ -1249,6 +1291,136 @@ http://pythonworld.ru
 Python 3 для начинающих
 * python
 * beginner
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_01/index.html
+Тонкости использования языка Python: Часть 1. Версии и совместимость
+* python
+* ibm
+* version
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_02/index.html
+Тонкости использования языка Python: Часть 2. Типы данных
+* python
+* ibm
+* type
+* variables
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_03/index.html
+Тонкости использования языка Python: Часть 3. Функциональное программирование
+* python
+* ibm
+* functional
+* programming
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_04/index.html
+Тонкости использования языка Python: Часть 4. Параллельное исполнение
+* python
+* ibm
+* parallel
+* running
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_05/index.html
+Тонкости использования языка Python: Часть 5. Мульти-платформенные многопоточные приложения
+* python
+* ibm
+* multi-platform
+* multi-threads
+* app
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_06/index.html
+Тонкости использования языка Python: Часть 6. Способы интеграции Python и С/С++ приложений
+* python
+* ibm
+* integration
+* c
+* c++
+* app
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_07/index.html
+Тонкости использования языка Python: Часть 7. Особенности взаимодействия с C++. Пакет distutils, библиотека Boost.Python, проект Cython
+* python
+* ibm
+* distutils
+* boost
+* cython
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_08/index.html
+Тонкости использования языка Python: Часть 8. Особенности взаимодействия с C++. Проект SWIG и обратная интеграция Python в С/C++ приложения
+* python
+* ibm
+* swig
+* reverse
+* integration
+* c
+* c++
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_09/index.html
+Тонкости использования языка Python: Часть 9. Разработка GUI-приложений
+* python
+* ibm
+* gui
+* app
+
+https://www.ibm.com/developerworks/ru/library/l-python_details_10/index.html
+Тонкости использования языка Python: Часть 10. 2D Графика и GUI-сценарии
+* python
+* ibm
+* 2D
+* gui
+* scenario
+
+https://habrahabr.ru/post/85238
+Python: советы, уловки, хаки (часть 1)
+* python
+* habrahabr
+* tips
+* tricks
+* hacks
+
+https://habrahabr.ru/post/85459
+Python Tips, Tricks, and Hacks (часть 2)
+* python
+* habrahabr
+* tips
+* tricks
+* hacks
+
+https://habrahabr.ru/post/86706
+Python Tips, Tricks, and Hacks (часть 3)
+* python
+* habrahabr
+* tips
+* tricks
+* hacks
+
+https://habrahabr.ru/post/95721
+Python Tips, Tricks, and Hacks (часть 4, заключительная)
+* python
+* habrahabr
+* tips
+* tricks
+* hacks
+
+https://habrahabr.ru/post/207988
+Python: вещи, которых вы могли не знать
+* python
+* habrahabr
+* tips
+* tricks
+* hacks
+
+https://habrahabr.ru/post/88972
+Code Like a Pythonista: Idiomatic Python (part0)
+* python
+* habrahabr
+* idiomatic
+
+https://habrahabr.ru/post/89735
+Code Like a Pythonista: Idiomatic Python (part1)
+* python
+* habrahabr
+* idiomatic
+
 
 ### advanced
 
@@ -2725,6 +2897,11 @@ http://alenacpp.blogspot.ru
 * c++
 * blog
 
+http://ninjaside.info
+ninjaside блог
+* blog
+* Alex Istinspring
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
@@ -3391,6 +3568,13 @@ http://patorjk.com/pk/quizzes/tcl-tk-basics
 Tcl/Tk Basics By patorjk
 * tcl
 * test
+
+### some articles
+http://wiki.tcl.tk/19707
+BraceStarBrace
+* tcl
+* bracestarbrace
+* astericks
 
 
 # Haskell
@@ -5105,3 +5289,23 @@ Purescript. A strongly-typed functional programming language that compiles to Ja
 * programming
 
 
+# Postgresql
+
+http://www.postgresqltutorial.com
+PostgreSQL Tutorial. Welcome to the PostgreSQLTutorial.com website! This PostgreSQL tutorial helps you understand PostgreSQL quickly.
+* postgresql
+* tutorials
+
+https://www.tutorialspoint.com/postgresql/index.htm
+PostgreSQL Tutorial
+* postgresql
+* tutorials
+
+
+# Screen::Linux
+
+http://www.pixelbeat.org/lkdb/screen.html
+screen is a much under utilised program
+* screen
+* linux
+* program
