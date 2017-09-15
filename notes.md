@@ -2326,6 +2326,58 @@ vim on freenode
 * irc
 * blog
 
+http://andrewscala.com/vimscript
+Andrew Scala. Five Minute Vimscript.
+* vim
+* script
+* learning
+
+https://github.com/uhub/awesome-viml
+A curated list of awesome VimL frameworks, libraries and software.
+* vim
+* list
+* learning
+* viml
+
+https://www.ibm.com/developerworks/library/l-vim-script-1/index.html
+Scripting the Vim editor, Part 1. Variables, values, and expressions. Start with the basic elements of Vimscript
+* vim
+* scripting
+* learning
+* ibm
+* part 1
+
+https://www.ibm.com/developerworks/library/l-vim-script-2/index.html
+Scripting the Vim editor, Part 2. User-defined functions. Create the fundamental building blocks of automation
+* vim
+* scripting
+* learning
+* ibm
+* part 2
+
+https://www.ibm.com/developerworks/library/l-vim-script-3/index.html
+Scripting the Vim editor, Part 3. Built-in lists. Explore Vimscript's support for lists and arrays
+* vim
+* scripting
+* learning
+* ibm
+* part 3
+
+https://www.ibm.com/developerworks/library/l-vim-script-4/index.html
+Scripting the Vim editor, Part 4. Dictionaries. Learn when to use dictionaries for cleaner, faster code
+* vim
+* scripting
+* learning
+* ibm
+* part 4
+
+https://www.ibm.com/developerworks/library/l-vim-script-5/index.html
+Scripting the Vim editor, Part 5. Event-driven scripting and automation. Automate your workflow with Vim’s autocommands
+* vim
+* scripting
+* learning
+* ibm
+* part 5
 
 ### awesome plugins
 
