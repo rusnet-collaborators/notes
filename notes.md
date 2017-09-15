@@ -1551,6 +1551,13 @@ Welcome to Djangosnippets.org, a site for users of the Django web framework to c
 * djangosnippets
 * examples
 
+https://habrahabr.ru/company/it-grad/blog/270589
+Подборка бесплатных инструментов для разработчиков
+* habrahabr
+* list
+* free
+* awesome
+
 
 # Useful help resources
 
@@ -2901,6 +2908,57 @@ http://ninjaside.info
 ninjaside блог
 * blog
 * Alex Istinspring
+
+http://mkechinov.ru/blog.html
+Блог студии. Студия Михаила Кечинова.
+* blog
+* студия
+
+http://www.jakobbeyer.de
+Jakob Beyers Blog
+* blog
+* articles
+
+http://67-207-138-145.slicehost.net
+Meet the Rail Spikes
+* blog
+* articles
+
+https://makandracards.com/makandra
+makandra cards used to be our in-house knowledge base where developers shared HOWTOs with each other
+* blog
+* articles
+* cards
+* knowledge
+* base
+
+https://blog.codeship.com
+Codeship blog
+* blog
+* articles
+
+http://patshaughnessy.net
+Pat Shaughnessy blogger, rubyist, aspiring author
+* blog
+* articles
+
+http://www.rubyonrails365.com
+Terminal Kung Fu - Tips and Tricks for the power developer
+* blog
+* tips
+* tricks
+* articles
+
+https://blog.carbonfive.com
+Carbon Five blog
+* blog
+* articles
+
+https://www.joinhandshake.com/engineering-blog
+Engineering blog
+* blog
+* articles
+* joinhandshake
 
 ### может это и не блог, но тоже полезно
 
@@ -5309,3 +5367,23 @@ screen is a much under utilised program
 * screen
 * linux
 * program
+
+
+# SEO
+
+http://tools.seochat.com
+Check out these free SEO tools and discover what SEO strategies are working for your site. Identify most common issues and errors like broken links and images, empty alt text, absent meta tags, etc
+* seo
+* tools
+* free
+
+https://www.sitemaps.org/ru/index.html
+Что такое Sitemaps?
+* sitemap
+* seo
+* faq
+
+https://promo.ingate.ru/seo-wikipedia
+Словарь терминов интернет-рекламы и SEO
+* seo
+* dictionary
