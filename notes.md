@@ -1282,6 +1282,14 @@ Proudly published with Jekyll
 * blog
 * articles
 
+https://infinum.co/the-capsized-eight/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup
+Top 8 tools for Ruby on Rails code optimization and cleanup
+* ruby
+* tools
+* rails
+* optimization
+* cleanup
+
 
 # Python
 
@@ -4867,6 +4875,53 @@ Linux tutorials and cheatsheets. Minimal examples. Mostly user-land.
 * linux
 * tutorials
 * cheatsheets
+
+http://uneex.ru
+О UNИX
+* unix
+* linux
+* manuals
+* documentations
+
+http://uneex.ru/static/AltDocs_unix_base_admin/index.html
+Введение в администрирование UNIX
+* unix
+* documentation
+* docs
+
+http://heap.altlinux.org/engine/HeapMain
+Сизиф-на-Куче
+* altlinux
+* engine
+* heap
+* documentations
+
+http://heap.altlinux.org/modules
+Документация от altlinux
+* altlinux
+* documentations
+* heap
+
+http://wiki.enchtex.info//howto/start
+Enchanted Technology. Станицы HOWTO.
+* technology
+* blog
+* howto
+* list
+
+https://habrahabr.ru/post/193256
+KiB, Kib, KB, Kb
+* it
+* standards
+* habrahabr
+
+https://habrahabr.ru/post/316806
+htop и многое другое на пальцах
+* it
+* habrahabr
+* htop
+* load average
+* uptime
 
 
 # Make & Makefile
