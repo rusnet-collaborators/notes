@@ -1970,6 +1970,24 @@ http://sysadminwiki.ru
 * collection
 * articles
 
+http://www.microhowto.info
+Documentation for Open Source software is often presented in the form of a HOWTO: a set of instructions that tell you how to use the product. A miniHOWTO is a shortened HOWTO that covers the main points only, and a microHOWTO is shorter still.
+* howto
+* micro
+* open source
+* software
+* mini
+* list
+
+https://danielmiessler.com
+Daniel Miessler. My name is Daniel, and I’m an information security practitioner and writer living in San Francisco, California. Most people come for my tutorials, my essays, or the podcast, but you can find some of my most popular content below.
+* danielmiessler
+* information
+* security
+* blog
+* articles
+* styde
+
 
 # Useful help tools
 
@@ -4922,6 +4940,13 @@ htop и многое другое на пальцах
 * htop
 * load average
 * uptime
+
+http://gentoo.theserverside.ru/book/index.html
+Gentoo Linux. cборник статей. Gentoo-doc TEAM.
+* gentoo
+* linux
+* articles
+* book
 
 
 # Make & Makefile
