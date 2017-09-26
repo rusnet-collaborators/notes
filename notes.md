@@ -427,6 +427,16 @@ The lightweight library for manipulating and animating SVG
 * graphics
 * library
 
+https://yarnpkg.com
+fast, reliable, and secure dependency management
+* package
+* node
+* manager
+* npm
+* alternative
+* dependency
+* secure
+
 
 # ECMAScript
 
@@ -1290,6 +1300,43 @@ Top 8 tools for Ruby on Rails code optimization and cleanup
 * optimization
 * cleanup
 
+http://www.zenspider.com/projects/rubyinline.html
+rubyinline. Inlined foreign code for ultra-fast and flexible ruby.
+* ruby
+* inline
+* C
+* fast
+
+https://habrahabr.ru/post/48928
+Ruby и C. Часть 1.
+* ruby
+* inline
+* C
+* fast
+* habrahabr
+
+https://tproger.ru/articles/ruby-self-analysis
+Средства самопознания в Ruby
+* tproger
+* ruby
+* self
+* inspection
+* analysis
+
+https://habrahabr.ru/post/227187
+Метапрограммирование в Ruby: attr_accessor
+* ruby
+* metaprogramming
+* attr_accessor
+* article
+
+https://alex.semyonov.us/2009/09/30/ruby-metaprogramming.html
+Метапрограммирование в Ruby Что такое метапрограммирование?
+* ruby
+* metaprogramming
+* blog
+* article
+
 
 # Python
 
@@ -1580,6 +1627,14 @@ http://caniuse.com
 
 http://www.mysql.ru
 Вы сможете получить ответы на интересующие вас вопросы, связанные с MySQL, настройке программного обеспечения, и другую полезную информацию.
+
+https://www.sqlteaching.com
+SQL Teaching online
+* sql
+* testing
+* online
+* browser
+* tool
 
 http://www.cheat-sheets.org
 The Manual.su's project. All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page. The only one you need.
@@ -5535,3 +5590,14 @@ https://geekflare.com/online-tool-to-analyze-seo
 * free
 * analyze
 * online
+
+
+# Jade
+
+http://aramboyajyan.github.io/online-jade-template-editor
+Enter Jade code on the left and the editor will automatically convert it to HTML on the right.
+* jade
+* converter
+* editor
+* automatically
+* jade2html
