@@ -1636,6 +1636,12 @@ SQL Teaching online
 * browser
 * tool
 
+https://gist.github.com/hofmannsven/9164408
+My simply MySQL Command Line Cheatsheet
+* sql
+* cheatsheets
+* command line
+
 http://www.cheat-sheets.org
 The Manual.su's project. All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page. The only one you need.
 * cheatsheet
