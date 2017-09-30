@@ -5619,6 +5619,28 @@ https://geekflare.com/online-tool-to-analyze-seo
 * analyze
 * online
 
+https://developers.google.com/search/tools
+Google Search Tools for Content Providers
+* google
+* developers
+* tools
+* content
+
+https://search.google.com/structured-data/testing-tool
+Проверка структурированных данных
+* google
+* developers
+* check
+* structure
+* data
+
+https://www.google.com/webmasters/tools/testing-tools-links
+Testing Tools
+* google
+* testing
+* webmaster
+* tools
+
 
 # Jade
 
