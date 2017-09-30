@@ -3733,6 +3733,13 @@ WebSocket Client Library
 * rfc 6455
 * package
 
+http://wiki.tcl.tk/540
+Is Tcl Different!
+* tcl
+* different
+* to translate
+
+
 ### JSON
 
 https://wiki.tcl-lang.org/21116
@@ -4152,6 +4159,21 @@ http://habrahabr.ru/post/173071
 http://alexott.net/ru/clojure/clojure-intro
 * clojure
 * fastrun
+
+https://www.clojure-toolbox.com
+The Clojure Toolbox. A categorised directory of libraries and tools for Clojure.
+* clojure
+* toolbox
+* libraries
+* tools
+
+https://github.com/razum2um/awesome-clojure
+Awesome Clojure
+* clojure
+* awesome
+* links
+* collections
+* libraries
 
 
 # Rust
