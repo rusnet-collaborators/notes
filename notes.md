@@ -3286,6 +3286,72 @@ Best Practices for Writing Bash Scripts
 * bash
 * scripting
 
+https://habrahabr.ru/company/ruvds/blog/325522
+Bash-скрипты: начало
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/325522
+Bash-скрипты, часть 2: циклы
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/326328
+Bash-скрипты, часть 3: параметры и ключи командной строки
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/326594
+Bash-скрипты, часть 4: ввод и вывод
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/326826
+Bash-скрипты, часть 5: сигналы, фоновые задачи, управление сценариями
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/327248
+Bash-скрипты, часть 6: функции и разработка библиотек
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/327530
+Bash-скрипты, часть 7: sed и обработка текстов
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/327754
+Bash-скрипты, часть 8: язык обработки данных awk
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/327896
+Bash-скрипты, часть 9: регулярные выражения
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/328346
+Bash-скрипты, часть 10: практические примеры
+* bash
+* scripts
+* habrahabr
+
+https://habrahabr.ru/company/ruvds/blog/328436
+Bash-скрипты, часть 11: expect и автоматизация интерактивных утилит
+* bash
+* scripts
+* habrahabr
+
 ### resources
 
 http://wiki.bash-hackers.org
@@ -3631,6 +3697,13 @@ http://www.tkdocs.com
 TkDocs. Information you need to build high-quality Tk user interfaces.
 * tcl
 * doc
+
+http://tclers.tk
+TclHttpd Home Page. The TclHttpd is a pure Tcl implementation of a Web server.
+* tcl
+* httpd
+* pure
+* server
 
 http://www.opennet.ru/docs/RUS/tcltk
 * tcl
@@ -5525,6 +5598,53 @@ DNS Inspect. A free web tool which checks your domain's servers for common DNS a
 * mail server
 * check
 
+https://www.linux.org.ru/forum/admin/12338639
+postfix, header_checks и долбаные NDR
+* postfix
+* header_checks
+* ndr
+
+http://www.postfix.org
+The Postfix Home Page
+* postfix
+* official
+
+http://adminnote2.blogspot.ru/2013/06/postfix.html
+Сохранение писем проходящих через Postfix
+* postfix
+* recipient_bcc
+* double
+
+https://www.linux.org.ru/forum/admin/3518996
+Postfix + non-delivery notification
+* postfix
+* non delivery
+* notification
+
+http://sysadmins.ru/topic454827.html
+postfix и перенаправление только NDR на другой ящик
+* postfix
+* ndr
+* non delivery
+
+http://sys.dmitrow.com/node/32
+Postfix FAQ
+* postfix
+* faq
+* list
+* settings
+
+https://dl.sm.ua/notes/postfix-bez-lokalnoy-dostavki-c-pereadresaciey-dlya-root.html
+Postfix без локальной доставки c переадресацией для root
+* postfix
+* settings
+
+https://wiki.dieg.info/postfix
+Postfix
+* postfix
+* settings
+
+
 # Racket
 
 http://beautifulracket.com
@@ -5651,3 +5771,58 @@ Enter Jade code on the left and the editor will automatically convert it to HTML
 * editor
 * automatically
 * jade2html
+
+# Kali Linux
+
+https://www.kali.org
+Our Most Advanced Penetration Testing Distribution, Ever.
+* kali
+* linux
+* penetration
+* testing
+
+https://kali.training
+The Ultimate Kali Linux Book and Manual
+* kali
+* linux
+* book
+* manual
+
+https://www.exploit-db.com
+The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers
+* exploit
+* database
+* ultimate
+* shellcode
+* security
+* papers
+
+https://www.offensive-security.com/blog
+Offensive Security blog
+* offsensive
+* security
+* blog
+
+https://habrahabr.ru/company/ruvds/blog/338338
+Kali Linux: политика безопасности, защита компьютеров и сетевых служб
+
+https://habrahabr.ru/company/ruvds/blog/338480
+Kali Linux: фильтрация трафика с помощью netfilter
+
+https://habrahabr.ru/company/ruvds/blog/338668
+Kali Linux: мониторинг и логирование
+
+https://habrahabr.ru/company/ruvds/blog/338668
+Kali Linux: упражнения по защите и мониторингу системы
+
+https://habrahabr.ru/company/ruvds/blog/339312
+Kali Linux: оценка защищённости систем
+
+# Quake & Open arena
+
+http://www.joz3d.net/html/q3console.html
+quake 3 Console Commands
+* quake
+* console
+* commands
+* list
