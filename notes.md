@@ -5818,6 +5818,7 @@ Kali Linux: упражнения по защите и мониторингу с�
 https://habrahabr.ru/company/ruvds/blog/339312
 Kali Linux: оценка защищённости систем
 
+
 # Quake & Open arena
 
 http://www.joz3d.net/html/q3console.html
@@ -5826,3 +5827,109 @@ quake 3 Console Commands
 * console
 * commands
 * list
+
+
+# Latex
+
+https://www.ibm.com/developerworks/ru/library/latex_tutorial_01/index.html
+Работа в LaTeX. Создание документа на примере подготовки курсовой работы
+* latex
+* ibm
+* tutorials
+
+https://www.ibm.com/developerworks/ru/library/latex_tutorial_02/index.html
+Работа в LaTeX. История появления и внутренняя философия LaTeX
+* latex
+* ibm
+* history
+
+https://www.ibm.com/developerworks/ru/library/latex_tutorial_03/index.html
+Работа в LaTeX. Дистрибутивы в LaTeX
+* latex
+* ibm
+* distribution
+
+https://www.ibm.com/developerworks/ru/library/latex_tutorial_04/index.html
+Работа в LaTeX. Текстовые редакторы LaTeX
+* latex
+* ibm
+* editors
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_01
+Каталог классов и стилей LaTeX. Часть 1. Каталог пакетов для набора текста
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_02
+Каталог классов и стилей LaTeX. Часть 2. Пакеты для редактирования и совместной работы над документами
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_03
+Каталог классов и стилей LaTeX. Часть 3. Путеводитель по классам LaTeX
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_04
+Каталог классов и стилей LaTeX. Часть 4. Подготовка научных публикаций
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_05
+Каталог классов и стилей LaTeX. Часть 5. Подготовка публикаций в области естественных наук и документов для учебного процесса
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_06
+Каталог классов и стилей LaTeX. Часть 6. LaTeX не для математики
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_07
+Каталог классов и стилей LaTeX. Часть 7. Работа с графическими изображениями
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_08
+Каталог классов и стилей LaTeX. Часть 8. "Плавающие" объекты и таблицы
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_09
+Каталог классов и стилей LaTeX. Часть 9. Вёрстка документов средствами LaTeX
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_10
+Каталог классов и стилей LaTeX. Часть 10. Работа со справочно-поисковым аппаратом издания
+* latex
+* ibm
+* styles
+* examples
+
+https://www.ibm.com/developerworks/ru/library/latex_styles_11
+Каталог классов и стилей LaTeX. Част11. Программирование в среде LaTeX
+* latex
+* ibm
+* styles
+* examples
+
+
