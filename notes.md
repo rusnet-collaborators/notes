@@ -5933,3 +5933,18 @@ https://www.ibm.com/developerworks/ru/library/latex_styles_11
 * examples
 
 
+# Regular Expressions
+
+http://www.regular-expressions.info
+Welcome to Regular-Expressions.info. The Premier website about Regular Expressions
+* regexp
+* regular
+* expression
+* info
+
+http://www.greenend.org.uk/rjk/tech/regexp.html
+Regexp Syntax Summary
+* regexp
+* regular
+* expression
+* table
