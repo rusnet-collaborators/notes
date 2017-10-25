@@ -62,7 +62,7 @@ If you need to convert files from one markup format into another, pandoc is your
 * all2all
 
 
-# NodeJs & Javascript
+# Javascript & Node.js
 
 ### beginner
 
@@ -376,6 +376,11 @@ JavaScript equality comparison is a crazy thing, sometimes. When in doubt, use t
 * comparison
 * table
 * github
+
+https://www.slant.co/topics/101/~best-languages-that-compile-to-javascript
+What are the best languages that compile to JavaScript? 43 Best language that compile to javascript
+* javascript
+* compile
 
 ### tools
 
@@ -1337,6 +1342,13 @@ https://alex.semyonov.us/2009/09/30/ruby-metaprogramming.html
 * blog
 * article
 
+http://railshurts.com
+RAILS HURTS. Let's fix that!
+* ruby
+* rails
+* hurts
+* quiz
+
 
 # Python
 
@@ -1596,6 +1608,30 @@ https://pythonz.net
 * python
 * resources
 * collections
+
+https://alexbers.com/python_quiz
+Do you know Python?
+* python
+* quiz
+* test
+
+https://habrahabr.ru/post/196382
+Некоторые возможности Python о которых вы возможно не знали
+* python
+* habrahabr
+
+https://jeffknupp.com/blog/2016/03/07/python-with-context-managers
+Everything I know about Python... About python context
+* python
+* blog
+* context
+
+https://ru.code-maven.com/function-or-callback-in-python
+Простая функция или функция обратного вызова (колбек) - пример для Python
+* python
+* callback
+* function
+* example
 
 
 # Django
@@ -5948,3 +5984,14 @@ Regexp Syntax Summary
 * regular
 * expression
 * table
+
+
+# Security
+
+https://www.hybrid-analysis.com
+This webpage is a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+
+https://www.virustotal.com
+Analyze suspicious files and URLs to detect types of malware including viruses, worms, and trojans.
+
+
