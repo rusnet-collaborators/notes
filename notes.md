@@ -1878,10 +1878,11 @@ Computer Hope. Computer terms, dictionary, and glossary.
 * dictionary
 * glossary
 
-http://ricostacruz.com/cheatsheets
+https://devhints.io/
 This is Cheatsheets — a collection of cheatsheets I've written.
 * cheatsheet
 * ricostacruz
+* devhints
 
 http://lzone.de
 Great Cheat Sheets Collection
