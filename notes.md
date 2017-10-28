@@ -2511,6 +2511,13 @@ A code-completion engine for Vim
 * engine
 * vim
 
+https://items.sjbach.com/97/writing-a-vim-plugin
+Writing a Vim plugin
+* vim
+* plugin
+* howto
+* learning
+
 
 # EMACS
 
@@ -4693,6 +4700,14 @@ http://www.lissyara.su/doc/programming/awk
 * speed
 * programming
 * blog
+
+http://web.archive.org/web/20160323045835/http://awk.info/?Sitemap
+Welcome to the Awk Community Portal
+* awk
+* community
+* portal
+* web
+* archive
 
 
 # ReactJS
