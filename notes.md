@@ -5531,6 +5531,14 @@ Galera Cluster for MySQL is an easy-to-use high-availability solution with high 
 * load
 * available
 
+https://ruhighload.com
+Оптимизация и масштабирование Web приложений
+* highload
+* webapp
+* high
+* load
+* nginx
+
 
 # Article Must Have
 
