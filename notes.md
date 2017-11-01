@@ -2801,14 +2801,6 @@ Metro UI. The front-end framework for developing projects on the web in Windows 
 * front-end
 * framework
 
-http://ionicframework.com
-Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps.
-* framework
-* SDK
-* ionic
-* library
-* mobile
-
 ### table native color from css
 http://www.yellowpipe.com/yis/tools/hex-to-rgb/color-converter.php
 
@@ -3243,16 +3235,6 @@ DirtyMarkup - Tidy up your HTML, CSS, and JavaScript code
 * javascript
 * code
 
-### framework
-
-https://framework7.io
-Framework7 Full Featured HTML Framework For Building iOS & Android Apps
-* framework
-* html
-* ios
-* android
-* apps
-
 
 # CSS
 
@@ -3580,28 +3562,6 @@ NVD3 Re-usable charts for d3.js. This project is an attempt to build re-usable c
 * nvd3
 * charts
 * light
-
-https://www.muicss.com
-MUI is a lightweight HTML, CSS and JS framework for sites that follow Google's Material Design guidelines.
-* mui
-* lightweight
-* html
-* css
-* js
-* framework
-
-http://materializecss.com
-Materialize. Современная, адаптивная платформа, построенная на принципе материального дизайна.
-* material design
-* framework
-* html
-* css
-* js
-* framework
-
-http://material-ui.com
-material ui. A Set of React Components that Implement Google's Material Design.
-* material design
 
 http://themes.suggelab.com
 suggelab. dynamic admin.
@@ -4367,7 +4327,7 @@ http://www.stolyarov.info/books/asm_unix
 * learning
 
 
-# HTML CSS JS Framework
+# HTML CSS JS Framework UI
 
 http://www.blueprintcss.org
 Blueprint is a CSS framework, which aims to cut down on your development time.
@@ -4423,6 +4383,86 @@ Semantic UI. User Interface is the language of the web.
 * css
 * js
 * framework
+
+https://framework7.io
+Framework7 Full Featured HTML Framework For Building iOS & Android Apps
+* framework
+* html
+* ios
+* android
+* apps
+* ui
+
+http://quasar-framework.org
+Quasar Framework. Empowering your websites and apps.
+* quasar
+* html
+* ios
+* android
+* apps
+* webapp
+* ui
+
+https://www.muicss.com
+MUI is a lightweight CSS framework that follows Google's Material Design guidelines
+* mui
+* lightweight
+* css
+* framework
+* material design
+* ui
+
+https://getuikit.com
+A lightweight and modular front-end framework. for developing fast and powerful web interfaces.
+* lightweight
+* framework
+* interfaces
+* css
+* ui
+
+http://materializecss.com
+Materialize. Современная, адаптивная платформа, построенная на принципе материального дизайна.
+* material design
+* framework
+* html
+* css
+* js
+* framework
+* ui
+
+http://material-ui.com
+material ui. A Set of React Components that Implement Google's Material Design.
+* material design
+* css
+* google
+* ui
+
+https://picturepan2.github.io/spectre/index.html
+Spectre.css. A lightweight, responsive and modern CSS framework
+* spectre
+* css
+* lightweight
+* responsive
+* modern css
+* framework
+* ui
+
+http://ink.sapo.pt
+Create responsive web interfaces quick and efficiently
+* responsive
+* web
+* interfaces
+* css
+* framework
+* ui
+
+http://ionicframework.com
+Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps.
+* framework
+* SDK
+* ionic
+* library
+* mobile
 
 
 # LUA
