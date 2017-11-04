@@ -1569,12 +1569,17 @@ Kivy - Open source Python library for rapid development of applications that mak
 * application
 * touch
 
-https://github.com/channelcat/sanic
-Python 3.5+ web server that's written to go fast
+http://sanic.readthedocs.io/en/latest
+Sanic is a Flask-like Python 3.5+ web server that’s written to go fast. It’s based on the work done by the amazing folks at magicstack, and was inspired by this article. On top of being Flask-like, Sanic supports async request handlers. This means you can use the new shiny async/await syntax from Python 3.5, making your code non-blocking and speedy.
 * python
-* web
+* flask-like
+* 3.5
 * server
-* fast
+* sanic
+* request
+* non-blocking
+* speedy
+
 
 ### ---
 
@@ -2249,15 +2254,6 @@ https://duck.mail.ru
 * mail.ru
 * help
 * auto
-
-https://coreos.com/etcd
-etcd is a distributed key value store that provides a reliable way to store data across a cluster of machines. It’s open-source and available on GitHub. etcd gracefully handles leader elections during network partitions and will tolerate machine failure, including the leader.
-* etcd
-* settings
-* key
-* value
-* store
-* database
 
 http://online-video-cutter.com
 Обрезка видео онлайн и многое другое
@@ -3168,6 +3164,13 @@ http://habrahabr.ru/post/273003
 * games
 * programming
 
+https://mgba.io
+mGBA is a new generation of Game Boy Advance emulator. The project started in April 2013 with the goal of being fast enough to run on lower end hardware than other emulators support, without sacrificing accuracy or portability. Even in the initial version, games generally played without problems. mGBA has only gotten better since then, and now boasts being the most accurate GBA emulator around.
+* mgba
+* gba
+* gameboy
+* emulators
+
 
 # Emmet
 
@@ -3465,8 +3468,8 @@ HIGHLAND. The high-level streams library for Node.js and the browser.
 * library
 * nodejs
 
-https://github.com/hakimel/reveal.js
-The HTML Presentation Framework. A framework for easily creating beautiful presentations using HTML.
+http://lab.hakim.se/reveal-js
+Reveal.js - The HTML Presentation Framework. reveal.js enables you to create beautiful interactive slide decks using HTML.
 * presentations
 * javascript
 * framework
@@ -6059,3 +6062,270 @@ https://www.virustotal.com
 Analyze suspicious files and URLs to detect types of malware including viruses, worms, and trojans.
 
 
+# Liquid
+
+https://ru.shopify.com/partners/shopify-cheat-sheet
+The Shopify Cheat Sheet is a resource for building Shopify Themes with Liquid
+* liquid
+* cheatsheet
+* building
+
+http://cheat.markdunkley.com
+Shopify Cheat Sheet
+* liquid
+* cheatsheet
+* shopify
+
+https://gist.github.com/smutnyleszek/9803727
+Jekyll & Liquid Cheatsheet
+* liquid
+* cheatsheet
+
+https://docs.haravan.com/pages/cheat-sheet
+Haravan Cheat Sheet - Liquid variablesHaravan Cheat Sheet - Liquid variables
+* liquid
+* cheatsheet
+* haravan
+
+http://cheat-sheet.myinsales.ru
+InSales Cheat Sheet/Шпаргалка по шаблонизатору liquid
+* liquid
+* cheatsheet
+* insales
+
+https://learn.cloudcannon.com/jekyll-cheat-sheet
+Jekyll Cheat Sheet
+* liquid
+* cheatsheet
+
+# Tools
+
+https://syncthing.net
+Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
+* syncthing
+* sync
+* decentralized
+* data
+* transmitted
+* internet
+
+https://mithril.js.org
+Mithril is a modern client-side Javascript framework for building Single Page Applications. It's small (< 8kb gzip), fast and provides routing and XHR utilities out of the box.
+* mithril
+* SPA
+* single
+* page
+* application
+* XHR
+* javascript
+* framework
+* client-side
+
+https://coreos.com/etcd
+etcd is a distributed key value store that provides a reliable way to store data across a cluster of machines. It’s open-source and available on GitHub. etcd gracefully handles leader elections during network partitions and will tolerate machine failure, including the leader.
+* etcd
+* settings
+* key
+* value
+* store
+* database
+
+http://riotjs.com
+Simple and elegant component-based UI library. The frontend space is indeed crowded, but we honestly feel the solution is still “out there”. We believe Riot offers the right balance for solving the great puzzle. While React seems to do it, they have serious weak points that Riot will solve.
+* riotjs
+* javascript
+* framework
+* UI
+* simple
+* elegant
+
+https://ractive.js.org
+Ractive.js - The diamond age of web development. Ractive.js is a template-driven UI library that transforms your templates, styles and logic into blueprints for highly interactive apps. Ractive was originally created at The Guardian theguardian.com to produce news applications. A typical news app is heavily interactive, combines HTML and SVG, and is developed under extreme deadline pressure. It has to work reliably across browsers, and perform well even on mobile devices. Unlike other frameworks, Ractive works for you, not the other way around. It doesn't have an opinion about the other tools you want to use with it. It also adapts to the approach you want to take. You're not locked-in to a framework-specific way of thinking. Should you hate one of your tools for some reason, you can easily swap it out for another and move on with life.
+* ractive
+* template-driven
+* UI
+* library
+* javascript
+* web development
+* application
+
+https://github.com/request/request
+Request - Simplified HTTP client. Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default. Super simple to use.
+* request
+* javascript
+* http
+* library
+* node.js
+
+http://sharp.dimens.io/en/stable
+Sharp - The typical use case for this high speed Node.js module is to convert large images in common formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions. Resizing an image is typically 4x-5x faster than using the quickest ImageMagick and GraphicsMagick settings.
+* sharp
+* web-friendly
+* convert
+* images
+* node.js
+* library
+* high speed
+
+https://github.com/pyenv/pyenv
+Simple Python Version Management: pyenv. pyenv lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well. This project was forked from rbenv and ruby-build, and modified for Python.
+* python
+* simple
+* management
+* environment
+
+https://github.com/EbookFoundation/free-programming-books
+Freely available programming books. List of Free Learning Resources.
+* freebook
+* programming
+* free
+* learning
+
+http://eonasdan.github.io/bootstrap-datetimepicker
+Bootstrap 3 Datepicker v4 Docs
+* javascript
+* bootstrap
+* datepicker
+* library
+* UI
+
+http://silviomoreto.github.io/bootstrap-select
+Bootstrap-select is a jQuery plugin that utilizes Bootstrap's dropdown.js to style and bring additional functionality to standard select elements.
+* javascript
+* bootstrap
+* select
+* library
+* UI
+
+https://geoff.greer.fm/ag
+The Silver Searcher. The Silver Searcher is a tool for searching code. It started off as a clone of Ack, but their feature sets have since diverged slightly. In typical usage, Ag is 5-10x faster than Ack. See the GitHub page for more info.
+* silver
+* searching
+* code
+
+http://jsbeautifier.org
+Online JavaScript beautifier
+* javascript
+* online
+* beautifier
+* deobfuscate
+
+https://developers.google.com/closure/compiler
+The Closure Compiler is a tool for making JavaScript download and run faster. Instead of compiling from a source language to machine code, it compiles from JavaScript to better JavaScript. It parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
+* closure
+* compiler
+* faster
+* better
+* javascript
+* machine
+* parser
+
+https://github.com/stympy/faker
+A library for generating fake data such as names, addresses, and phone numbers.
+* library
+* generating
+* fake data
+* test
+* gem
+
+https://middlemanapp.com
+Middleman is a static site generator using all the shortcuts and tools in modern web development. Build static websites with an easy-to-use framework.
+* build
+* websites
+* static
+* framework
+* easy-to-use
+* gem
+
+http://automattic.github.io/kue
+Kue is a feature rich priority job queue for node.js backed by redis. A key feature of Kue is its clean user-interface for viewing and managing queued, active, failed, and completed jobs.
+* kue
+* jobs
+* queue
+* node.js
+* user-interface
+
+http://www.pyqtgraph.org
+PyQtGraph - Scientific Graphics and GUI Library for Python
+* python
+* pyqt
+* scientific
+* graphics
+* gui
+* library
+
+http://www.nokogiri.org
+Nokogiri is an HTML, XML, SAX, and Reader parser. Among Nokogiri's many features is the ability to search documents via XPath or CSS3 selectors.
+* nokogiti
+* html
+* xml
+* sax
+* parser
+* gem
+* ruby
+
+https://github.com/Bash-it/bash-it
+Bash-it is a collection of community Bash commands and scripts for Bash 3.2+. (And a shameless ripoff of oh-my-zsh). Includes autocompletion, themes, aliases, custom functions, a few stolen pieces from Steve Losh, and more.
+* bash
+* framework
+* community
+* themes
+* aliases
+* functions
+
+https://daneden.github.io/animate.css
+Animate.css - Just-add-water CSS animations
+* animate.css
+* css
+* animation
+
+https://httpie.org
+HTTPie—aitch-tee-tee-pie—is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
+* http
+* pie
+* command line
+* client
+* UI
+* json
+* wget
+* curl
+* highlighting
+
+http://sigmajs.org
+Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.
+* sigma
+* javascript
+* library
+* dedicated
+* graphviz
+
+https://github.com/arsduo/koala
+Koala is a Facebook library for Ruby, supporting the Graph API (including the batch requests and photo uploads), the Marketing API, the Atlas API, realtime updates, test users, and OAuth validation.
+* koala
+* facebook
+* library
+* ruby
+* gem
+* api
+* OAuth
+* validation
+
+https://github.com/chriso/validator.js
+validator.js - A library of string validators and sanitizers.
+* validator
+* javascript
+* library
+* string
+* sanitizers
+
+
+# Crystal
+
+https://crystal-lang.org
+Crystal - The Crystal Programming Language. Fast as C, slick as Ruby.
+* crystal
+* programming
+* language
+* fast
+* slick
+* ruby
