@@ -2091,6 +2091,12 @@ Daniel Miessler. My name is Daniel, and I’m an information security practition
 * articles
 * styde
 
+https://frontend.directory
+We cover every topic interesting to frontend devs such as languages, frameworks, job hunting and much more.
+* collections
+* frontend
+* interesting
+
 
 # Useful help tools
 
@@ -6097,6 +6103,16 @@ https://learn.cloudcannon.com/jekyll-cheat-sheet
 Jekyll Cheat Sheet
 * liquid
 * cheatsheet
+
+https://shopify.github.io/liquid
+Liquid is an open-source template language created by Shopify and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts.
+* liquid
+* template
+* open-source
+* language
+* shopify
+* ruby
+
 
 # Tools
 
