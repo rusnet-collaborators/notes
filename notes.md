@@ -2097,6 +2097,26 @@ We cover every topic interesting to frontend devs such as languages, frameworks,
 * frontend
 * interesting
 
+http://pubs.opengroup.org/onlinepubs/009695399
+This standard has been jointly developed by the IEEE and The Open Group. It is both an IEEE Standard and an Open Group Technical Standard.
+* IEEE
+* standart
+* developed
+* open group
+* technical
+
+https://plainjs.com
+JavaScript Plugins Repository - Vanilla JS tools for writing powerful web applications without jQuery.
+JavaScript Functions and Helpers - Vanilla JS utilities for writing powerful web applications without jQuery.
+* javascript
+* plain
+* vanilla
+* collection
+* functions
+* utilities
+* web
+* applications
+
 
 # Useful help tools
 
@@ -4465,6 +4485,9 @@ Create responsive web interfaces quick and efficiently
 * framework
 * ui
 
+
+# Ionic Framework
+
 http://ionicframework.com
 Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components and tools for building highly interactive native and progressive web apps.
 * framework
@@ -4472,6 +4495,24 @@ Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and J
 * ionic
 * library
 * mobile
+
+https://ccoenraets.github.io/ionic-tutorial
+In this tutorial, you learn how to build a native-like mobile application with Ionic and AngularJS. You build a Conference application that allows the attendees of a conference to browse through the list of sessions, and share information on Facebook.
+* ionic
+* framework
+* tutorials
+* learn
+* mobile
+* application
+
+https://habrahabr.ru/post/255653
+Разработка кроссплатформенного приложения с помощью Ionic Framework
+* ionic
+* framework
+* mobile
+* application
+* habrahabr
+* development
 
 
 # LUA
