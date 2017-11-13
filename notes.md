@@ -2117,6 +2117,17 @@ JavaScript Functions and Helpers - Vanilla JS utilities for writing powerful web
 * web
 * applications
 
+http://howistart.org
+How I Start is a mix between a collection of development tutorials and The Setup. The purpose is to both fill a gap in tutorials and give a peek at how some of the top developers do their work.
+* how
+* start
+* speed
+* collection
+* articles
+* development
+* tutorials
+* setup
+
 
 # Useful help tools
 
@@ -3157,6 +3168,13 @@ Engineering blog
 * articles
 * joinhandshake
 
+https://www.blaenkdenum.com
+My name is Jorge Israel Peña, though online I sometimes go by Blaenk Denum. I’m a developer currently living in Southern California.
+* blog
+* articles
+* examples
+* learning
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
@@ -3942,6 +3960,21 @@ http://ohaskell.dshevchenko.biz/ru
 * learn
 * doc
 * online
+
+https://www.schoolofhaskell.com
+School of Haskell
+* haskell
+* school
+* learning
+* tutorials
+* articles
+
+https://habrahabr.ru/post/203690
+Прелюдия или как полюбить Haskell
+* haskell
+* habrahabr
+* start
+* examples
 
 ### Cheatsheet
 
@@ -5104,6 +5137,19 @@ R-Bloggers.com is a central hub (e.g: A blog aggregator) of content collected fr
 * language
 * R
 * blog
+
+http://r-pkgs.had.co.nz
+R packages. This is the book site for “R packages”. It was published with O’Reilly in April 2015. You can order a copy from Amazon.
+* R
+* packages
+* book
+
+http://adv-r.had.co.nz
+This is the companion website for “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language.
+* R
+* book
+* learning
+* language
 
 
 # Freelance
