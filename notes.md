@@ -4832,6 +4832,14 @@ Welcome to the Awk Community Portal
 * web
 * archive
 
+http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html
+The Open Group Base Specifications Issue 6. IEEE Std 1003.1, 2004 Edition
+* awk
+* opengroup
+* onlinepubs
+* documentation
+* manual
+
 
 # ReactJS
 
