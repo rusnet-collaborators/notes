@@ -1488,6 +1488,11 @@ Code Like a Pythonista: Idiomatic Python (part1)
 * habrahabr
 * idiomatic
 
+http://elardy.ru/lists/python3-stroki-i-ikh-metody
+Python3, строки и их методы
+* python
+* string
+* cheatsheet
 
 ### advanced
 
