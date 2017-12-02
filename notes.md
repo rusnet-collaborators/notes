@@ -6163,9 +6163,62 @@ Regexp Syntax Summary
 
 https://www.hybrid-analysis.com
 This webpage is a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+* virus
+* tool
+* online
+* scanner
 
 https://www.virustotal.com
 Analyze suspicious files and URLs to detect types of malware including viruses, worms, and trojans.
+* virus
+* tool
+* online
+* scanner
+
+https://bbs.ptsecurity.com
+Используйте бесплатный облачный сканер уязвимостей PT BlackBox Scanner, чтобы проверить и защитить ваш сайт уже сейчас.
+* web
+* security
+* analysis
+* scanner
+
+https://subgraph.com/vega
+Vega helps you find and fix cross-site scripting (XSS), SQL injection, and more.
+* vega
+* find
+* fix
+* cross-site
+* xss
+* sql injection
+* analysis
+* scanner
+
+http://w3af.org
+w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
+* w3af
+* web application
+* scanner
+* analysis
+* security
+
+https://www.netsparker.com
+Netsparker Web Application Security Scanner
+Automatic, dead accurate and easy-to-use web application security scanner to automatically find security flaws in your websites, web applications and web services.
+* netsparker
+* web application
+* web server
+* security
+* scanner
+* automatically
+* websites
+
+https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools
+Vulnerability Scanning Tools. Web Application Vulnerability Scanners are automated tools that scan web applications, normally from the outside, to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration.
+* vulnerability
+* scanning
+* tools
+* web application
+* automated
 
 
 # Liquid
