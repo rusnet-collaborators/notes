@@ -2139,6 +2139,15 @@ How I Start is a mix between a collection of development tutorials and The Setup
 * tutorials
 * setup
 
+http://browserhacks.com
+Browserhacks is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
+* browser
+* hacks
+* extensive
+* css
+* javascript
+* interwebs
+
 
 # Useful help tools
 
