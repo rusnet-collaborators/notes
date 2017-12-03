@@ -1494,6 +1494,12 @@ Python3, строки и их методы
 * string
 * cheatsheet
 
+https://norvig.com/python-lisp.html
+Python for Lisp Programmers
+* python
+* list
+* article
+
 ### advanced
 
 http://learnpythonthehardway.org/book
@@ -3180,6 +3186,13 @@ My name is Jorge Israel Peña, though online I sometimes go by Blaenk Denum. I�
 * examples
 * learning
 
+https://www.vinta.com.br/lessons-learned
+Lessons Learned. Programming Tips.
+* blog
+* articles
+* links
+* learning
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
@@ -4551,6 +4564,16 @@ https://habrahabr.ru/post/255653
 * application
 * habrahabr
 * development
+
+https://crosswalk-project.org
+build world class hybrid apps. Enable the most advanced web innovations with the Crosswalk Project web runtime to develop powerful Android and Cordova apps.
+* ionic
+* framework
+* build
+* mobile
+* hybrid
+* crosswalk
+* cordova
 
 
 # LUA
