@@ -3202,6 +3202,14 @@ Lessons Learned. Programming Tips.
 * links
 * learning
 
+https://www.rubyguides.com
+Unlock the Hidden Power of Ruby With RubyGuides
+* rubyguides
+* ruby
+* guides
+* power
+* blog
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
