@@ -2341,6 +2341,15 @@ repl.it - Is to make programming more accessible. We build powerful yet simple t
 * tools
 * online
 
+https://codisec.com/veles
+Veles - open source tool for binary data analysis
+* veles
+* open source
+* tool
+* binary
+* data
+* analysis
+
 
 # Тренировки и развитие
 
