@@ -1349,6 +1349,14 @@ RAILS HURTS. Let's fix that!
 * hurts
 * quiz
 
+https://www.ibm.com/developerworks/ru/views/global/libraryview.jsp?search_by=ruby+on+rails
+IBM developerWorks. Search by ruby on rails
+* ibm
+* rubyonrails
+* ruby
+* articles
+* library
+
 
 # Python
 
