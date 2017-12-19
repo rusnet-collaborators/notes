@@ -3,21 +3,40 @@ if md_file_path is undefined then process.exit(0)
 
 fs   = require 'fs'
 util = require 'util'
+url  = require 'url'
 
-OBJECT     = {}
-JSONSTRING = {}
-TAGS       = []
-STATS      = {}
-STATS.tags =
-  count: 0
-STATS.links =
-  count: 0
-STATS.part =
-  count: 0
+OBJECT = {}
+ITEMS  = {}
+TAGS   = []
+LINKS  = []
+STATS =
+  tags:  count: 0
+  links: count: 0
+  part:  count: 0
+  host:
+    count_all: 0
+    count: {}
+
+compare = (object) ->
+  (a, b) ->
+    if object[a] < object[b] then return -1
+    if object[a] > object[b] then return 1
+    return 0
 
 showJson = ->
-  OBJECT.items = JSONSTRING
-  OBJECT.tags = TAGS.sort()
+  OBJECT.items = ITEMS
+  OBJECT.tags  = TAGS.sort()
+  OBJECT.links = LINKS.sort()
+
+  _count = STATS.host.count
+  STATS.host.count = {}
+
+  keys = Object.keys _count
+  keys.sort compare(_count)
+  keys.reverse()
+  for key in keys
+    STATS.host.count[key] = _count[key]
+
   OBJECT.stats = STATS
   console.log JSON.stringify(OBJECT)
   return
@@ -26,7 +45,7 @@ findTag = (rows, index, tag) ->
   index += 1
   row = rows[index]
   if /^\*\s/.test(row)
-    tag_name = row.replace /^\*\s/, ""
+    tag_name = row.replace(/^\*\s/, "").trim()
     if TAGS.indexOf(tag_name) is -1
       TAGS.push(tag_name)
       STATS.tags.count += 1
@@ -40,7 +59,7 @@ findTag = (rows, index, tag) ->
 findDesc = (rows, index, desc) ->
   index += 1
   row = rows[index]
-  if /^[A-Za-zА-Яа-я0-9]+/.test(row)
+  if /^[A-Za-zА-Яа-яЁё0-9]+/.test(row)
     desc += row
     findDesc rows, index, desc
 
@@ -49,7 +68,7 @@ findDesc = (rows, index, desc) ->
 
 findItem = (rows, index, item) ->
   if index + 1 >= rows.length
-    JSONSTRING[item.name] = item
+    ITEMS[item.name] = item
     STATS.links.count += 1
     findHead rows, index
     return
@@ -58,8 +77,14 @@ findItem = (rows, index, item) ->
   row = rows[index]
 
   if /^http/.test(row)
+    _url = url.parse(row)
+
     link = {}
-    link.href = row
+    link.href     = _url.href
+    link.hostname = _url.hostname
+    link.pathname = _url.pathname
+
+    LINKS.push _url.href
 
     desc = findDesc rows, index, ""
     link.desc = desc.desc
@@ -72,10 +97,13 @@ findItem = (rows, index, item) ->
 
     item.links.push link
     STATS.links.count += 1
+    STATS.host.count_all += 1
+    STATS.host.count[link.hostname] = STATS.host.count[link.hostname] ? 1
+    STATS.host.count[link.hostname] += 1
     findItem rows, index, item
 
-  else if /^#\s[A-Za-zА-Яа-я0-9]/.test(row)
-    JSONSTRING[item.name] = item
+  else if /^#\s[A-Za-zА-Яа-яЁё0-9]/.test(row)
+    ITEMS[item.name] = item
     STATS.part.count += 1
     index -= 1
     findHead rows, index
@@ -92,9 +120,10 @@ findHead = (rows, index) ->
   index += 1
   row = rows[index]
 
-  if /^#\s[A-Za-zА-Яа-я0-9]/.test(row)
+  if /^#\s[A-Za-zА-Яа-яЁё0-9]/.test(row)
     item = {}
-    item.name = row.replace(/^#\s/, '')
+    item.name = row.replace(/^#\s/, '').trim()
+    item.plain_name = item.name.toLowerCase()
     item.links = []
     findItem rows, index, item
   return
