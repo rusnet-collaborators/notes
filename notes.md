@@ -2588,6 +2588,13 @@ Writing a Vim plugin
 * howto
 * learning
 
+https://vim-adventures.com
+VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
+* vim
+* adventures
+* game
+* learning
+
 
 # EMACS
 
@@ -4050,15 +4057,13 @@ XMonad + XMobar = ❤
 * habrahabr
 
 
-# GO
+# Go
 
 https://golang.org
 Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 * go
 * language
 * open source
-
-### beginner
 
 https://gobyexample.com
 Go by Example. Go is an open source programming language designed for building simple, fast, and reliable software.
@@ -4119,6 +4124,43 @@ JustForFunc: Programming in Go
 * youtube
 * learning
 * video
+
+http://tour.golang.org
+Welcome to a tour of the Go programming language. The tour is divided into a list of modules that you can access by clicking on A Tour of Go on the top left of the page.
+* golang
+* tour
+* go
+* language
+* programming
+
+https://godoc.org
+GoDoc hosts documentation for Go packages on Bitbucket, GitHub, Google Project Hosting and Launchpad. Read the About Page for information about adding packages to GoDoc and more.
+* godoc
+* go
+* documentation
+* packages
+
+https://github.com/avelino/awesome-go
+A curated list of awesome Go frameworks, libraries and software.
+* go
+* awesome
+* go
+* frameworks
+* libraries
+* software
+
+https://golang.org/pkg
+The Go Programming Language Packages
+* go
+* packages
+* programming
+* language
+
+http://go-search.org
+Go Search. Golang packages. Search.
+* go
+* packages
+* searching
 
 
 # YAML
@@ -4865,12 +4907,11 @@ Turbo is a framework built for LuaJIT 2 to simplify the task of building fast an
 
 # AWK
 
-http://awk.freeshell.org/HomePage
+http://awk.freeshell.org
 some links and examples
 * awk
 * examples
 * links
-
 
 http://www.gnu.org/software/gawk/manual/gawk.pdf
 GAWK: Effective AWK Programming
