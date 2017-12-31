@@ -1360,8 +1360,6 @@ IBM developerWorks. Search by ruby on rails
 
 # Python
 
-### beginner
-
 http://pythonworld.ru
 Python 3 для начинающих
 * python
@@ -1508,10 +1506,11 @@ Python for Lisp Programmers
 * list
 * article
 
-### advanced
-
 http://learnpythonthehardway.org/book
 Welcome to the 3rd Edition of Learn Python the Hard Way
+* learn
+* python
+* hard way
 
 https://twistedmatrix.com
 Twisted is an event-driven networking engine written in Python and licensed under the open source
@@ -1524,17 +1523,15 @@ Code Like a Pythonista: Idiomatic Python
 * idiomatic
 * pycon
 
-### master
-
 http://www.behnel.de/cython200910/talk.html
 Using the Cython Compiler to write fast Python code. Dr. Stefan Behnel
 * python
 * cython
 
-### ---
-
 http://pep8.ru
 Сайт pep8.ru - это русскоязычная интернет-площадка для общения людей, так или иначе связанных с языком программирования Python.
+* python
+* pep
 
 http://www.skulpt.org
 Skulpt is an entirely in-browser implementation of Python.
@@ -1556,8 +1553,6 @@ Pydata A community for developers and users of Python data tools
 * data
 * big data
 
-### modules
-
 https://xlsxwriter.readthedocs.org
 XlsxWriter is a Python module for creating Excel XLSX files
 * python
@@ -1570,8 +1565,6 @@ The following packages are included in WinPython v3.4.3.7.
 * python
 * modules
 * list
-
-### framework
 
 https://twistedmatrix.com
 Twisted — это событийно-ориентированный сетевой фреймворк, написанный на Python и распространяемый под лицензией MIT.
@@ -1598,9 +1591,6 @@ Sanic is a Flask-like Python 3.5+ web server that’s written to go fast. It’s
 * request
 * non-blocking
 * speedy
-
-
-### ---
 
 http://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html
 Python2 vs Python3: различия синтаксиса
@@ -1656,6 +1646,24 @@ https://ru.code-maven.com/function-or-callback-in-python
 * callback
 * function
 * example
+
+http://www.pyregex.com
+Your Python Regular Expression's Best Buddy
+* python
+* regular
+* expression
+* tool
+* test
+
+https://pythex.org
+pythex. Pythex is a real-time regular expression editor for Python, a quick way to test your regular expressions.
+* python
+* regular
+* expression
+* editor
+* online
+* re
+* test
 
 
 # Django
