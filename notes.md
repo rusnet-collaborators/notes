@@ -2164,6 +2164,18 @@ Browserhacks is an extensive list of browser specific CSS and JavaScript hacks f
 * javascript
 * interwebs
 
+http://rigaux.org/language-study/syntax-across-languages-per-language
+syntax across languages per language
+* syntax
+* across
+* languages
+
+http://rigaux.org/language-study/syntax-across-languages
+syntax across languages
+* syntax
+* across
+* languages
+
 
 # Useful help tools
 
@@ -3241,6 +3253,14 @@ Unlock the Hidden Power of Ruby With RubyGuides
 * guides
 * power
 * blog
+
+http://shtanyuk.tk
+Cтраница Антона Штанюка
+* blog
+* learning
+* languages
+* examples
+* tutorials
 
 ### может это и не блог, но тоже полезно
 
@@ -6604,3 +6624,67 @@ Crystal - The Crystal Programming Language. Fast as C, slick as Ruby.
 * fast
 * slick
 * ruby
+
+
+# Ocaml
+
+http://ocaml.org
+OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles
+* ocaml
+* official
+* language
+* programming
+
+http://caml.inria.fr/pub/docs/manual-ocaml/libref/index.html
+manual-ocaml
+* ocaml
+* manual
+* docs
+
+https://habrahabr.ru/post/108529
+Введение в OCaml: The Basics [1]
+* ocaml
+* habrahabr
+* tutorial
+* learning
+
+https://habrahabr.ru/post/108532
+Введение в OCaml: Структура программ на OCaml [2]
+* ocaml
+* habrahabr
+* tutorial
+* learning
+
+https://habrahabr.ru/post/108920
+Введение в OCaml: Типы данных и сопоставление [3]
+* ocaml
+* habrahabr
+* tutorial
+* learning
+
+https://habrahabr.ru/post/118183
+Введение в OCaml: Нулевые указатели, утверждения и предупреждения [4]
+* ocaml
+* habrahabr
+* tutorial
+* learning
+
+https://ru.wikipedia.org/wiki/OCaml
+OCaml (Objective Caml) — современный объектно-ориентированный язык функционального программирования общего назначения, который был разработан с учётом безопасности исполнения и надёжности программ.
+* ocaml
+* wiki
+
+http://ocaml.spb.ru
+Система Objective Caml, релиз 3.10. Документация и руководство пользователя. Ксавье Лерой (а также Дамье Долигеc, Жак Гарриг, Дидье Реми и Жером Вуйон). Национальный Институт Исследований в области Информатики и Автоматики.
+* ocaml
+* documentation
+* Национальный Институт Исследований
+
+https://try.ocamlpro.com
+Try OCaml. OCaml is a strongly typed functional language. It is concise and fast, enabling you to improve your coding efficiency while producing code with higher quality.
+* ocaml
+* learning
+* try
+* online
+* tutorials
+
