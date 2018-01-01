@@ -2176,6 +2176,17 @@ syntax across languages
 * across
 * languages
 
+https://www.guru99.com
+Guru99 is totally new kind of learning experience. Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.
+* guru
+* learnin
+* experience
+* practice
+* tutorials
+* articles
+* languages
+* education
+
 
 # Useful help tools
 
