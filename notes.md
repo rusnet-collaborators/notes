@@ -3961,6 +3961,13 @@ Is Tcl Different!
 * different
 * to translate
 
+https://lorwiki.org.ru/index.php?title=Tcl_tk-lor-faq
+Tcl tk-lor-faq
+* tcl
+* faq
+* lor
+* справка
+
 
 ### JSON
 
@@ -6277,6 +6284,13 @@ https://www.ibm.com/developerworks/ru/library/latex_styles_11
 * ibm
 * styles
 * examples
+
+https://lorwiki.org.ru/wiki/LOR-FAQ-LaTeX
+LOR-FAQ-LaTeX
+* lor
+* faq
+* latex
+* русский язык
 
 
 # Regular Expressions
