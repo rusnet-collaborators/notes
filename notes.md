@@ -1665,6 +1665,12 @@ pythex. Pythex is a real-time regular expression editor for Python, a quick way 
 * re
 * test
 
+https://python-scripts.com
+Программирование в Python. Блог о python
+* python
+* programming
+* blog
+
 
 # Django
 
@@ -4411,6 +4417,13 @@ The Right Way is an easy-to-read, quick reference for PHP popular coding standar
 * right way
 * quick reference
 
+http://i-vd.org.ru/books/php
+Учебник по PHP
+* php
+* documentation
+* book
+* online
+
 
 # Clojure
 
@@ -4949,6 +4962,12 @@ Turbo is a framework built for LuaJIT 2 to simplify the task of building fast an
 * lua
 * framework
 * web
+
+https://itch.io/jam/love2d-jam
+LÖVE Jam
+* love
+* jam
+* examples
 
 
 # AWK
@@ -5607,6 +5626,33 @@ The Comprehensive Perl Archive Network (CPAN)
 * modules
 * finding
 * searching
+
+http://perldoc.perl.org
+Perl programming documentation. Core documentation for Perl in HTML and PDF formats.
+* perl
+* documentation
+* html
+* pdf
+* format
+
+http://i-vd.org.ru/books/perl
+Учебник по Perl
+* perl
+* book
+* online
+* documentation
+
+https://rc.hms.harvard.edu/training/perl/Perl%20Cheat%20Sheet.pdf
+Perl Cheat Sheet
+* perl
+* cheatsheet
+* pdf
+
+https://home.zcu.cz/~bodik/cheatsheets/perlcheat.pdf
+Perl Cheat Sheet: a handy reference
+* perl
+* cheatsheet
+* pdf
 
 
 # ALSA
