@@ -5371,6 +5371,15 @@ http://www.ibm.com/developerworks/ru/library/bd-bigdatacloud/index.html
 * language
 * ibm
 
+https://stepik.org/course/497
+Основы программирования на R
+* R
+* learning
+* language
+* courses
+* stepik.org
+* курсы
+
 
 # Freelance
 
