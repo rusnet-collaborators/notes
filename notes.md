@@ -5327,6 +5327,50 @@ This is the companion website for “Advanced R”, a book in Chapman & Hall’s
 * learning
 * language
 
+http://kstera.ru/R/index.html
+R с нуля
+* R
+* learning
+* language
+
+https://www.ibm.com/developerworks/ru/library/bd-learnr/index.html
+Необходимо ли вам изучать язык R?
+
+http://www.ibm.com/developerworks/ru/library/bd-operationalmetrics/index.html
+Визуализация данных с использованием языка R: как получить и показать информацию, значимую для группы гибкой разработки
+* R
+* learning
+* language
+* ibm
+
+http://www.ibm.com/developerworks/ru/library/bd-jsonr/index.html
+Извлечение значимых статистических показателей из данных в формате JSON с использованием языка R
+* R
+* learning
+* language
+* ibm
+
+http://www.ibm.com/developerworks/ru/library/ba-mine-spatial-data-spss-r/index.html
+Анализ пространственных данных в IBM SPSS Modeler с использованием пространственно-временных диапазонов и визуализация данных с использованием языка R
+* R
+* learning
+* language
+* ibm
+
+http://www.ibm.com/developerworks/ru/library/dm-1402db2andr/index.html
+Использование языка R с базами данных
+* R
+* learning
+* language
+* ibm
+
+http://www.ibm.com/developerworks/ru/library/bd-bigdatacloud/index.html
+Большие данные в облаке
+* R
+* learning
+* language
+* ibm
+
 
 # Freelance
 
