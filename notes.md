@@ -1671,6 +1671,20 @@ https://python-scripts.com
 * programming
 * blog
 
+http://docs.python-guide.org/en/latest
+The Hitchhiker’s Guide to Python! Greetings, Earthling! Welcome to The Hitchhiker’s Guide to Python.
+* python
+* docs
+* guide
+
+https://docs.python.org/3/howto
+Python HOWTOs. Python HOWTOs are documents that cover a single, specific topic, and attempt to cover it fairly completely.
+* python
+* howto
+* documents
+* learning
+* articles
+
 
 # Django
 
@@ -2416,12 +2430,35 @@ Loader.io is a FREE load testing service that allows you to stress test your web
 * web-apps
 * concurrent
 * connections
+* stress test
 
-http://www.responsivegridsystem.com
-Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Grid System isn't a framework. It's not a boilerplate either. It's a quick, easy & flexible way to create a responsive web site.
-* responsive
-* grid
-* design
+https://www.topcoder.com
+Deliver Faster Through Crowdsourcing | Topcoder
+* learning
+* coder
+* top
+* growing
+* topcoder
+
+https://leetcode.com
+LeetCode - The World's Leading Online Programming Learning Platform
+* learning
+* coder
+* top
+* growing
+* leetcode
+
+https://www.hackerrank.com
+Practice coding. Compete. Find jobs. Join over 3 million programmers and improve your skills.
+* learning
+* practice
+* coding
+* jobs
+* growing
+* improve
+
+
+# Paste service
 
 http://pasteboard.co
 Pasteboard is a quick and simple image sharing web app driven and developed by me, Joel Besada
@@ -2438,6 +2475,7 @@ With PicPaste you can upload your pictures quick and easy and show them to your 
 * image
 * simple
 * sharing
+
 
 
 # Wiki
@@ -2914,6 +2952,12 @@ Metro UI. The front-end framework for developing projects on the web in Windows 
 * UI
 * front-end
 * framework
+
+http://www.responsivegridsystem.com
+Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Grid System isn't a framework. It's not a boilerplate either. It's a quick, easy & flexible way to create a responsive web site.
+* responsive
+* grid
+* design
 
 ### table native color from css
 http://www.yellowpipe.com/yis/tools/hex-to-rgb/color-converter.php
@@ -3973,6 +4017,12 @@ Tcl tk-lor-faq
 * faq
 * lor
 * справка
+
+http://wiki.tcl.tk/1502
+tcltest, a package distributed with Tcl, provides a framework for writing and executing program tests
+* tcl
+* test
+* tcltest
 
 
 ### JSON
@@ -6812,3 +6862,17 @@ Try OCaml. OCaml is a strongly typed functional language. It is concise and fast
 * online
 * tutorials
 
+
+# VBS & VBA
+
+https://www.thecodingguys.net/resources/visual-basic-cs.pdf
+Visual Basic Cheat Sheet
+* pdf
+* visual
+* cheatsheet
+
+https://www.techonthenet.com/excel/formulas
+MS Excel: Formulas and Functions - Listed by Category
+* vba
+* documentation
+* excel
