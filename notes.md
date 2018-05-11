@@ -2207,6 +2207,15 @@ Guru99 is totally new kind of learning experience. Here you learn by practice. W
 * languages
 * education
 
+http://fh7922mg.bget.ru
+Некий отличный ресурс с коллекцией всякой отличной всячины
+* toc
+* fh7922mg
+* articles
+* links
+* books
+* collections
+
 
 # Useful help tools
 
@@ -5123,6 +5132,50 @@ http://tutorials.jenkov.com/svg
 SVG is short for Scalable Vector Graphics.
 * svg
 * doc
+
+
+https://svg-art.ru
+SVG – Scalable Vector Graphics. Доминирующей причиной появления этого блога стало незаслуженное забвение на целых десять лет языка разметки масштабируемой векторной графики – SVG (Scalable Vector Graphics), входящего в подмножество расширяемого языка разметки XML.
+* svg
+* vector
+* graphics
+
+http://css.yoksel.ru
+Здесь публикуются статьи по CSS и по SVG. Цель публикаций — разобраться в новых технологиях, познакомиться поближе со старыми и сохранить находки.
+* css
+* blog
+* articles
+* svg
+* graphics
+
+http://css-live.ru/category/svg
+SVG css-live
+* svg
+* blog
+* article
+* learning
+
+http://xiper.net/learn/svg
+Уроки SVG
+* svg
+* learning
+* articles
+* blog
+* tutorials
+
+http://fh7922mg.bget.ru/books/david-eisenberg/svg-essentials/david-eisenberg-svg-essentials.html
+Сущность SVG — J. David Eisenberg
+* svg
+* book
+* David Eisenberg
+* essentials
+
+http://rezerford-svg.blogspot.ru
+Заметки о SVG
+* svg
+* notes
+* blog
+
 
 # MongoDB
 
