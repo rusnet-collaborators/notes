@@ -2418,6 +2418,13 @@ Veles - open source tool for binary data analysis
 * data
 * analysis
 
+https://wtfutil.com
+WTF is a personal information dashboard for your terminal, developed for those who spend most of their day in the command line.
+* wtf
+* personal
+* dashboard
+* terminal
+
 
 # Тренировки и развитие
 
@@ -2732,6 +2739,12 @@ Interested in learning Git? Well you've come to the right place! "Learn Git Bran
 * play
 * game
 * learn
+
+http://uleming.github.io/gitbook/index.html
+The Git Community Book
+* git
+* book
+* community
 
 
 # Fossil
