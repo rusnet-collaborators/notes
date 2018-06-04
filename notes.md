@@ -329,7 +329,6 @@ HowToNode.org is a community supported blog created by Tim Caswell.
 * community
 
 http://node-tricks.com
-___
 * node.js
 * javascript
 * mongodb
@@ -441,6 +440,27 @@ fast, reliable, and secure dependency management
 * alternative
 * dependency
 * secure
+
+
+https://github.com/ryanmcdermott/clean-code-javascript
+clean-code-javascript
+Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
+* javascript
+* clean
+* code
+* book
+* github
+* learning
+* best
+* practices
+
+https://habr.com/post/319472
+Чистый javascript. Перевод книги Райана Макдермота
+* чистый
+* javascript
+* книга
+* перевод
+* habrahabr
 
 
 # ECMAScript
@@ -873,6 +893,26 @@ jQuery with CoffeeScript
 * jquery
 * coffeescript
 * example
+
+### getter/setter
+
+https://gist.github.com/leonov-kirill/9bd30e2b0b7419a1770c
+CoffeeScript getter/setter
+* coffeescript
+* getter
+* setter
+
+https://gist.github.com/reversepanda/5814547
+CoffeeScript getter/setter
+* coffeescript
+* getter
+* setter
+
+https://gist.github.com/joyrexus/65cb3780a24ecd50f6df
+CoffeeScript getter/setter
+* coffeescript
+* getter
+* setter
 
 
 # JSON
@@ -1935,6 +1975,9 @@ This is Cheatsheets — a collection of cheatsheets I've written.
 * cheatsheet
 * ricostacruz
 * devhints
+* best
+* resource
+* collection
 
 http://lzone.de
 Great Cheat Sheets Collection
@@ -2215,6 +2258,16 @@ http://fh7922mg.bget.ru
 * links
 * books
 * collections
+
+https://github.com/rtivital/jsraccoon
+Советы по верстке и написанию JavaScript кода – http://jsraccoon.ru http://vk.com/jsraccoon
+* css
+* javascript
+* советы
+* вёрстка
+* коллекция
+* материалы
+* хороший ресурс
 
 
 # Useful help tools
@@ -3345,6 +3398,13 @@ Cтраница Антона Штанюка
 * examples
 * tutorials
 
+http://prgssr.ru
+Прогрессор. Просто блог на Jekyll. Немного о Jekyll, немного о других компьютерных и некомпьютерных вещах.
+* blog
+* learning
+* articles
+* tutorials
+
 ### может это и не блог, но тоже полезно
 
 http://imagick.metlan.ru
@@ -3756,13 +3816,6 @@ http://jslinterrors.com
 JSLint and the popular alternatives JSHint and ESLint are brilliant tools that make your code more consistent.
 * jslinterrors
 * tools
-
-http://vuejs.org
-Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
-* vuejs
-* library
-* interactive
-* data-reactive
 
 http://mediaelementjs.com
 HTML5 video and audio made easy. One file. Any browser. Same UI.
@@ -5135,6 +5188,69 @@ A collection of awesome things regarding React ecosystem.
 * github
 * collection
 * ecosystem
+
+https://reactcheatsheet.com
+React Cheat Sheet
+* react
+* cheat
+* sheet
+* speed
+* filter
+
+https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet.pdf
+React Cheat Sheet. A javascript library for building user interfaces.
+* react
+* cheatsheet
+* pdf
+* speed
+
+https://medium.com/devschacht/peter-chang-break-down-isomorphic-and-universal-boilerplate-react-redux-server-rendering-8fd0ec4a8512
+Укрощаем изоморфный и универсальный шаблон: серверный рендеринг на React-Redux
+* react
+* сборник советов
+* общая компоновка
+* примеры
+* шаблон
+* введение
+
+https://habr.com/post/326162
+Введение в React и Redux для бекенд-разработчиков
+* react
+* redux
+* введение
+* habrahabr
+* article
+
+https://ru.stackoverflow.com/questions/542739/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%80%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B8%D0%BD%D0%B3-%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5
+Как правильно настроить рендеринг на сервере
+* stackoverflow
+* react
+* server
+* rendering
+
+https://getinstance.info/articles/react/learning-react-router
+Новый уровень React: React Router. Данная статья — первая из трех частей серии о React, написанной Бредом Вестфолом (Brad Westfall).
+* react
+* router
+* examples
+* learning
+* articles
+
+http://prgssr.ru/development/pogruzhenie-v-react-redux.html
+Погружение в React: Redux
+* react
+* redux
+* article
+* examples
+* learning
+
+https://habr.com/post/269831
+С 0 до 1. Разбираемся с Redux
+* redux
+* habrahabr
+* article
+* learning
+* examples
 
 
 # SVG
@@ -6942,3 +7058,47 @@ MS Excel: Formulas and Functions - Listed by Category
 * vba
 * documentation
 * excel
+
+
+# GraphQL
+
+https://graphql.org
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data
+* graphql
+* query
+* language
+
+https://habr.com/post/326986
+Что же такое этот GraphQL?
+* graphql
+* habrahabr
+* article
+
+# Weex
+
+https://weex.apache.org
+Weex is a framework for building high-performance mobile applications with modern web development experience.
+* weex
+* framework
+* building
+* mobile
+* apps
+* crossplatform
+
+
+# VUE
+
+http://vuejs.org
+Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
+* vuejs
+* library
+* interactive
+* data-reactive
+
+https://habr.com/post/329452
+Vue.js для сомневающихся. Все, что нужно знать
+* vuejs
+* habrahabr
+* article
+
+
