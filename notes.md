@@ -5094,6 +5094,14 @@ LÖVE Jam
 * jam
 * examples
 
+http://www.user.su/lua/index.php
+Lua Справочник
+* lua
+* cheatsheet
+* learning
+* best
+* speed
+
 
 # AWK
 
