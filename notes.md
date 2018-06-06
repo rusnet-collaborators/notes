@@ -6045,6 +6045,13 @@ APIDOC. Inline Documentation for RESTful web APIs. apiDoc creates a documentatio
 * java
 * php
 
+https://elixirschool.com/ru
+Elixir School. Базовые знания о языке Elixir.
+* elixir
+* school
+* learning
+* erlang
+
 
 # Logger
 
