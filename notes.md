@@ -2622,6 +2622,10 @@ These pages contain some vim tips.
 * vim
 * tips
 * tutorial
+* cheatsheet
+* examples
+* description
+* manual
 
 http://usevim.com
 A blog all about Vim
