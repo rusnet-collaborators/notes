@@ -2743,6 +2743,13 @@ VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Ze
 * game
 * learning
 
+https://github.com/johngrib/vimscript-cheatsheet
+vimscript-cheatsheet
+* vim
+* cheatsheet
+* scripting
+* speed
+
 
 # EMACS
 
@@ -4562,6 +4569,23 @@ UnPHP - The Online PHP Decoder. UnPHP is a free service for analyzing obfuscated
 * obfuscated
 * malicious
 * code
+
+https://github.com/phanan/htaccess
+.htaccess Snippets. A collection of useful .htaccess snippets, all in one place.
+* htaccess
+* collection
+* snippets
+
+http://max22.ru/server/htaccess
+Заметки программиста. .htaccess
+* htaccess
+* notes
+
+http://htaccesscheatsheet.com
+.htaccess Cheat Sheet. All the important Apache .htaccess web server rules and config options
+* htaccess
+* cheatsheet
+* collection
 
 
 # Clojure
@@ -7129,5 +7153,25 @@ Vue.js для сомневающихся. Все, что нужно знать
 * vuejs
 * habrahabr
 * article
+
+
+# Patterns
+
+http://design-pattern.ru
+Справочник «Паттерны проектирования»
+* паттерны
+* patterns
+* базовые паттерны
+* порождающие паттерны
+* паттерны веб-представления
+* паттерны архитектуры источников данных
+* паттерны объектно-реляционной логики
+* паттерны объектно-реляционного структурирования
+* паттерны параллельного программирования
+* паттерны логики сущности
+* паттерны обработки объектно-реляционных метаданных
+* поведенческие паттерны
+* паттерны распределения данных
+* паттерны локальной конкуренции
 
 
