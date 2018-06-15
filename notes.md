@@ -4178,8 +4178,6 @@ The Haskell Programming Language.
 * haskell
 * wiki
 
-### beginner
-
 http://habrahabr.ru/post/132969
 Как питонистам читать Haskell.
 * haskell
@@ -4229,14 +4227,10 @@ https://habrahabr.ru/post/203690
 * start
 * examples
 
-### Cheatsheet
-
 http://cheatsheet.codeslower.com/CheatSheet.pdf
 Haskell Cheat Sheet
 * haskell
 * cheatsheet
-
-### some packages
 
 http://xmonad.org
 xmonad is a dynamically tiling X11 window manager that is written and configured in Haskell. In a normal WM, you spend half your time aligning and searching for windows. xmonad makes work easier, by automating this.
@@ -4249,6 +4243,20 @@ XMonad + XMobar = ❤
 * xmonad
 * howto
 * habrahabr
+
+http://rsdn.org/article/haskell/haskell_part1.xml
+Мягкое введение в Haskell часть I
+* haskell
+* book
+* online
+* part I
+
+http://rsdn.org/article/haskell/haskell_part2.xml
+Мягкое введение в Haskell часть II
+* haskell
+* book
+* online
+* part II
 
 
 # Go
