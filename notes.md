@@ -2269,6 +2269,12 @@ https://github.com/rtivital/jsraccoon
 * материалы
 * хороший ресурс
 
+http://thedarnedestthing.com/index
+Отличная коллекция заметок, с примерами и пояснениями
+* collection
+* notes
+* awesome
+
 
 # Useful help tools
 
