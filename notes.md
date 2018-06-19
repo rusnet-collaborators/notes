@@ -5999,6 +5999,18 @@ Perl Cheat Sheet: a handy reference
 * cheatsheet
 * pdf
 
+https://michaelgoerz.net/refcards/perl_refcard.pdf
+Perl Reference Card. Michael Goerz.
+* perl
+* michael goez
+* cheatsheet
+* pdf
+
+https://lzone.de/cheat-sheet/Perl
+Perl Cheat Sheet
+* perl
+* cheatsheet
+
 
 # ALSA
 
