@@ -3975,8 +3975,6 @@ Koa is a new web framework designed by the team behind Express, which aims to be
 
 # TCL
 
-### docs
-
 http://docs.activestate.com/activetcl/8.4
 http://docs.activestate.com/activetcl/8.5
 http://docs.activestate.com/activetcl/8.6
@@ -4029,8 +4027,6 @@ TCL-related stuff: texts in Russian
 * doc
 * description
 * A. Kovalenko
-
-### libs, framework
 
 http://tanzer.io
 tänzer: The lovable web server framework for Tcl!
@@ -4116,9 +4112,6 @@ tcltest, a package distributed with Tcl, provides a framework for writing and ex
 * test
 * tcltest
 
-
-### JSON
-
 https://wiki.tcl-lang.org/21116
 Huddle provides a generic Tcl-based serialization/intermediary format. Currently, each node is wrapped in a tag with simple type information. Huddle object can contain both dicts and list with mixed.
 * tcl
@@ -4135,35 +4128,36 @@ JSON библиотеки и материалы о JSON в tcl
 * serialization
 * articles
 
-### examples
-
 http://www.tcl.tk/software/plugin/applets.html
 Demos for the Tcl Plugin
 * tcl
 * example
 * plugins
 
-### test
-
 http://patorjk.com/pk/quizzes/tcl-tk-basics
 Tcl/Tk Basics By patorjk
 * tcl
 * test
 
-### some articles
 http://wiki.tcl.tk/19707
 BraceStarBrace
 * tcl
 * bracestarbrace
 * astericks
 
-### plugins
-
 https://flightaware.github.io
 flightaware.github.com. by flightaware
 * tcl
 * github
 * plugins
+
+http://www.beedub.com/book/2nd/booktoc.mif.html
+Great online book about Tcl
+* tcl
+* book
+* online
+* examples
+* docs
 
 
 # Haskell
