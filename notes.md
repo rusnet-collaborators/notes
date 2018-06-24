@@ -161,13 +161,6 @@ Speaking JavaScript: An In-Depth Guide for Programmers. Dr. Axel Rauschmayer.
 * learning
 * javascript
 
-### examples in real life
-
-http://surge.sh
-Static Web Publishing for Front-End Developers
-
-### ---
-
 https://nodejsmodules.org
 Node.JS Modules
 * nodejs
@@ -2274,6 +2267,24 @@ http://thedarnedestthing.com/index
 * collection
 * notes
 * awesome
+
+http://surge.sh
+Static Web Publishing for Front-End Developers
+* static
+* web
+* publishing
+* free
+* front-end
+* development
+
+https://www.netlify.com
+Build, deploy, and manage modern web projects. Get an all-in-one workflow that combines global deployment, continuous integration, and HTTPS. And that’s just the beginning.
+* static
+* web
+* publishing
+* free
+* front-end
+* development
 
 
 # Useful help tools
