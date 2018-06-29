@@ -763,8 +763,6 @@ CoffeeScript is a little language that compiles into JavaScript. Underneath that
 * language
 * javascript
 
-### beginner
-
 http://cidocs.ru/coffeescript
 Перевод оригинальной документации CoffeeScript
 * docs
@@ -824,8 +822,6 @@ CoffeeScript Ristretto. An intense cup of code.
 * book
 * learning
 
-### advanced
-
 http://arcturo.github.io/library/coffeescript
 The Little Book on CoffeeScript
 * coffeescript
@@ -838,10 +834,6 @@ http://coffeescript2ru.github.io
 * convert
 * javascript
 
-### master
-
-### online tools
-
 http://js2.coffee
 Compile JavaScript into CoffeeScript online.
 
@@ -850,8 +842,6 @@ Analog js2.coffee. This hacked version of js2coffe tries to preserve comments.
 * coffeescript
 * convert
 * javascript
-
-### some github
 
 https://github.com/bevry/cson
 CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.
@@ -874,20 +864,14 @@ CoffeeScript Lesson
 * lesson
 * github
 
-### cheatsheet
-
 https://github.com/icebob/coffeescript_cheatsheet
 CoffeeScript Cheatsheet
-
-### some example
 
 https://css-tricks.com/jquery-coffeescript
 jQuery with CoffeeScript
 * jquery
 * coffeescript
 * example
-
-### getter/setter
 
 https://gist.github.com/leonov-kirill/9bd30e2b0b7419a1770c
 CoffeeScript getter/setter
@@ -906,6 +890,12 @@ CoffeeScript getter/setter
 * coffeescript
 * getter
 * setter
+
+https://github.com/hemanth/coffeescript-equivalents-in-es6
+CoffeeScript Equivalents In ES6
+* coffeescript
+* equivalents
+* es6
 
 
 # JSON
@@ -3096,6 +3086,7 @@ http://lifehacker.ru
 * life
 * hack
 
+
 # Интересные блоги
 
 http://dmitry.koprov.ru
@@ -3438,10 +3429,23 @@ http://prgssr.ru
 * articles
 * tutorials
 
-### может это и не блог, но тоже полезно
-
 http://imagick.metlan.ru
 Записки ]Mantyr[
+
+http://www.front-nika.ru
+Front Nika - Сайт о фронтенд-разработке
+* сайт
+* фронтенд
+* блог
+* девушка
+* nika
+
+https://tuhub.ru
+TuHub - интернет-издание для профессиональных разработчиков
+* tuhub
+* интернет
+* разработка
+* издание
 
 
 # Podcast
