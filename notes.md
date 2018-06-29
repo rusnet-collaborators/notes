@@ -3549,6 +3549,13 @@ DirtyMarkup - Tidy up your HTML, CSS, and JavaScript code
 * javascript
 * code
 
+https://oreillymedia.github.io/Using_SVG/guide/units.html
+Using SVG with CSS3 and HTML5 — Supplementary Material
+* units
+* svg
+* css
+* html
+
 
 # CSS
 
@@ -6433,8 +6440,9 @@ Postfix
 # Racket
 
 http://beautifulracket.com
-Beautiful Racket by Matthew Butterick
+Beautiful Racket. How to make your own programming languages with racket by Matthew Butterick
 * racket
+* own programming languages
 * Matthew Butterick
 
 
