@@ -2945,7 +2945,12 @@ CSS ARROW PLEASE! Generate the CSS for a tooltip arrow.
 * generator
 * arrow
 
-###
+https://habr.com/post/189696
+Абсолютное горизонтальное и вертикальное центрирование
+* css
+* habrahabr
+* выравнивание
+* align
 
 http://www.transformicons.com
 Transformicons: Animated icons, symbols and buttons using SVG and CSS.
