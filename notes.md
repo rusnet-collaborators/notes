@@ -6021,6 +6021,14 @@ Perl Cheat Sheet
 * perl
 * cheatsheet
 
+https://github.com/hachiojipm/awesome-perl
+A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
+* perl
+* list
+* awesome
+* collection
+* github
+
 
 # ALSA
 
