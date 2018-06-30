@@ -486,7 +486,18 @@ https://learnxinyminutes.com/docs/ru-ru/typescript-ru
 * typescript
 * learn
 * docs
-* ru
+
+https://metanit.com/web/typescript
+Руководство по TypeScript
+* typescript
+* learning
+* docs
+
+https://typescriptrus.blogspot.com
+TypeScript по-русски
+* typescript
+* learning
+* blog
 
 
 # ECMAScript
@@ -4417,6 +4428,18 @@ Go Search. Golang packages. Search.
 * go
 * packages
 * searching
+
+https://metanit.com/go/tutorial
+Руководство по языку Go
+* go
+* learning
+* docs
+
+https://metanit.com/go/web
+Руководство по веб-программированию языку Go
+* go
+* learning
+* docs
 
 
 # YAML
