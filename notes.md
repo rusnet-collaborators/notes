@@ -64,8 +64,6 @@ If you need to convert files from one markup format into another, pandoc is your
 
 # Javascript & Node.js
 
-### beginner
-
 http://www.nodebeginner.ru
 The aim of this document is to get you started with developing applications with Node.js, teaching you everything you need to know about "advanced" JavaScript along the way. It goes way beyond your typical "Hello World" tutorial.
 * nodejs
@@ -434,7 +432,6 @@ fast, reliable, and secure dependency management
 * dependency
 * secure
 
-
 https://github.com/ryanmcdermott/clean-code-javascript
 clean-code-javascript
 Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
@@ -454,6 +451,42 @@ https://habr.com/post/319472
 * книга
 * перевод
 * habrahabr
+
+https://habr.com/company/mailru/blog/269465
+У нас проблемы с промисами
+* habrahabr
+* mail.ru
+* promise
+* article
+
+
+# Typescript
+
+https://www.typescriptlang.org
+TypeScript brings you optional static type-checking along with the latest ECMAScript features.
+* typescript
+* official
+* website
+
+http://typescript-lang.ru/docs/index.html
+Перевод официальной документации Typescript на русский.
+* typescript
+* documentation
+* russian
+* перевод
+
+https://habr.com/post/308374
+Стоит ли Typescript усилий?
+* typescript
+* habrahabr
+
+https://learnxinyminutes.com/docs/ru-ru/typescript-ru
+Изучите X за Y минут Где X=TypeScript
+* learnxinyminutes
+* typescript
+* learn
+* docs
+* ru
 
 
 # ECMAScript
