@@ -499,6 +499,27 @@ TypeScript по-русски
 * learning
 * blog
 
+https://github.com/fschaefer/Stately.js
+Stately.js is a JavaScript based finite-state machine (FSM) engine for Node.js and the browser.
+* javascript
+* fsm
+* state
+* machine
+
+https://github.com/davidkpiano/xstate
+Functional, Stateless JS Finite State Machines and Statecharts
+* javascript
+* fsm
+* state
+* machine
+
+https://github.com/jakesgordon/javascript-state-machine
+A javascript finite state machine library
+* javascript
+* fsm
+* state
+* machine
+
 
 # ECMAScript
 
