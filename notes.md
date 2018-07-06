@@ -105,8 +105,6 @@ docs.nodejitsu.com is an open source project and is curated by the Nodejitsu tea
 * nodejs
 * docs
 
-### advanced
-
 http://callbackhell.com
 A guide to writing asynchronous javascript programs
 * callback
@@ -3034,8 +3032,6 @@ Space.js HTML-driven narrative 3D-scrolling
 * space.js
 * scrolling
 
-### some tools
-
 http://cssload.net
 AJAX loaders generator in pure CSS and HTML
 * css
@@ -3044,8 +3040,6 @@ AJAX loaders generator in pure CSS and HTML
 * ajax
 * css
 * html
-
-### some grid
 
 http://flexboxgrid.com
 Flexbox Grid. A grid system based on the flex display property.
@@ -3122,10 +3116,26 @@ Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Gri
 * grid
 * design
 
-### table native color from css
 http://www.yellowpipe.com/yis/tools/hex-to-rgb/color-converter.php
+Color Converter
+* color
+* converter
+* hex
+* rgb
 
 http://www.crockford.com/wrrrld/color.html
+css clor names
+* css
+* color
+* names
+
+https://philipwalton.github.io/solved-by-flexbox/demos/grids
+Better, Simpler Grid Systems
+* better
+* simple
+* grid
+* systems
+* flexbox
 
 
 # Graphviz
@@ -4462,6 +4472,45 @@ https://metanit.com/go/web
 * learning
 * docs
 
+https://habr.com/post/329582
+Создание веб-приложения на Go в 2017 году
+* go
+* web
+* habrahabr
+
+https://habr.com/post/329584
+Создание веб-приложения на Go в 2017 году. Часть 2
+* go
+* web
+* habrahabr
+
+https://echo.labstack.com
+Echo. High performance, extensible, minimalist Go web framework
+* echo
+* high
+* performance
+* go
+* web
+* framework
+
+https://revel.github.io
+Revel. A high-productivity web framework for the Go language.
+* revel
+* high-productivity
+* web
+* framework
+* go
+* habrahabr
+
+https://habr.com/post/162115
+Revel — высокопроизводительный веб-фреймворк на языке Go
+* revel
+* high-productivity
+* web
+* framework
+* go
+* habrahabr
+
 
 # YAML
 
@@ -5052,8 +5101,6 @@ Luapower is a binary+source module distribution for LuaJIT and a way of deployin
 * module
 * distribution
 
-### Docs
-
 http://www.lua.org/pil/contents.html
 Programming in Lua (first edition)
 * lua
@@ -5251,6 +5298,23 @@ Lua Справочник
 * learning
 * best
 * speed
+
+https://github.com/sumory/lor
+a fast, minimalist web framework for lua based on OpenResty
+* lua
+* fast
+* minimalist
+* web
+* framework
+* OpenResty
+
+https://github.com/benglard/waffle
+Fast, asynchronous web framework for Lua/Torch
+* lua
+* fast
+* web
+* framework
+* asynchronous
 
 
 # AWK
