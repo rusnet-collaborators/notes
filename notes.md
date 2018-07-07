@@ -4446,6 +4446,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * frameworks
 * libraries
 * software
+* collection
 
 https://golang.org/pkg
 The Go Programming Language Packages
@@ -6698,6 +6699,14 @@ Testing Tools
 
 # Jade
 
+http://jade-lang.com
+JADE LANGUAGE Node Template Engine
+* jade
+* language
+* node
+* template
+* engine
+
 http://aramboyajyan.github.io/online-jade-template-editor
 Enter Jade code on the left and the editor will automatically convert it to HTML on the right.
 * jade
@@ -6705,6 +6714,14 @@ Enter Jade code on the left and the editor will automatically convert it to HTML
 * editor
 * automatically
 * jade2html
+
+https://habr.com/post/278109
+Туториал по Jade для начинающих
+* jade
+* tutorials
+* examples
+* habrahabr
+
 
 # Kali Linux
 
