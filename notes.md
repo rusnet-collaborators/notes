@@ -1,7 +1,5 @@
 # Markdown
 
-### cheatsheet
-
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Markdown Cheatsheet
 * markdown
@@ -13,15 +11,11 @@ Markdown Cheatsheet
 * markdown
 * cheatsheet
 
-### markdown online editors
-
 http://dillinger.io
 Dillinger is an online cloud-enabled, HTML5, buzzword-filled Markdown editor.
 * markdown
 * online
 * editor
-
-### js library online editor
 
 http://hallojs.org
 Hallo — distraction-free writing for the web. Hallo is the simplest web editor imaginable. Instead of cluttered forms or toolbars, you edit your web content as it is. Just you, your web design, and your content.
@@ -52,8 +46,6 @@ An Embeddable JavaScript Markdown Editor
 * editor
 * javascript
 
-### tools
-
 http://pandoc.org
 If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
 * pandoc
@@ -71,20 +63,26 @@ The aim of this document is to get you started with developing applications with
 
 http://learn.javascript.ru
 Перед вами современный учебник по JavaScript, начиная с основ, включающий в себя DOM, замыкания, ООП, тонкости и много практических задач. От основ к продвинутой, грамотной разработке. Хорошего чтения!
+* javascript
+* learning
+* учебник
 
 http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56c
 Understanding node.js
+* debuggable
 
 http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop
 Understanding the node.js event loop
+* mixu
 
 http://nodeguide.ru
 Это перевод руководств, опубликованных Felix Geisendörfer.
 * guide
 
 http://bakhirev.biz
-Книга «Сюрреализм на JavaScript»
-В книге содержатся различные рекомендации, советы и идеи касательно разработки сложного фронтенда на JavaScript. Рассматривается архитектура игровых движков и проблемы создания веб-игр и веб-приложений. Так же в книге приведено множество рекомендаций касательно верстки интерфейсов под различные устройства и особенностей разработки на JavaScript под различные платформы.
+Книга «Сюрреализм на JavaScript». В книге содержатся различные рекомендации, советы и идеи касательно разработки сложного фронтенда на JavaScript. Рассматривается архитектура игровых движков и проблемы создания веб-игр и веб-приложений. Так же в книге приведено множество рекомендаций касательно верстки интерфейсов под различные устройства и особенностей разработки на JavaScript под различные платформы.
+* javascript
+* frontend
 
 http://nodeschool.io
 Open source воркшопы, которые обучают веб разработке. Создавайте собственные воркшопы или присоединяйтесь к разработке существующих в вашей стране.
@@ -117,6 +115,8 @@ http://habrahabr.ru/post/219873
 
 https://github.com/marcuswestin/store.js
 localStorage wrapper for all browsers without using cookies or flash
+* localStorage
+* wrapper
 
 https://www.npmjs.com/package/node-localstorage
 A drop-in substitute for the browser native localStorage API that runs on node.js
@@ -136,8 +136,6 @@ JavaScript I/O io.js — npm-совместимая платформа, разр
 * iojs
 * javascript
 * fork
-
-### master
 
 http://www.rq.crockford.com/
 RQ is a small JavaScript library for managing asynchronicity in server applications.
@@ -199,22 +197,16 @@ JavaScript. The Right Way.
 * collection
 * resource
 
-### cheatsheet
-
 http://browsenpm.org/help
 npm cheat sheet
 * npm
 * cheatsheet
-
-### интересные статьи
 
 http://habrahabr.ru/post/171359
 10 странностей и секретов JavaScript
 * javascript
 * habrahabr
 * secret
-
-### drag and drop plugins, library javascript
 
 http://gridster.net
 Plug in to the grid. This is it, the mythical drag-and-drop multi-column grid has arrived. Gridster is a jQuery plugin that allows building intuitive draggable layouts from elements spanning multiple columns.
@@ -265,15 +257,11 @@ Packery is a JavaScript library and jQuery plugin that makes gapless and draggab
 * drag and drop
 * jQuery
 
-### fileupload plugins, library javascript
-
 http://www.dropzonejs.com
 DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews. It’s lightweight, doesn’t depend on any other library (like jQuery) and is highly customizable.
 * fileupload
 * plugin
 * jQuery
-
-### orm
 
 http://www.adaltas.com/projects/node-ron
 Redis ORM for NodeJs
@@ -291,8 +279,6 @@ Cross-db ORM for NodeJS! Multi-database ORM: redis, mongodb, mysql, sqlite, post
 * orm
 * nodejs
 
-### testing
-
 http://chaijs.com
 Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 * chai
@@ -300,16 +286,12 @@ Chai is a BDD / TDD assertion library for node and the browser that can be delig
 * tdd
 * library
 
-### packed source
-
 http://webpack.github.io
 webpack, the production unbiased flexible extensible open source module bundler.
 * webpack
 * production
 * source
 * module
-
-### blogs
 
 http://howtonode.org
 HowToNode.org is a community supported blog created by Tim Caswell.
@@ -324,8 +306,6 @@ http://node-tricks.com
 * snippets
 * express
 
-### library
-
 https://fitzgen.github.io/wu.js
 wu.js is a JavaScript library providing higher order functions (such as map, filter, and reduce) for ECMAScript 6 iterators.
 * javascript
@@ -337,8 +317,6 @@ Micro check library http://is.js.org
 * micro
 * check
 * library
-
-### resources
 
 http://www.unheap.com
 Unheap - A tidy Repository of jQuery Plugins & JavaScripts
@@ -370,16 +348,12 @@ What are the best languages that compile to JavaScript? 43 Best language that co
 * javascript
 * compile
 
-### tools
-
 https://github.com/google/closure-compiler
 A JavaScript checker and optimizer
 * clojure
 * javascript
 * optimizer
 * java
-
-### graphics library and framework
 
 http://paperjs.org
 Paper.js — The Swiss Army Knife of Vector Graphics Scripting.
@@ -603,37 +577,23 @@ Express: веб-фреймворк для Node.js. Руководство пол
 http://express-js.ru/expressjs ~!
 Руководство по ExpressJS
 
-### beginner
-
 http://habrahabr.ru/post/207930
 Базовое Node.JS приложение с использованием express
 
 http://habrahabr.ru/post/146983
 Web-разработка на node.js и express. Изучаем node.js на практике
 
-### advanced
-
-### master
-
-### examples in real life
-
 https://github.com/shuvalov-anton/node-blog
 Проект блога на Express.JS для курса на hexlet.org
 
-### templates
-
 http://ejs.co
 Effective JavaScript templating
-
-### ---
 
 http://singlepageappbook.com
 Content and site generator for Single page apps in depth (my book on single page applications)
 
 https://github.com/substack/stream-handbook
 This document covers the basics of how to write node.js programs with streams.
-
-### tools
 
 http://forbeslindesay.github.io/express-route-tester
 Express Route Tester
@@ -715,19 +675,11 @@ A Lightweight, Two-Way-Bound & Totally Awesome Angular.js Text-Editor
 * editor
 * WYSIWYG
 
-### beginner
-
 https://github.com/mgechev/angularjs-style-guide
 The goal of this style guide is to present a set of best practices and style guidelines for one AngularJS application.
 * javascript
 * angular
 * education
-
-### advanced
-
-### master
-
-### ---
 
 http://ng-inspector.org
 The AngularJS inspector pane for your browser
@@ -749,12 +701,6 @@ Backbone.js gives structure to web applications by providing models with key-val
 http://backbonejs.ru
 Backbone.js придает структуру веб-приложениям с помощью моделей с биндингами по ключу и пользовательскими событиями, коллекций с богатым набором методов с перечислимыми сущностями, представлений с декларативной обработкой событий; и соединяет это все с вашим существующим REST-овым JSON API.
 
-### beginner
-
-### advanced
-
-### master
-
 
 # Underscore
 
@@ -763,12 +709,6 @@ Underscore is a JavaScript library that provides a whole mess of useful function
 
 http://underscorejs.ru
 Underscore — это невероятно удобная JavaScript-библиотека, этакий швейцарский нож для js-разработчика, набор функций-утилит, которые так привычны любителям Prototype.js (или Ruby). Однако в отличие от Prototype.js, underscore не модифицирует прототипы встроенных объектов JavaScript. Данная особенность гарантирует бесконфликтность, что позволяет замечательно сочетать этот инструмент с, например, jQuery или Backbone, или и тем и другим вместе.
-
-### beginner
-
-### advanced
-
-### master
 
 
 # Prototype.js
@@ -791,20 +731,12 @@ http://www.prototypejs.ru
 http://raphaeljs.com
 Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
 
-### beginner
-
-### advanced
-
-### master
-
 
 # Jquery
 
 http://jquery-docs.ru
 Русская документация по jQuery. Перевод официальной документации jQuery на русский язык
 * jquery
-
-### useful plugins
 
 https://github.com/julien-maurel/jQuery-Storage-API
 JQuery Storage is a plugin to simplify access to local and session storage in HTML5
@@ -972,8 +904,6 @@ https://learn.javascript.ru/json
 * json
 * javascript
 
-### online tools
-
 http://jsonviewer.stack.hu
 Convert JSON Strings to a Friendly Readable Format. Online JSON parse & viewer.
 * json
@@ -999,8 +929,6 @@ Json Parser Online. Json online editor.
 * online
 * json
 
-### advanced
-
 http://jsonapi.org
 json.api. A standard for building APIs in JSON.
 * json
@@ -1020,20 +948,20 @@ Parse, validate, manipulate, and display dates in JavaScript
 
 # HTTP Server & environment
 
-### htaccess.ru
-
 http://htaccess.ru
 Создание и настройка файла htaccess – дело непростое. Наш сайт поможет разобраться во всех нюансах настройки конфигурационного файла веб-сервера.
-
-### online tools
+* http
+* htaccess
 
 http://www.favicomatic.com
 Favic-o-matic generates the favicon, both .ico & .png, and the HTML code needed to make your website looks awesome on every browser and every device.
+* favicon
+* generator
 
 http://www.cronchecker.net
 Sometimes it’s hard to remember exactly what the arcane Cron syntax means.
-
-### advanced
+* cron
+* checker
 
 http://habrahabr.ru/post/253121
 Гид по заголовкам кэширования HTTP для начинающих
@@ -1074,8 +1002,6 @@ https://github.com/ruby/ruby
 Ruby is the interpreted scripting language for quick and easy object-oriented programming. It has many features to process text files and to do system management tasks (as in Perl). It is simple, straight-forward, and extensible.
 * ruby
 * git
-
-### beginner
 
 https://github.com/arbox/rails-style-guide
 Это руководство по оформлению кода на Rails дает передовые рекомендации. С его помощью обычный программист на Руби будет создавать код, который с легкостью смогут поддерживать и развивать другие обычные разработчики.
@@ -1244,16 +1170,25 @@ Drifting Ruby. Drifting Ruby site and episodes. While there is currently no comm
 * articles
 * learning
 
-### advanced
-
 http://learnrubythehardway.org/book
 Welcome to Learn Ruby the Hard Way, 3rd Edition.
+* learning
+* ruby
+* hardway
 
 http://guides.rubygems.org
-Learn how RubyGems works, and how to make your own.
-The RubyGems software allows you to easily download, install, and use ruby software packages on your system. The software package is called a “gem” and contains a package Ruby application or library.
+Learn how RubyGems works, and how to make your own. The RubyGems software allows you to easily download, install, and use ruby software packages on your system. The software package is called a “gem” and contains a package Ruby application or library.
+* ruby
+* gems
+* guides
 
 https://github.com/ruby/ruby/tree/trunk/doc/syntax
+ruby / doc / syntax
+* ruby
+* doc
+* syntax
+* doc
+* rdoc
 
 http://ruby-doc.com/docs/ProgrammingRuby/html/index.html
 Programming Ruby. The Pragmatic Programmer's Guide.
@@ -1261,26 +1196,32 @@ Programming Ruby. The Pragmatic Programmer's Guide.
 * pragmatic
 * guide
 
-### master
-
-### articles
-
 http://habrahabr.ru/company/coub/blog/252803
 Туториал по Coub API
+* coub
+* api
 
 http://habrahabr.ru/post/146441
 Немного Rails трюков
+* ruby
+* rails
 
 http://habrahabr.ru/post/144498
 Три полезных совета по Rails консоли
-
-### gems
+* rails
+* ruby
 
 https://github.com/RubyMoney
 Integration of RubyMoney - Money with Rails
+* integration
+* ruby
+* RubyMoney
 
 https://github.com/plataformatec/devise
 Flexible authentication solution for Rails with Warden
+* rails
+* ruby
+* authentication
 
 http://rtomayko.github.io/rack-cache
 Rack::Cache is suitable as a quick drop-in component to enable HTTP caching for Rack-based applications that produce freshness (Expires, Cache-Control) and/or validation (Last-Modified, ETag) information.
@@ -1310,8 +1251,6 @@ test-unit is a xUnit family unit testing framework for Ruby.
 * unit-test
 * gem
 
-### monk framework
-
 https://github.com/monkrb/monk
 Monk, the glue framework for web development
 * ruby
@@ -1319,8 +1258,6 @@ Monk, the glue framework for web development
 * framework
 * web
 * development
-
-### useful help tools
 
 http://rubular.com
 a Ruby regular expression editor
@@ -1348,10 +1285,11 @@ Find, install, and publish RubyGems.
 * rails
 * gem
 
-### useful help resource
-
 http://rusrails.ru/rails-form-helpers
 Хелперы форм
+* rails
+* ruby
+* helpers
 
 http://rubyquicktips.com
 Random Ruby and Rails tips. This blog is dedicated to deliver short, interesting and practical tidbits of the Ruby language and Ruby on Rails framework.
@@ -1374,8 +1312,6 @@ http://rubyjobs.ru
 Вакансии для разработчиков, использующих Ruby.
 * ruby
 * jobs
-
-### blogs
 
 http://codebeerstartups.com
 Proudly published with Jekyll
@@ -2469,8 +2405,8 @@ ImageMagick - это кроссплатформенный консольный �
 * manipulating
 * tools
 
-Linux и бесплатные облачные хранилища
 http://habrahabr.ru/post/266293
+Linux и бесплатные облачные хранилища
 * storage
 * online
 * linux
@@ -2616,7 +2552,6 @@ With PicPaste you can upload your pictures quick and easy and show them to your 
 * sharing
 
 
-
 # Wiki
 
 
@@ -2624,9 +2559,13 @@ With PicPaste you can upload your pictures quick and easy and show them to your 
 
 http://antonshein.ru/turbo
 Турбокнопка. Помогает побороть прокрастинацию, почувствовать прилив сил и начать работать в турбо-режиме.
+* turbo
+* buttons
 
 http://programming-motherfucker.com
 We are a community of motherfucking programmers who have been humiliated by software development methodologies for years.
+* programming
+* motherfucker
 
 https://pp.vk.me/c617725/v617725400/b966/VJHqhoVV23I.jpg
 
@@ -2659,6 +2598,9 @@ http://artgorbunov.ru
 # Книги, нужные и полезные
 
 http://goo.gl/SJc4o4
+books, links
+* books
+* collection
 
 
 # Vim
@@ -2686,6 +2628,7 @@ VIM Regular Expressions
 
 http://derekwyatt.org/vim
 Do it all, Do it right, Do it in Vim. Bram Moolenaar, and all of the other authors deserve some serious credit for making this amazing edition of good ol' Vi because it's just about the best app that has ever been written in the history of software.
+* vim
 
 http://www.cs.swarthmore.edu/help/vim/home.html
 These pages contain some vim tips.
@@ -2791,8 +2734,6 @@ Scripting the Vim editor, Part 5. Event-driven scripting and automation. Automat
 * ibm
 * part 5
 
-### awesome plugins
-
 https://github.com/Valloric/YouCompleteMe
 A code-completion engine for Vim
 * code-completion
@@ -2823,8 +2764,6 @@ vimscript-cheatsheet
 
 # EMACS
 
-### beginner
-
 http://habrahabr.ru/post/190790
 Почему Emacs?
 * emacs
@@ -2852,20 +2791,14 @@ http://habrahabr.ru/company/mailru/blog/267595
 * git
 * habrahabr
 
-### git-flow
-
 http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html
 Шпаргалка по git-flow
 * git
 * git-flow
 
-### cheatsheet
-
 http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png
 * git
 * cheatsheet
-
-### play with me
 
 http://pcottle.github.io/learnGitBranching
 Interested in learning Git? Well you've come to the right place! "Learn Git Branching" is the most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
@@ -2892,21 +2825,20 @@ Fossil is a simple, high-reliability, distributed software configuration managem
 
 # Алгоритмы
 
-### поиск текста
-
 http://habrahabr.ru/post/111449
 Алгоритмы поиска в строке. Постановка задачи поиска в строке.
+* habrahabr
 
 http://habrahabr.ru/post/114997
 Нечёткий поиск в тексте и словаре. Алгоритмы нечеткого поиска (также известного как поиск по сходству или fuzzy string search) являются основой систем проверки орфографии и полноценных поисковых систем вроде Google или Yandex.
+* habrahabr
 
 
 # Железо: программирование, реверс и т.д.
 
-### реверс-инжениринг
-
 http://habrahabr.ru/post/254251
 Реверс-инжениринг драйверов USB-устройств на примере машинки на радиоуправлении.
+* reverse
 
 
 # CSS и все про него
@@ -3166,6 +3098,7 @@ http://lifehacker.ru
 
 http://dmitry.koprov.ru
 tail -f /dev/mind | vim -
+* dmitry
 
 http://www.hacksparrow.com
 Node.js, JavaScript, and other Tutorials by Cap'n Hack Sparrow
@@ -3242,6 +3175,8 @@ http://maksd.info
 * blog
 
 http://spf13.com
+by Steve Francia
+* blog
 
 http://rubaxa.github.io
 Lebedev Konstantin
@@ -3506,6 +3441,8 @@ http://prgssr.ru
 
 http://imagick.metlan.ru
 Записки ]Mantyr[
+* blog
+* mantyr
 
 http://www.front-nika.ru
 Front Nika - Сайт о фронтенд-разработке
@@ -3659,13 +3596,17 @@ http://caniuse.com
 
 # BASH
 
-### Cheatsheet
-
 https://github.com/NisreenFarhoud/Bash-Cheatsheet
+* github
+* bash
+* cheatsheet
 
 http://overapi.com/linux
-
-### manual
+linux command line cheatsheet
+* linux
+* command
+* line
+* cheatsheet
 
 http://bash.cyberciti.biz/guide/Main_Page
 Linux Shell Scripting Tutorial (LSST) v2.0. Written by Vivek Gite.
@@ -3691,8 +3632,6 @@ http://www.bash-scripting.ru/abs/chunks
 Advanced Bash Scripting по-русски. Детальное руководство по искусству shell-скриптинга.
 * bash
 * scripting
-
-### articles
 
 http://www.davidpashley.com/articles/writing-robust-shell-scripts
 Writing Robust Bash Shell Scripts
@@ -3774,8 +3713,6 @@ Bash-скрипты, часть 11: expect и автоматизация инт�
 * scripts
 * habrahabr
 
-### resources
-
 http://wiki.bash-hackers.org
 The Bash-Hackers Wiki
 * bash
@@ -3843,10 +3780,18 @@ https://github.com/kopipejst/progressbar
 
 https://github.com/sbstjn/timesheet.js
 Simple JavaScript library to create HTML time sheets.
-example: http://sbstjn.github.io/timesheet.js
+* javascript
+* library
+* timesheet
+* html
+* time
 
 http://vitalets.github.io/x-editable
 This library allows you to create editable elements on your page. It can be used with any engine (bootstrap, jquery-ui, jquery only) and includes both popup and inline modes. Please try out demo to see how it works.
+* javascript
+* plugin
+* ajax
+* x-editable
 
 http://d3js.org
 D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
@@ -3990,8 +3935,6 @@ Erlang is a programming language used to build massively scalable soft real-time
 * erlang
 * official page
 
-### beginner
-
 http://learnyousomeerlang.com
 This is Learn You Some Erlang for great good! This book is for you if you’ve got some programming experience and if you’re not too familiar with functional programming.
 * teaching
@@ -4053,8 +3996,6 @@ Erlang для самых маленьких. Глава 1: Типы данных
 * habrahabr
 * beginner
 * articles
-
-### Framework
 
 http://chicagoboss.org
 Erlang web MVC, now featuring Comet.
@@ -4542,105 +4483,130 @@ VGMaps.com is an archive of video game maps up since May 6, 2002.
 * other platform
 * maps
 
-### youtube
-
-by Zeta
-
 http://www.youtube.com/watch?v=eSQ8qLEvExI
 NES Contra Theme Piano Cover by Zeta - YouTube
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=KtATU0aLq6I
 NES Jackal Theme Piano Cover by Zeta - YouTube
-
-by PLAYER PIANO
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=IHuD-ySr1AY
 Street Fighter (Guile's Theme) - PLAYER PIANO - YouTube
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=Tv_FRBRM0cg
 Doctor Who Theme - PLAYER PIANO - YouTube
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=Q7ucIberDoU
 Bohemian Rhapsody (Queen) - Player Piano - YouTube
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=xGHW21QsQSM
 Ghost Waltz - PLAYER PIANO (SONYA BELOUSOVA) - YouTube
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=TF8pA3vvLDY
 Montagues and Capulets (Prokofiev) - PLAYER PIANO - YouTube
-
-by Vomitron
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=bUj_47hVobc
 Vomitron - Contra Theme (Guitar Cover) - YouTube
-
-by //
+* youtube
+* cover
 
 https://www.youtube.com/watch?v=Ay8vzCHkgEk
 [Black MIDI] Synthesia - "Pi" π/3.14 MILLION (3,141,592) ~ TheSuperMarioBros2
-
-by Nommyde
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=pFbHycqNToY
 Contra Force Cover 1-3 levels
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=z5uOWxvVGlY
 NES Jurassic Park Cover
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=iDNtxqJ-L84
 Teenage Mutant Ninja Turtles Tournament Fighters Sewer Cover
-
-by Michael Sobin
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=SINjsb3plWI
 Contra (nes/dendy) - All stages OST Metal cover. With gameplay.
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=Qs4iC8O3ocY
 Earthworm Jim OST (Mega Rock Cover) New Junk City/Anything But Tangerines
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=_1wJ3SaJce0&index=9
 Иван Васильевич Меняет Профессию - Погоня (Гитарная рок версия!)
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=_LiI1euzK-M
 TERMINATOR ost (HARD ROCK cover!). main theme.
-
-by A. Zubareus
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=bxTW53_aJ6A
 Jurassic Park nes
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=6IgD8oXrfLM
 TMNT Tournament Fighters cover
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=QMQNNK81qsc
 Duck Tales 2 - bermuda cover
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=DAB9gaueFMw
 Double Dragon III cover
-
-by Melodic Guitar Rock/Metal GuiltyGearRockYou
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=IcIDfua1Pt8
 Metal Guitar Arrange: Battletoads & Double Dragon - Stage 2
-
-by Jonas Lefvert
+* youtube
+* cover
 
 https://www.youtube.com/watch?v=t2ftR5Nf2V4
 Metroid (NES) - Guitar Medley (Beginning, Item Theme, Brinstar, Title Screen, Kraid's lair)
-
-### just
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=kcnukP6KW7Q
 Alien 3 NES Music Cover version Dendy NES Famicom
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=mjLWxW3LBAA
 Darkwing Duck(NES) Guitar Cover
-
-
-### demoscene
+* youtube
+* cover
 
 http://www.youtube.com/watch?v=2sr8e47Z_l8
 {DEMOSCENE}{PC} : fr-043 : Rove by Farbrausch - YouTube
+* youtube
+* cover
 
 
 # SQLITE
@@ -4686,8 +4652,6 @@ Piwik is the leading open-source analytics platform that gives you more than jus
 
 # JAVA
 
-### beginner
-
 http://javarush.ru
 Классные уроки по java. Миссия – переучить миллион человек на Java-программистов.
 * java
@@ -4696,10 +4660,11 @@ http://javarush.ru
 
 # Command line
 
-### learning
-
 http://habrahabr.ru/post/262127
 Искусство командной строки
+* habrahabr
+* command
+* line
 
 
 # PHP
@@ -4766,12 +4731,9 @@ Russian Clojure Planet.
 * clojure
 * Russian
 
-### docs
-
 http://habrahabr.ru/post/173071
 Почему стоит изучить Clojure?
-
-### FastRun
+* clojure
 
 http://alexott.net/ru/clojure/clojure-intro
 * clojure
@@ -4800,8 +4762,6 @@ https://habrahabr.ru/post/273561
 * rust
 * habrahabr
 
-### beginner
-
 http://rustbyexample.com
 Rust by Example. Rust by Example is a collection of examples that illustrate various Rust concepts and the standard libraries.
 * rust
@@ -4812,8 +4772,13 @@ Rust by Example. Rust by Example is a collection of examples that illustrate var
 # Assembler && NASM
 
 http://www.nasm.us
-
-### beginner
+Netwide Assembler: an assembler targetting the Intel x86 series of processors, with portable source
+* nasm
+* assembler
+* intel
+* x86
+* processors
+* portable
 
 http://asmtutor.com
 Learn Assembly Language. This project was put together to teach myself NASM 64bit assembly language on linux.
@@ -5123,8 +5088,6 @@ Lua: Что в нем такого?
 * wiki
 * articles
 
-### FastRun
-
 https://zserge.wordpress.com/2012/02/23/lua-за-60-минут
 Lua за 60 минут.
 * lua
@@ -5144,8 +5107,6 @@ https://learnxinyminutes.com/docs/ru-ru/lua-ru
 * speed
 * docs
 
-### Blogs
-
 https://ilovelua.wordpress.com
 Я люблю Lua. I love Lua. Книжка по Lua на русском языке.
 * lua
@@ -5153,16 +5114,12 @@ https://ilovelua.wordpress.com
 * article
 * page
 
-### VIM
-
 http://peterodding.com/code/vim/lua-inspect
 luainspect.vim Semantic highlighting for Lua in Vim
 * lua
 * inspect
 * vim
 * highlights
-
-### Love2d
 
 https://love2d.org
 LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
@@ -5237,8 +5194,6 @@ Love2d Category:Tutorials
 * tutorials
 * learn
 * wiki
-
-### framework
 
 http://sailorproject.org
 Sailor - A Lua MVC web framework
@@ -5365,8 +5320,6 @@ React. A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES.
 * framework
 * interface
 
-### FastRun
-
 http://habrahabr.ru/post/248799
 Краткое руководство по React JS
 * reactjs
@@ -5381,8 +5334,6 @@ Learning React.js: Getting Started and Concepts
 * speedrun
 * tutorial
 
-### Docs
-
 https://www.gitbook.com/book/mieta/developing-a-react-age
 Developing a React age. Перевод на русский язык книги Developing a React age. — Mr. Brandy Yuen.
 * book
@@ -5396,14 +5347,10 @@ Reactjs (документация, руководство, примеры, flux)
 * guide
 * example
 
-### Cheatsheet
-
 http://ricostacruz.com/cheatsheets/react.html
 Cheatsheet for ReactJS
 * cheatsheet
 * reactjs
-
-### Resources
 
 https://github.com/enaqx/awesome-react
 A collection of awesome things regarding React ecosystem.
@@ -5478,8 +5425,6 @@ https://habr.com/post/269831
 
 # SVG
 
-### docs
-
 http://tutorials.jenkov.com/svg
 SVG is short for Scalable Vector Graphics.
 * svg
@@ -5542,8 +5487,6 @@ Mongoose ODM
 * mongodb
 * object modeling
 
-### Интересное
-
 http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb
 Why you should never, ever, ever use MongoDB
 * why
@@ -5578,14 +5521,8 @@ WebSocket Security
 * websocket
 * security
 
-### Short Info
-
-https://blogdotkaazingdotcom.files.wordpress.com/2012/02/cables21.jpg
-
 
 # IRC
-
-### standart
 
 http://ircv3.net
 Welcome to the IRCv3 Working Group. We're a group of IRC client and server software authors working to enhance, improve, maintain and standardize the current IRC protocol.
@@ -5678,8 +5615,6 @@ LedisDB. A high performance NoSQL like Redis powered by Go.
 * nosql
 * go
 
-### Redis
-
 http://redis.io
 Redis is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
 * redis
@@ -5716,8 +5651,6 @@ Redis, Resque & Friends
 * slides
 * docs
 
-### tools
-
 http://redisdesktop.com
 Redis Desktop Manager (aka RDM)— is a cross-platform open source Redis DB management tool (i.e. Admin GUI). Redis Desktop Manager developed to replace hundreds of slow and ugly tools for redis.
 * redis
@@ -5747,8 +5680,6 @@ http://fastoredis.com
 FastoRedis (fork of FastoNoSQL) — is a cross-platform open source Redis management tool (i.e. Admin GUI).
 * redis
 * viewer
-
-### cheatsheet
 
 http://lzone.de/cheat-sheet/Redis
 Redis Cheat Sheet
@@ -5839,9 +5770,14 @@ https://stepik.org/course/497
 # Freelance
 
 https://www.upwork.com
+Hire Freelancers
+* upwork
+* freelancers
 
 http://www.guru.com
 The best place for employers and freelancers to connect, collaborate, and get work done.
+* hire
+* freelancers
 
 https://www.freelancer.com
 Freelancer.com является крупнейшим в мире рынком фрилансинга, аутсорсинга и краудсорсинга по количеству пользователей и проектов.
@@ -5857,6 +5793,8 @@ Fl.ru — крупнейшая русскоязычная биржа удале�
 * freelance
 
 https://codility.com
+* hire
+* freelancers
 
 
 # Templates
@@ -6117,6 +6055,7 @@ https://www.youtube.com/user/Deussoftwebru
 * channel
 * videos
 
+
 # Perl
 
 http://pragmaticperl.com
@@ -6231,8 +6170,6 @@ cheat sheet elixir-lang.org v1.2 Updated 1/4/2016
 * cheat sheet
 * elixir
 
-### framework
-
 http://www.phoenixframework.org
 Phoenix is a web development framework written in Elixir which implements the server-side MVC pattern.
 * elixir
@@ -6241,9 +6178,8 @@ Phoenix is a web development framework written in Elixir which implements the se
 * development
 * web
 
-# AutoDoc Generators
 
-### coffeescript
+# AutoDoc Generators
 
 http://jashkenas.github.io/docco
 Literate Programming can be Quick and Dirty.
@@ -6421,6 +6357,7 @@ http://ru.smalltalk.wikia.com/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1
 * article
 * must have
 * reading
+
 
 # Monitoring system
 
@@ -6697,7 +6634,7 @@ Testing Tools
 * tools
 
 
-# Jade
+# Jade / Pug
 
 http://jade-lang.com
 JADE LANGUAGE Node Template Engine
@@ -7028,7 +6965,7 @@ Syncthing replaces proprietary sync and cloud services with something open, trus
 * internet
 
 https://mithril.js.org
-Mithril is a modern client-side Javascript framework for building Single Page Applications. It's small (< 8kb gzip), fast and provides routing and XHR utilities out of the box.
+Mithril is a modern client-side Javascript framework for building Single Page Applications. It's small (less 8kb gzip), fast and provides routing and XHR utilities out of the box.
 * mithril
 * SPA
 * single
@@ -7341,6 +7278,7 @@ https://habr.com/post/326986
 * habrahabr
 * article
 
+
 # Weex
 
 https://weex.apache.org
@@ -7387,5 +7325,3 @@ http://design-pattern.ru
 * поведенческие паттерны
 * паттерны распределения данных
 * паттерны локальной конкуренции
-
-
