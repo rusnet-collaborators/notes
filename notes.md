@@ -300,6 +300,7 @@ HowToNode.org is a community supported blog created by Tim Caswell.
 * community
 
 http://node-tricks.com
+node tricks
 * node.js
 * javascript
 * mongodb
@@ -524,9 +525,6 @@ http://wiki.ecmascript.org/doku.php
 This is a wiki for the ongoing specification work of Ecma TC39, the technical committee tasked with standardization of the ECMAScript programming language.
 * ecmascript
 
-https://people.mozilla.org/~jorendorff/es6-draft.html
-This is not the official ECMAScript Language Specification. This is a draft of the next edition of the standard.
-
 http://www.slideshare.net/moldovaictsummit2016/ss-61624327
 Парадигмы программирования и шаблоны проектирования
 * javascript
@@ -570,30 +568,63 @@ you can pipe streams with a bit better notation to read.
 
 http://expressjs.com
 Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+* express
+* javascript
+* minimal
+* framework
 
-http://jsman.ru/express ~!
+http://jsman.ru/express
 Express: веб-фреймворк для Node.js. Руководство пользователя
+* express
+* javascript
+* framework
+* learning
 
-http://express-js.ru/expressjs ~!
+http://express-js.ru/expressjs
 Руководство по ExpressJS
+* express
+* javascript
+* framework
 
 http://habrahabr.ru/post/207930
 Базовое Node.JS приложение с использованием express
+* habrahabr
+* node.js
+* javascript
+* express
 
 http://habrahabr.ru/post/146983
 Web-разработка на node.js и express. Изучаем node.js на практике
+* habrahabr
+* node.js
+* javascript
+* express
 
 https://github.com/shuvalov-anton/node-blog
 Проект блога на Express.JS для курса на hexlet.org
+* javascript
+* express
+* framework
 
 http://ejs.co
 Effective JavaScript templating
+* ejs
+* javascript
+* templating
 
 http://singlepageappbook.com
 Content and site generator for Single page apps in depth (my book on single page applications)
+* generator
+* single
+* page
+* apps
 
 https://github.com/substack/stream-handbook
 This document covers the basics of how to write node.js programs with streams.
+* stream
+* handbook
+* node.js
+* streams
 
 http://forbeslindesay.github.io/express-route-tester
 Express Route Tester
@@ -693,22 +724,31 @@ Batarang. AngularJS WebInspector Extension for Chrome
 * angular
 * inspector
 
+
 # Backbone.js
 
 http://backbonejs.org
 Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
+* backbone
+* framework
 
 http://backbonejs.ru
-Backbone.js придает структуру веб-приложениям с помощью моделей с биндингами по ключу и пользовательскими событиями, коллекций с богатым набором методов с перечислимыми сущностями, представлений с декларативной обработкой событий; и соединяет это все с вашим существующим REST-овым JSON API.
+Backbone.js придает структуру веб-приложениям с помощью моделей с биндингами по ключу и пользовательскими событиями, коллекций с богатым набором методов с перечислимыми сущностями, представлений с декларативной обработкой событий; и соединяет это все с вашим существующим REST-овым JSON API
+* backbone
+* framework
 
 
 # Underscore
 
 http://underscorejs.org
 Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. It’s the answer to the question: “If I sit down in front of a blank HTML page, and want to start being productive immediately, what do I need?” … and the tie to go along with jQuery's tux and Backbone's suspenders.
+* underscore
+* framework
 
 http://underscorejs.ru
 Underscore — это невероятно удобная JavaScript-библиотека, этакий швейцарский нож для js-разработчика, набор функций-утилит, которые так привычны любителям Prototype.js (или Ruby). Однако в отличие от Prototype.js, underscore не модифицирует прототипы встроенных объектов JavaScript. Данная особенность гарантирует бесконфликтность, что позволяет замечательно сочетать этот инструмент с, например, jQuery или Backbone, или и тем и другим вместе.
+* underscore
+* framework
 
 
 # Prototype.js
@@ -730,6 +770,8 @@ http://www.prototypejs.ru
 
 http://raphaeljs.com
 Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+* raphaeljs
+* library
 
 
 # Jquery
@@ -831,6 +873,10 @@ http://coffeescript2ru.github.io
 
 http://js2.coffee
 Compile JavaScript into CoffeeScript online.
+* javascript
+* coffee
+* compile
+* online
 
 http://js2coffee.thomaskalka.de
 Analog js2.coffee. This hacked version of js2coffe tries to preserve comments.
@@ -861,6 +907,9 @@ CoffeeScript Lesson
 
 https://github.com/icebob/coffeescript_cheatsheet
 CoffeeScript Cheatsheet
+* coffeescript
+* cheatsheet
+* github
 
 https://css-tricks.com/jquery-coffeescript
 jQuery with CoffeeScript
@@ -1005,6 +1054,10 @@ Ruby is the interpreted scripting language for quick and easy object-oriented pr
 
 https://github.com/arbox/rails-style-guide
 Это руководство по оформлению кода на Rails дает передовые рекомендации. С его помощью обычный программист на Руби будет создавать код, который с легкостью смогут поддерживать и развивать другие обычные разработчики.
+* rails
+* ruby
+* guide
+* style
 
 http://rgua.github.io
 Rails Girls Guides. Это руководство было создано для того, чтобы познакомить девушек с технологиями, с помощью которых, они могут реализовать свои идеи.
@@ -1728,15 +1781,29 @@ https://habrahabr.ru/company/it-grad/blog/270589
 
 http://character-code.com
 HTML Code, Hexadecimal Code and HTML Entity for ASCII characters.
+* html
+* hexadecimal
+* code
 
 https://github.com/styleguide
 Welcome to the internal GitHub styleguide, the best resource for folks interested in writing code for GitHub. We have a living CSS styleguide, JavaScript styleguide, some recommendations on how to write Ruby code, and more.
+* github
+* styleguide
 
 http://caniuse.com
 "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+* caniuse
+* browser
+* support
+* table
+* front-end
 
 http://www.mysql.ru
 Вы сможете получить ответы на интересующие вас вопросы, связанные с MySQL, настройке программного обеспечения, и другую полезную информацию.
+* mysql
+* faq
+* doc
+* guide
 
 https://www.sqlteaching.com
 SQL Teaching online
@@ -1760,7 +1827,6 @@ The Manual.su's project. All cheat sheets, round-ups, quick reference cards, qui
 
 https://cdnjs.com
 We host it all - JavaScript, CSS, SWF, images, etc!
-
 * cdn
 * host
 * javascript
@@ -1905,6 +1971,11 @@ http://progopedia.ru
 
 http://pikabu.ru/story/ogromnyiy_spisok_poleznyikh_resursov_dlya_dizaynerov_i_webrazrabotchikov_2321120
 Огромный список полезных ресурсов для дизайнеров и web-разработчиков
+* resources
+* webapp
+* developers
+* links
+* collection
 
 http://it-ebooks.info
 IT eBooks. Free Download IT eBooks.
@@ -1920,6 +1991,7 @@ http://www.linuxlib.ru
 * free
 
 http://codecall.net
+codecall
 * codecall
 * forum
 
@@ -2286,6 +2358,10 @@ Record and share your terminal sessions, the right way.
 
 http://placehold.it
 Welcome to placehold.it. A quick and simple image placeholder service.
+* placehold
+* image
+* web
+* development
 
 http://regexpal.com
 RegexPal — a JavaScript regular expression tester
@@ -2796,10 +2872,6 @@ http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html
 * git
 * git-flow
 
-http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png
-* git
-* cheatsheet
-
 http://pcottle.github.io/learnGitBranching
 Interested in learning Git? Well you've come to the right place! "Learn Git Branching" is the most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
 * github
@@ -2906,13 +2978,14 @@ Less is a CSS pre-processor, meaning that it extends the CSS language, adding fe
 * css
 
 http://www.gradient-animator.com
+CSS Gradient Animator
 * css
 * gradient
 * animation
 * generator
 
 http://www.css3generator.in
-CSS3 Generator.
+CSS3 Generator
 * css
 * generator
 * simply
@@ -3141,13 +3214,16 @@ Human Web Development is focused on creating unparalleled user experience. We th
 * blog
 
 http://tomdallimore.com/blog
+Tom Dallimore
 * blog
 * rails
 
 http://paydrotalks.com/writings.html
+paydrotalks
 * blog
 
 http://nakkaya.com
+nakkaya
 * blog
 
 http://thepugautomatic.com
@@ -3510,11 +3586,19 @@ Emmet Cheatsheet
 * emmet
 * cheatsheet
 
-### example in real life
-
 https://asciinema.org/a/8289
+Emmet.vim usage example
+* vim
+* emmet
+* example
+* asciinema
 
 https://asciinema.org/a/4568
+Emmet.vim usage example
+* vim
+* emmet
+* example
+* asciinema
 
 
 # HTML5
@@ -3597,6 +3681,7 @@ http://caniuse.com
 # BASH
 
 https://github.com/NisreenFarhoud/Bash-Cheatsheet
+Bash Shell Cheatsheet
 * github
 * bash
 * cheatsheet
@@ -3774,6 +3859,7 @@ Webix - JavaScript UI Framework for desktop and mobile browsers.
 * mobile
 
 https://github.com/kopipejst/progressbar
+ProgressBar in 4 lines of jQuery
 * progressbar
 * ui
 * jquery
@@ -4038,6 +4124,7 @@ TclHttpd Home Page. The TclHttpd is a pure Tcl implementation of a Web server.
 * server
 
 http://www.opennet.ru/docs/RUS/tcltk
+Документация по Tcl/Tk
 * tcl
 * doc
 * opennet
@@ -4736,6 +4823,7 @@ http://habrahabr.ru/post/173071
 * clojure
 
 http://alexott.net/ru/clojure/clojure-intro
+Введение в Clojure
 * clojure
 * fastrun
 
@@ -5721,6 +5809,10 @@ R с нуля
 
 https://www.ibm.com/developerworks/ru/library/bd-learnr/index.html
 Необходимо ли вам изучать язык R?
+* R
+* ibm
+* learning
+* language
 
 http://www.ibm.com/developerworks/ru/library/bd-operationalmetrics/index.html
 Визуализация данных с использованием языка R: как получить и показать информацию, значимую для группы гибкой разработки
@@ -5793,6 +5885,7 @@ Fl.ru — крупнейшая русскоязычная биржа удале�
 * freelance
 
 https://codility.com
+Codility simplifies tech hiring and saves tons of engineering hours
 * hire
 * freelancers
 
@@ -6528,6 +6621,7 @@ Beautiful Racket. How to make your own programming languages with racket by Matt
 # Relational database management systems
 
 https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems
+Comparison of relational database management systems
 * relational
 * database
 * management
