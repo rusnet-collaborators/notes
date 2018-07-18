@@ -4540,6 +4540,16 @@ Revel — высокопроизводительный веб-фреймворк
 * go
 * habrahabr
 
+https://astaxie.gitbooks.io/build-web-application-with-golang/en/preface.html
+Build web application
+* go
+* build
+* wen
+* application
+* examples
+* books
+* collections
+
 
 # YAML
 
