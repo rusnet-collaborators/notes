@@ -4600,6 +4600,14 @@ YAML Tutorial. Many years ago I wrote a tutorial on using YAML in ruby. It still
 * yaml
 * tutorial
 
+https://gist.github.com/josephspurrier/7686b139f29601c3b370
+Golang - Asterisk and Ampersand Cheatsheet
+* go
+* astericks
+* cheatsheet
+* gist
+* github
+
 
 # NES Cover & Chiptune & Demoscene & other
 
