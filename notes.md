@@ -4564,6 +4564,23 @@ Build web application
 * books
 * collections
 
+http://golangtutorials.blogspot.com/2011/05/table-of-contents.html
+GoLang Tutorials. Table of Contents
+* golang
+* tutorials
+* blogspot
+* examples
+* articles
+
+https://mholt.github.io/json-to-go
+This tool instantly converts JSON into a Go type definition. Paste a JSON structure on the left and the equivalent Go type will be generated to the right, which you can paste into your program. The script has to make some assumptions, so double-check the output!
+* go
+* json
+* converter
+* online
+* type
+* definition
+
 
 # YAML
 
@@ -6762,6 +6779,12 @@ JADE LANGUAGE Node Template Engine
 * template
 * engine
 
+https://pugjs.org
+Pug is a high-performance template engine heavily influenced by Haml and implemented with JavaScript for Node.js and browsers.
+* pug
+* template
+* engine
+
 http://aramboyajyan.github.io/online-jade-template-editor
 Enter Jade code on the left and the editor will automatically convert it to HTML on the right.
 * jade
@@ -6776,6 +6799,14 @@ https://habr.com/post/278109
 * tutorials
 * examples
 * habrahabr
+
+https://pughtml.com
+PugHtml - Pug and HTML online converter in realtime
+* pug
+* html
+* online
+* converter
+* realtime
 
 
 # Kali Linux
