@@ -2347,6 +2347,20 @@ Build, deploy, and manage modern web projects. Get an all-in-one workflow that c
 * front-end
 * development
 
+https://www.dotnetperls.com
+dotnetperls. Written by Sam Allen (Dot Net Perls)
+* dotnetperls
+* examples
+* collections
+* C#
+* Python
+* Sift
+* Go
+* Ruby
+* VB.NET
+* Java
+* Scala
+
 
 # Useful help tools
 
