@@ -432,6 +432,13 @@ https://habr.com/company/mailru/blog/269465
 * promise
 * article
 
+https://js-node.ru
+Node.js - Русская документация серверного JavaScript языка
+* node
+* russian
+* examples
+* documentation
+
 
 # Typescript
 
