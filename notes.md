@@ -2934,7 +2934,7 @@ http://habrahabr.ru/post/254251
 * reverse
 
 
-# CSS и все про него
+# CSS SASS
 
 http://habrahabr.ru/company/htmlacademy/blog/254171
 Отличные рекомендации по верстке: Что такое хорошо: как мы разрабатывали критерии для оценки качества вёрстки веб-проектов.
@@ -3162,6 +3162,20 @@ Better, Simpler Grid Systems
 * grid
 * systems
 * flexbox
+
+https://www.sitepoint.com/sass-basics-operators
+Sass Basics: Operators
+* sass
+* basics
+* operators
+
+https://www.quackit.com/sass/tutorial
+This Sass tutorial explains what Sass is, how to install it, and how to use it
+* sass
+* basics
+* tutorial
+* howto
+* examples
 
 
 # Graphviz
