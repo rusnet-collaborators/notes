@@ -2581,6 +2581,20 @@ WTF is a personal information dashboard for your terminal, developed for those w
 * dashboard
 * terminal
 
+https://richpreview.com
+Rich Link Preview. Preview your website for chat apps and social networks
+* rich
+* link
+* preview
+* website
+* social
+
+https://validator.github.io/validator
+The Nu Html Checker
+* html
+* java
+* validator
+
 
 # Тренировки и развитие
 
@@ -2865,6 +2879,38 @@ http://habrahabr.ru/post/190790
 Почему Emacs?
 * emacs
 * habrahabr
+
+http://elpa.gnu.org
+ELPA - GNU Emacs Lisp Package Archive
+* emacs
+* elpa
+* list
+* packages
+* archive
+
+http://www.rgrjr.com/emacs/emacs_cheat.html
+Emacs Cheat Sheet
+* emacs
+* cheatsheet
+* keyboard
+
+http://ergoemacs.org/emacs/modernization_meta_key.html
+Emacs M-key Notation vs Alt+key Notation
+* emacs
+* cheatsheet
+* keyboard
+
+https://www.emacswiki.org
+Emacs Wiki
+* emacs
+* wiki
+
+http://melpa.org
+MELPA (Milkypostman’s Emacs Lisp Package Archive)
+* emacs
+* list
+* packages
+* archive
 
 
 # Git
