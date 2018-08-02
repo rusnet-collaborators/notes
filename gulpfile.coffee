@@ -1,21 +1,24 @@
-$        = (require 'gulp-load-plugins')()
-gulp     = require 'gulp'
-gulpsync = $.sync gulp
-w3cjs    = require 'w3cjs'
+gulp              = require 'gulp'
+gulp_autoprefixer = require 'gulp-autoprefixer'
+gulp_coffee       = require 'gulp-coffee'
+gulp_ejs          = require 'gulp-ejs'
+gulp_sass         = require 'gulp-sass'
+gulp_util         = require 'gulp-util'
+
+path     = require 'path'
 marked   = require './helpers/marked'
 hash_gen = require './helpers/hash_gen'
 config   = require './config.coffee'
-path     = require 'path'
 
 gulp.task 'gen_js', ->
   gulp.src path.join config.dev_path_coffee, '*.coffee'
-    .pipe $.coffee bare: true
+    .pipe gulp_coffee bare: true
     .pipe gulp.dest config.prod_path_js
 
 gulp.task 'gen_css', ->
   gulp.src path.join config.dev_path_sass, '*.sass'
-    .pipe $.sass indentedSyntax: true
-    .pipe $.autoprefixer
+    .pipe gulp_sass indentedSyntax: true
+    .pipe gulp_autoprefixer
       browsers: [
         'Firefox ESR'
         'Firefox 14'
@@ -33,7 +36,7 @@ gulp.task 'gen_css', ->
 
 gulp.task 'gen_html', ->
   gulp.src path.join config.dev_path, 'index.ejs'
-    .pipe $.ejs {marked: marked, env: process.env.NODE_ENV, hash_gen: hash_gen}, {}, ext: '.html'
+    .pipe gulp_ejs {marked: marked, env: process.env.NODE_ENV, hash_gen: hash_gen}, {}, ext: '.html'
     .pipe gulp.dest config.prod_path
   return
 
@@ -56,28 +59,21 @@ gulp.task 'copy', ->
     .pipe gulp.dest config.prod_path
   gulp.src path.join(config.dev_path, 'favicon.ico')
     .pipe gulp.dest config.prod_path
-  #gulp.src path.join(config.dev_path, 'robots.txt')
-    #.pipe gulp.dest config.prod_path
-  #gulp.src path.join(config.dev_path, 'sitemap.xml')
-    #.pipe gulp.dest config.prod_path
   return
 
-gulp.task 'default', gulpsync.sync [
+gulp.task 'default', [
   'gen_js'
   'gen_css'
   'gen_html'
   'copy'
 ]
 
-gulp.task 'html', gulpsync.sync [
+gulp.task 'html', [
   'gen_html'
 ]
-
-gulp.task 'deploy', [], $.shell.task [ 'surge ' + config.prod_path ]
 
 gulp.task 'watcher', ->
   gulp.watch path.join(config.dev_path_coffee, '*.coffee'), ['gen_js']
   gulp.watch path.join(config.dev_path_sass,   '*.sass'),   ['gen_css']
   gulp.watch path.join(config.dev_path,        '*.html'),   ['gen_html']
   return
-
