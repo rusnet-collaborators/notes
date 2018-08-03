@@ -5476,6 +5476,16 @@ Fast, asynchronous web framework for Lua/Torch
 * framework
 * asynchronous
 
+https://habr.com/post/349276
+Создание игры на Lua и LÖVE — 1
+* love
+* lua
+* 2D
+* game
+* habrahabr
+* tutorials
+* examples
+
 
 # AWK
 
@@ -7408,6 +7418,23 @@ Crystal - The Crystal Programming Language. Fast as C, slick as Ruby.
 * fast
 * slick
 * ruby
+
+http://ru.crystal-lang.org/docs
+Язык программирования Crystal
+* crystal
+* programming
+* language
+* fast
+* docs
+
+https://carc.in
+Compile & run code in Crystal
+* crystal
+* ruby
+* C
+* online
+* compile
+* paste
 
 
 # Ocaml
