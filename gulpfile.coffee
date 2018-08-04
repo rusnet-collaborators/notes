@@ -36,7 +36,7 @@ gulp.task 'gen_css', ->
 
 gulp.task 'gen_html', ->
   gulp.src path.join config.dev_path, 'index.ejs'
-    .pipe gulp_ejs {marked: marked, env: process.env.NODE_ENV, hash_gen: hash_gen}, {}, ext: '.html'
+    .pipe gulp_ejs {asset_version: new Date().getTime(), marked: marked, env: process.env.NODE_ENV, hash_gen: hash_gen}, {}, ext: '.html'
     .pipe gulp.dest config.prod_path
   return
 
