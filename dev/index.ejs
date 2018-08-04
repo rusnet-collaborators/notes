@@ -4,23 +4,7 @@
     <%- include("head") %>
   </head>
   <body>
-    <div class="container bg_content">
-      <div id="top" class="row">
-        <img src="" alt="notes" class="hide" role="top banner"></img>
-      </div>
-      <%- include("panel") %>
-      <a href="/">
-        <h1 class="center custom-h1-one">notes</h1>
-      </a>
-
-      <div id="notes_wrap" class="row"></div>
-
-      <div class="row space">
-        <%- include("bottom") %>
-      </div>
-    </div>
-
-    <%- include("script") %>
+    <%- include("js") %>
     <% if(env === 'production') { %>
       <%- include("metriks") %>
     <% } %>
