@@ -2525,10 +2525,6 @@ http://www.transliter.ru
 * transliter
 * online
 
-https://dpaste.de
-dpaste.de is powered by dpaste, which is open source.
-* paste
-
 https://duck.mail.ru
 Утка приходит на помощь. Кто поможет найти баги в коде? Конечно же, жёлто-резиновый гений!
 * duck
@@ -2662,6 +2658,10 @@ With PicPaste you can upload your pictures quick and easy and show them to your 
 * simple
 * sharing
 
+https://dpaste.de
+dpaste.de is powered by dpaste, which is open source.
+* paste
+
 
 # Wiki
 
@@ -2704,6 +2704,21 @@ http://artgorbunov.ru
 * арт
 * дизайн
 * примеры
+
+http://bettermotherfuckingwebsite.com
+Better Motherfucking Website
+* better
+* website
+
+https://thebestmotherfucking.website
+The Best Motherfucking Website
+* better
+* website
+
+http://motherfuckingwebsite.com
+Motherfucking Website
+* better
+* website
 
 
 # Книги, нужные и полезные
@@ -5485,6 +5500,19 @@ https://habr.com/post/349276
 * habrahabr
 * tutorials
 * examples
+
+https://hel.fomalhaut.me
+HEL Repository
+* lua
+* repository
+* hel
+* collections
+
+http://computercraft.ru
+Форум - ComputerCraft
+* lua
+* computer
+* craft
 
 
 # AWK
