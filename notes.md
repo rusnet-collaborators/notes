@@ -2591,6 +2591,21 @@ The Nu Html Checker
 * java
 * validator
 
+https://developers.google.com/speed/docs/insights/rules
+PageSpeed Insights Rules
+* google
+* speed
+* docs
+* insights
+* rules
+
+https://checkgzipcompression.com
+Check GZIP compression
+* gzip
+* check
+* compression
+* tool
+
 
 # Тренировки и развитие
 
