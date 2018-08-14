@@ -2606,6 +2606,15 @@ Check GZIP compression
 * compression
 * tool
 
+https://msgpack.org
+MessagePack: It's like JSON. but fast and small.
+* json
+* msgpack
+* fast
+* small
+* message
+* pack
+
 
 # Тренировки и развитие
 
