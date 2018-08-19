@@ -1439,6 +1439,40 @@ IBM developerWorks. Search by ruby on rails
 * articles
 * library
 
+http://www.ruby2d.com
+Ruby 2D. Make cross-platform 2D applications in Ruby
+* ruby
+* cross-platform
+* 2D
+* games
+* application
+* framework
+* SDL
+
+https://leanpub.com/developing-games-with-ruby/read
+Developing Games With Ruby
+* ruby
+* game
+* developing
+* article
+* manual
+* howto
+* SDL
+
+http://manwithcode.com/ruby-programming-tutorials
+Ruby Programming Tutorials
+* ruby
+* tutorials
+* programming
+
+https://www.libgosu.org/index.html
+Gosu is a 2D game development library for Ruby and C++
+* ruby
+* gosu
+* game
+* development
+* library
+
 
 # Python
 
@@ -7630,3 +7664,18 @@ http://design-pattern.ru
 * поведенческие паттерны
 * паттерны распределения данных
 * паттерны локальной конкуренции
+
+
+# Symbian
+
+http://www.martin.st/symbian
+Symbian development on Linux and OS X
+* symbian
+* development
+* linux
+
+http://gnupoc.sourceforge.net
+GnuPoc. SymbianOS SDK for GNU/Linux
+* symbian
+* development
+* linux
