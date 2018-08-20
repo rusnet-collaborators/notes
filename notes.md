@@ -7679,3 +7679,52 @@ GnuPoc. SymbianOS SDK for GNU/Linux
 * symbian
 * development
 * linux
+
+
+# Dart
+
+https://www.dartlang.org
+Dart programming language
+* dart
+* programming
+* language
+* guides
+* libraries
+
+http://dartlang.fr/dart-cheat-sheet
+Dart Cheat Sheet
+* dart
+* cheatsheet
+* core
+* html
+* angulardart
+
+https://flutter.io
+Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time.
+* flutter
+* dart
+* google
+* ios
+* android
+* SDK
+* apps
+* applications
+* mobile
+* development
+
+
+# Redmine
+
+http://www.redmine.org
+Redmine is a flexible project management web application.
+* redmine
+* flexible
+* management
+* web
+* application
+
+http://www.redminethemes.org
+Redmine themes directory
+* redmine
+* themes
+* collection
