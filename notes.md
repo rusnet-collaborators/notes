@@ -3034,6 +3034,15 @@ Fossil is a simple, high-reliability, distributed software configuration managem
 * scm
 * high-reliability
 
+https://dev.to/schollz/self-hosting-with-fossil-an-alternative-to-git-33bk
+Self-hosting with fossil, an alternative to git
+* fossil
+* scm
+* self
+* hosting
+* examples
+* alternative
+
 
 # Алгоритмы
 
