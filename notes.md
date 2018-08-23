@@ -7596,6 +7596,13 @@ Try OCaml. OCaml is a strongly typed functional language. It is concise and fast
 * online
 * tutorials
 
+https://reasonml.github.io
+Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems
+* reason
+* ml
+* ocaml
+* github
+
 
 # VBS & VBA
 
@@ -7720,6 +7727,16 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 * applications
 * mobile
 * development
+
+https://zolotyh.github.io/holyjs
+ES2017 VS TYPESCRIPT VS DART. СРАВНИВАЕМ БЕЗ ЭМОЦИЙ. Алексей Золотых
+* es2017
+* typescript
+* dart
+* versus
+* Алексей
+* Золотых
+* slide
 
 
 # Redmine
