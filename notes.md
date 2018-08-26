@@ -439,6 +439,14 @@ Node.js - Русская документация серверного JavaScrip
 * examples
 * documentation
 
+https://flaviocopes.com
+Tutorials for coders. Speed up your coding skills with one tutorial per day.
+* learning
+* teaching
+* documentation
+* articles
+* manuals
+
 
 # Typescript
 
