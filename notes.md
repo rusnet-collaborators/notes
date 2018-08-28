@@ -1809,6 +1809,14 @@ Python HOWTOs. Python HOWTOs are documents that cover a single, specific topic, 
 * learning
 * articles
 
+https://python-scripts.com
+Бесплатный обучающий контент для Python программистов. Обучающий Контент. Сообщество Python Программистов.
+* python
+* free
+* learning
+* articles
+* community
+
 
 # Django
 
