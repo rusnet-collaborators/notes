@@ -5072,6 +5072,13 @@ Rust by Example. Rust by Example is a collection of examples that illustrate var
 * examples
 * collection
 
+https://rocket.rs
+Rocket is a web framework for Rust that makes it simple to write fast web applications without sacrificing flexibility or type safety. All with minimal code.
+* rust
+* rocket
+* framework
+* web
+
 
 # Assembler && NASM
 
