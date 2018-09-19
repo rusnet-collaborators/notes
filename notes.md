@@ -5606,6 +5606,13 @@ http://computercraft.ru
 * computer
 * craft
 
+http://www.luafaq.org
+Lua Unofficial FAQ (uFAQ)
+* lua
+* faq
+* unofficial
+* documentation
+
 
 # AWK
 
@@ -7777,3 +7784,16 @@ Redmine themes directory
 * redmine
 * themes
 * collection
+
+
+# Nim
+
+https://nim-by-example.github.io/getting_started
+Getting Started. Nim examples
+* nim
+* examples
+* tutorials
+* getting
+* started
+
+
