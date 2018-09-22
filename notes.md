@@ -509,6 +509,39 @@ A javascript finite state machine library
 * machine
 
 
+# Purescript
+
+http://www.purescript.org
+PureScript. A strongly-typed functional programming language that compiles to JavaScript.
+* purescript
+* functional
+* programming
+* language
+* javascript
+
+
+# Elm
+
+http://elm-lang.org
+elm. A delightful language for reliable webapps. Generate JavaScript with great performance and no runtime exceptions.
+* elm
+* functional
+* programming
+* language
+* javascript
+
+
+# Ramda
+
+https://ramdajs.com
+Ramda. A practical functional library for JavaScript programmers.
+* ramda
+* practical
+* functional
+* library
+* javascript
+
+
 # ECMAScript
 
 http://www.ecmascript.org
