@@ -519,6 +519,20 @@ PureScript. A strongly-typed functional programming language that compiles to Ja
 * language
 * javascript
 
+https://pursuit.purescript.org
+Pursuit is the home of PureScript documentation
+* purescript
+* modules
+* documentation
+* examples
+
+https://leanpub.com/purescript
+PureScript by Example
+* purescript
+* examples
+* book
+* online
+
 
 # Elm
 
@@ -4596,6 +4610,16 @@ http://rsdn.org/article/haskell/haskell_part2.xml
 * online
 * part II
 
+http://dev.stephendiehl.com/fun/index.html
+Write You a Haskell. Building a modern functional compiler from first principles. Stephen Diehl.
+* haskell
+* book
+* online
+* Stephen
+* Diehl
+* learning
+* examples
+
 
 # Go
 
@@ -6929,17 +6953,6 @@ SQL Feature Comparison
 * features
 * comparison
 * table
-
-
-# FP - functional programming languages are not major
-
-http://www.purescript.org
-Purescript. A strongly-typed functional programming language that compiles to JavaScript.
-* purescript
-* javascript
-* strongly-typed
-* functional
-* programming
 
 
 # Postgresql
