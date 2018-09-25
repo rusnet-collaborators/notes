@@ -3089,6 +3089,16 @@ The Git Community Book
 * community
 
 
+# Mercurial
+
+http://hginit.com
+Hg Init: a Mercurial tutorial. Mercurial is a modern, open source, distributed version control system, and a compelling upgrade from older systems like Subversion.
+* mercurial
+* tutorials
+* VCS
+* learning
+
+
 # Fossil
 
 https://fossil-scm.org
@@ -6316,6 +6326,14 @@ Gentoo Linux. cборник статей. Gentoo-doc TEAM.
 * linux
 * articles
 * book
+
+https://linuxcontainers.org/ru
+Инфраструктура для контейнерных проектов. linuxcontainers.org является всеобъемлющим проектом стоящий за LXC, LXD, LXCFS и CGManager.
+* linux
+* container
+* lxc
+* lxd
+* lxcfs
 
 
 # Make & Makefile
