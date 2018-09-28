@@ -343,6 +343,7 @@ JavaScript equality comparison is a crazy thing, sometimes. When in doubt, use t
 * comparison
 * table
 * github
+* equality
 
 https://www.slant.co/topics/101/~best-languages-that-compile-to-javascript
 What are the best languages that compile to JavaScript? 43 Best language that compile to javascript
@@ -452,6 +453,12 @@ Mouseenter. Great example about mouseenter/mouseleave/mouseover/mouseout
 * mouse
 * events
 * example
+* javascript
+
+https://github.com/lepture/editor
+A markdown editor
+* markdown
+* editor
 * javascript
 
 
@@ -1535,6 +1542,13 @@ Gosu is a 2D game development library for Ruby and C++
 * development
 * library
 
+https://github.com/arbox/ruby-style-guide
+ruby style guide
+* ruby
+* style
+* guide
+* russian
+
 
 # Python
 
@@ -2472,6 +2486,13 @@ dotnetperls. Written by Sam Allen (Dot Net Perls)
 * Java
 * Scala
 
+https://rimuhosting.com/support/howtolist.jsp
+This page lists many howtos that our customers have found useful.
+* howto
+* lists
+* examples
+* articles
+
 
 # Useful help tools
 
@@ -2623,6 +2644,13 @@ NoteHub. Free and Hassle-free Pastebin for Markdown Notes.
 * markdown
 * public
 * paste
+
+https://github.com/chmllr/notehub
+A pastebin for markdown pages.
+* pastebin
+* markdown
+* online
+* service
 
 http://www.transliter.ru
 Транслит переводчик, транслитерация онлайн
@@ -4049,6 +4077,25 @@ The Bash-Hackers Wiki
 * wiki
 * hackers
 
+https://github.com/avleen/bashttpd
+A web server written in bash. bashttpd is a simple, configurable web server written in bash
+* bashttpd
+* http
+* server
+* bash
+* web
+* simple
+
+https://github.com/huyng/bashmarks
+Directory bookmarks for the shell
+* bash
+* bookmarks
+* shell
+* marks
+* speed
+* folder
+* bashrc
+
 
 # JS framework & JS library
 
@@ -4533,6 +4580,13 @@ Great online book about Tcl
 * online
 * examples
 * docs
+
+https://github.com/flightaware/Pgtcl
+Tcl client side interface to PostgreSQL (libpgtcl)
+* tcl
+* client
+* interface
+* PostgreSQL
 
 
 # Haskell
@@ -5435,12 +5489,6 @@ LuaDist A distribution of the Lua programming language
 * package
 * manager
 
-https://github.com/LewisJEllis/awesome-lua
-Some Lua Link Manager
-* lua
-* links
-* resource
-
 http://thomaslauer.com/download/luarefv51.pdf
 Lua Ref Card
 * lua
@@ -5528,6 +5576,15 @@ A curated list of quality Lua packages and resources.
 * awesome
 * list
 * github
+
+https://github.com/forhappy/awesome-lua
+A curated list of awesome Lua frameworks, libraries and software.
+* lua
+* frameworks
+* libraries
+* links
+* awesome
+* software
 
 https://github.com/love2d-community/awesome-love2d
 A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -6814,6 +6871,12 @@ Zonomi is a RimuHosting Ltd business.
 * dns
 * hosting
 * api
+
+https://github.com/wavedocs/freedns
+List of free DNS
+* dns
+* list
+* free
 
 
 # Mailing
