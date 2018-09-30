@@ -7330,6 +7330,15 @@ LOR-FAQ-LaTeX
 * latex
 * русский язык
 
+https://www.overleaf.com/gallery/tagged/presentation
+Gallery Items tagged Presentation
+* latex
+* examples
+* collections
+* list
+* template
+* source
+
 
 # Regular Expressions
 
