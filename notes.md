@@ -4876,6 +4876,14 @@ This tool instantly converts JSON into a Go type definition. Paste a JSON struct
 * type
 * definition
 
+https://www.programming-books.io/essential/go
+Essential Go - a free Go programming book
+* essential
+* go
+* free
+* programming
+* book
+
 
 # YAML
 
@@ -7931,3 +7939,16 @@ Getting Started. Nim examples
 * started
 
 
+# Database Tools
+
+https://dbeaver.io
+Universal Database Tool
+* database
+* tool
+* universal
+
+https://flywaydb.org
+Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL.
+* database
+* tool
+* VCS
