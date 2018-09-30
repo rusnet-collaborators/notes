@@ -3816,6 +3816,16 @@ TuHub - интернет-издание для профессиональных 
 * разработка
 * издание
 
+http://blog.fikesfarm.com
+FikesFarm Blog
+* fikes
+* farm
+* blog
+* collection
+* clojure
+* clojurescript
+* etc
+
 
 # Podcast
 
