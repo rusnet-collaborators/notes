@@ -2493,6 +2493,14 @@ This page lists many howtos that our customers have found useful.
 * examples
 * articles
 
+https://nuancesprog.ru
+Перевод и адаптация статей в сфере IT. Последние новости из мира Front-end и Back-end разработки, а также AI, DSA, Game Dev и многое другое!
+* статьи
+* перевод
+* IT
+* блог
+* новости
+
 
 # Useful help tools
 
@@ -5193,6 +5201,14 @@ Awesome Clojure
 * links
 * collections
 * libraries
+
+https://kimh.github.io/clojure-by-example
+I don't like reading thick O'Reilly books when I start learning new programming languages. Rather, I like starting by writing small and dirty code. If you take this approach, having many simple code examples are extremely helpful because I can find answers to these questions very easily
+* clojure
+* simple
+* examples
+* collection
+* learning
 
 
 # Rust
