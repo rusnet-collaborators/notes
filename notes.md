@@ -5779,6 +5779,15 @@ Lua Unofficial FAQ (uFAQ)
 * documentation
 
 
+# Moonscript
+
+https://moonscript.org
+MoonScript, a programmer friendly language that compiles to Lua
+* moonscript
+* lua
+* compiler
+
+
 # AWK
 
 http://awk.freeshell.org
