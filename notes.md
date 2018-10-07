@@ -2755,6 +2755,24 @@ MessagePack: It's like JSON. but fast and small.
 * message
 * pack
 
+https://mjml.io
+The only framework that makes responsive email easy
+* mjml
+* framework
+* make
+* responsive
+* email
+* simple
+
+https://astexplorer.net
+AST expolorer
+* AST
+* explorer
+* examples
+* online
+* tools
+* multiple
+
 
 # Тренировки и развитие
 
