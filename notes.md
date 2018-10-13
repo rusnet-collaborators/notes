@@ -4727,6 +4727,15 @@ Write You a Haskell. Building a modern functional compiler from first principles
 * learning
 * examples
 
+https://blog.jle.im/entries/series/+introduction-to-singletons.html
+Introduction to Singletons
+* haskell
+* blog
+* singletons
+* introducing
+* articles
+* examples
+
 
 # Go
 
