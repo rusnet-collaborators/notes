@@ -8023,3 +8023,23 @@ Version control for your database. Robust schema evolution across all your envir
 * database
 * tool
 * VCS
+
+
+# Docker
+
+https://www.docker.com
+Build, Manage and Secure Your Apps Anywhere. Your Way.
+* docker
+* containing
+* images
+* crossplatform
+* tools
+* devops
+
+https://guides.hexlet.io/docker
+Как и для чего использовать Docker
+* docker
+* hexlet
+* guides
+* описание
+* подписание
