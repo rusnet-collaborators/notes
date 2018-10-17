@@ -5198,6 +5198,41 @@ http://htaccesscheatsheet.com
 * cheatsheet
 * collection
 
+https://getpsalm.org
+Psalm - A static analysis tool for PHP
+* psalm
+* static
+* analysis
+* generator
+* tool
+* php
+
+https://github.com/phan/phan
+Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
+* php
+* phan
+* static
+* analyzer
+* prefers
+
+https://github.com/phpstan/phpstan
+PHP Static Analysis Tool - discover bugs in your code without running it!
+* php
+* static
+* analysis
+* tool
+* bugs
+* static
+
+https://github.com/wata727/pahout
+A pair programming partner for writing better PHP. Pahout means PHP mahout
+* php
+* programming
+* analysis
+* ast
+* writing
+* better
+
 
 # Clojure
 
