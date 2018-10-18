@@ -3069,6 +3069,17 @@ vimscript-cheatsheet
 * scripting
 * speed
 
+http://vim-bootstrap.com
+Vim Bootstrap. A generator which provides a simple method of generating a .vimrc configuration for vim
+* vimrc
+* bootstrap
+* generator
+* provides
+* simple
+* config
+* plugin
+* settings
+
 
 # EMACS
 
@@ -6391,6 +6402,13 @@ Start Bootstrap. Free Bootstrap Themes & Templates.
 * templates
 * resources
 
+http://freehtmlthemes.ru
+FREE HTML THEMES. Бесплатные шаблоны сайтов, современные и стильные
+* free
+* templates
+* html
+* css
+
 
 # Courses & training
 
@@ -8078,3 +8096,13 @@ https://guides.hexlet.io/docker
 * guides
 * описание
 * подписание
+
+
+# Laravel
+
+
+http://laravel.su
+Laravel — php-фреймворк нового поколения
+* laravel
+* php
+* framework
