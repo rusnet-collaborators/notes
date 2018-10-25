@@ -2501,6 +2501,22 @@ https://nuancesprog.ru
 * блог
 * новости
 
+https://tutorials.kode-blog.com
+KodeBlog Tutorials : KodeBlog - Inspiring & empowering web designers and developers.
+* kodeblog
+* tutorials
+* web
+* designers
+* developers
+* collections
+
+http://najomi.org
+Большая поваренная книга программиста.
+Этот сайт создаётся с идеей собрать как можно больше различных примеров по использованию консольных утилит и языков программирования.
+* большая
+* поваренная
+* книга
+
 
 # Useful help tools
 
@@ -8100,9 +8116,24 @@ https://guides.hexlet.io/docker
 
 # Laravel
 
+https://laravel.com
+The PHP Framework For Web Artisans
+* laravel
+* php
+* framework
+* web
 
 http://laravel.su
 Laravel — php-фреймворк нового поколения
 * laravel
 * php
 * framework
+
+
+# Reason
+
+Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.
+* reason
+* OCaml
+* javascript
+* type safe code
