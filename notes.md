@@ -2526,6 +2526,13 @@ Free HTML CSS Website Templates
 * website
 * collection
 
+https://github.com/codedokode/pasta
+Уроки и черновики для изучающих PHP. Здесь содержатся черновики уроков и некоторые задания.
+* learning
+* collection
+* PHP
+* other
+
 
 # Useful help tools
 
