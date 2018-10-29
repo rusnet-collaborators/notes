@@ -2517,15 +2517,6 @@ http://najomi.org
 * поваренная
 * книга
 
-http://www.tooplate.com
-Free HTML CSS Website Templates
-* templates
-* free
-* html
-* css
-* website
-* collection
-
 https://github.com/codedokode/pasta
 Уроки и черновики для изучающих PHP. Здесь содержатся черновики уроков и некоторые задания.
 * learning
@@ -6428,11 +6419,17 @@ https://onepagelove.com
 The ultimate resource for One Page website inspiration.
 * templates
 * resources
+* html
+* css
+* collection
 
 http://startbootstrap.com
 Start Bootstrap. Free Bootstrap Themes & Templates.
 * templates
 * resources
+* html
+* css
+* collection
 
 http://freehtmlthemes.ru
 FREE HTML THEMES. Бесплатные шаблоны сайтов, современные и стильные
@@ -6440,6 +6437,50 @@ FREE HTML THEMES. Бесплатные шаблоны сайтов, соврем
 * templates
 * html
 * css
+* collection
+
+https://html5up.net
+HTML5 UP! Responsive HTML5 and CSS3 Site Templates
+* free
+* templates
+* html
+* css
+* collection
+
+https://templated.co
+TEMPLATED - Free CSS, HTML5 and Responsive Site Templates
+* free
+* templates
+* html
+* css
+* collection
+
+http://www.tooplate.com
+Free HTML CSS Website Templates
+* templates
+* free
+* html
+* css
+* website
+* collection
+
+https://freehtml5.co
+FreeHTML5.co - Free Website Templates, Free HTML5 Templates Using Bootstrap Framework
+* templates
+* free
+* html
+* css
+* website
+* collection
+
+https://themehunt.com
+Free Bootstrap Templates &amp; Website Themes - ThemeHunt
+* templates
+* free
+* html
+* css
+* website
+* collection
 
 
 # Courses & training
@@ -8153,3 +8194,96 @@ Reason lets you write simple, fast and quality type safe code while leveraging b
 * OCaml
 * javascript
 * type safe code
+
+
+# Fonts & Icons
+
+https://linearicons.com
+Linearicons. Ultra Crisp Line Icons with Integrity
+* icons
+* collections
+* vector
+* fonts
+
+https://icomoon.io
+IcoMoon is striving to build and provide the best iconography and icon management tool for perfectionists. IcoMoon's icon library features only the very best icon sets out there. All of our icons are designed on a precise pixel grid.
+* icons
+* collections
+* vector
+* fonts
+
+https://jam-icons.com
+Jam icons
+* icons
+* collections
+* vector
+* fonts
+
+https://konpa.github.io/devicon
+Devicon is a set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
+* icons
+* collections
+* vector
+* fonts
+
+https://useiconic.com
+Meet Iconic. The definitive icon set designed for the modern web.
+* icons
+* collections
+* vector
+* fonts
+
+http://evil-icons.io
+Evil Iconsv. Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
+* icons
+* collections
+* vector
+* fonts
+
+https://twemoji.twitter.com
+Twitter’s open source emoji has you covered for all your project's emoji needs. With support for the latest Unicode emoji specification, featuring 2,685 emojis, and all for free.
+* icons
+* collections
+* vector
+* fonts
+* emojis
+
+http://www.alessioatzeni.com/metrize-icons
+Free Collection of 300 Metro-Style Icons for Designers and Developers.
+* icons
+* collections
+* vector
+* fonts
+
+https://mariodelvalle.github.io/CaptainIconWeb
+350 AWESOME FREE VECTOR ICONS TO EMPOWER YOUR MOBILE AND WEB DESIGNS
+* icons
+* collections
+* vector
+* fonts
+
+https://www.flaticon.com
+Flaticon is the largest search engine of free icons in the world.
+* icons
+* collections
+* vector
+* fonts
+
+https://feather.netlify.com
+Simply beautiful open source icons
+* icons
+* collections
+* vector
+* fonts
+
+http://www.zondicons.com
+Zondicons. A set of free premium SVG icons for you to use on your digital products.
+* icons
+* collections
+* vector
+* fonts
+
+https://www.colorfonts.wtf
+Color fonts
+* color
+* fonts
