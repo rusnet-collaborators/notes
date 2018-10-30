@@ -6739,6 +6739,19 @@ https://www.youtube.com/user/Deussoftwebru
 
 # Perl
 
+https://perl6.org
+The Perl 6 Programming Language. Hi, my name is Camelia. I'm the spokesbug for Perl 6, the plucky little sister of Perl 5. Like her world-famous big sister, Perl 6 intends to carry forward the high ideals of the Perl community. Perl 6 is currently being developed by a team of dedicated and enthusiastic volunteers.
+* perl
+* programming
+* language
+
+https://modules.perl6.org
+Perl 6 Modules.
+* perl
+* modules
+* collection
+* cpan
+
 http://pragmaticperl.com
 Pragmatic PerlRSS subscription. Журнал о современном Perl на русском.
 * perl
