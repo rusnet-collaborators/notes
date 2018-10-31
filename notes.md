@@ -6482,6 +6482,16 @@ Free Bootstrap Templates &amp; Website Themes - ThemeHunt
 * website
 * collection
 
+http://bootstraptema.ru
+Бесплатные адаптивные шаблоны и темы Bootstrap для сайтов, лучшие функциональные плагины для всех версий Bootstrap и готовые code сниппеты для сайта Bootstrap.
+* templates
+* free
+* html
+* css
+* website
+* collection
+* bootstrap
+
 
 # Courses & training
 
