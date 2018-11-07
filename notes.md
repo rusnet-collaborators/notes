@@ -2223,18 +2223,6 @@ http://www.base.vingrad.ru
 * base knowledge
 * vingrad
 
-http://www.flaticon.com
-flaticon is a free project, created for and by designers and developers.
-* flaticon
-* icons
-* pack
-
-http://iconka.com
-Creativity. Responsibility. Talent.
-* iconka
-* icons
-* gif
-
 http://tympanus.net/codrops/category/tutorials
 Codrops :: Tutorials - In this section you will find in-depth how-tos involving common web development and web design techniques.
 * css
@@ -7851,12 +7839,6 @@ Bash-it is a collection of community Bash commands and scripts for Bash 3.2+. (A
 * aliases
 * functions
 
-https://daneden.github.io/animate.css
-Animate.css - Just-add-water CSS animations
-* animate.css
-* css
-* animation
-
 https://httpie.org
 HTTPie—aitch-tee-tee-pie—is a command line HTTP client with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, plugins, and more.
 * http
@@ -8310,3 +8292,47 @@ https://www.colorfonts.wtf
 Color fonts
 * color
 * fonts
+
+http://www.transformicons.com
+Transformicons Animated icons, symbols and buttons
+* icons
+* collections
+* animated
+
+https://www.flaticon.com
+Flaticon is a free project, created for and by designers and developers.
+* icons
+* collections
+* free
+
+https://iconka.com
+Иконки анимированные, бесплатные и платные
+* icons
+* collections
+* animated
+
+
+# Animation JS&CSS
+
+http://www.justinaguilar.com/animations
+CSS3 Animation Cheat Sheet
+* css
+* animation
+* cheatsheet
+* collection
+* effect
+
+https://daneden.github.io/animate.css
+Animate.css Just-add-water CSS animations
+* css
+* animation
+* library
+* effect
+
+http://animista.net
+animista
+* css
+* animation
+* library
+* collection
+* effect
