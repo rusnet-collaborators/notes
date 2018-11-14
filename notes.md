@@ -8132,6 +8132,19 @@ Redmine themes directory
 
 # Nim
 
+https://nim-lang.org
+Nim programming language
+* nim
+* programming
+* language
+* official
+
+https://nimble.directory
+Nim Package Directory
+* nim
+* package
+* directory
+
 https://nim-by-example.github.io/getting_started
 Getting Started. Nim examples
 * nim
@@ -8139,6 +8152,14 @@ Getting Started. Nim examples
 * tutorials
 * getting
 * started
+
+https://github.com/VPashkov/awesome-nim
+GitHub - VPashkov/awesome-nim: A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists
+* nim
+* awesome
+* framework
+* libraries
+* software
 
 
 # Database Tools
