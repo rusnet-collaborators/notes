@@ -4951,6 +4951,23 @@ Essential Go - a free Go programming book
 * programming
 * book
 
+https://appliedgo.net
+Applied Go. Go beyond the Go tutorials
+* go
+* tutorials
+* articles
+* blog
+* examples
+
+http://www.golangprograms.com
+Getting up and running with Go
+* go
+* tutorials
+* examples
+* articles
+* collections
+* education
+
 
 # YAML
 
@@ -8331,6 +8348,11 @@ https://iconka.com
 * icons
 * collections
 * animated
+
+https://fontstorage.com
+Download high quality free fonts for Windows, Mac and websites for commercial use
+* fonts
+* collections
 
 
 # Animation JS&CSS
