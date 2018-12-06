@@ -4758,6 +4758,18 @@ Introduction to Singletons
 * articles
 * examples
 
+http://www.haskellcast.com
+The Haskell Cast
+* haskell
+* cast
+* podcast
+
+http://www.monohaskell.com
+MonoHaskell. Why use a programming language from the 90s when you can use one from the 80s?
+* monohaskell
+* haskell
+* language
+
 
 # Go
 
