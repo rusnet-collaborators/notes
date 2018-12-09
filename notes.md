@@ -4770,6 +4770,12 @@ MonoHaskell. Why use a programming language from the 90s when you can use one fr
 * haskell
 * language
 
+http://www.haskell.ru
+Язык и библиотеки Haskell 98. Исправленное описание
+* haskell
+* перевод
+* документация
+
 
 # Go
 
