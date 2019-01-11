@@ -3351,12 +3351,6 @@ AJAX loaders generator in pure CSS and HTML
 * css
 * html
 
-http://flexboxgrid.com
-Flexbox Grid. A grid system based on the flex display property.
-* flexboxgrid
-* grid
-* system
-
 http://getskeleton.com
 A dead simple, responsive boilerplate.
 * grid
@@ -3438,14 +3432,6 @@ css clor names
 * css
 * color
 * names
-
-https://philipwalton.github.io/solved-by-flexbox/demos/grids
-Better, Simpler Grid Systems
-* better
-* simple
-* grid
-* systems
-* flexbox
 
 https://www.sitepoint.com/sass-basics-operators
 Sass Basics: Operators
@@ -3995,6 +3981,36 @@ https://www.w3.org/Style/CSS
 Cascading Style Sheets home page
 * css
 * reference
+
+http://flexboxgrid.com
+Flexbox Grid. A grid system based on the flex display property.
+* css
+* flexboxgrid
+* grid
+* system
+
+https://philipwalton.github.io/solved-by-flexbox/demos/grids
+Better, Simpler Grid Systems
+* css
+* better
+* simple
+* grid
+* systems
+* flexbox
+
+https://yoksel.github.io/flex-cheatsheet
+Flexbox Cheatsheet
+* css
+* flexbox
+* demo
+* cheatsheet
+* examples
+
+https://devhints.io/css-flexbox
+CSS flexbox cheatsheet
+* css
+* flexbox
+* cheatsheet
 
 
 # Browsers
