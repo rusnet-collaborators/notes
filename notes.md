@@ -3220,6 +3220,70 @@ http://habrahabr.ru/post/254251
 
 # CSS SASS
 
+https://www.w3.org/TR/CSS
+CSS Snapshot 2015 w3
+* css
+* reference
+
+https://www.w3.org/Style/CSS
+Cascading Style Sheets home page
+* css
+* reference
+
+http://flexboxgrid.com
+Flexbox Grid. A grid system based on the flex display property.
+* css
+* flexboxgrid
+* grid
+* system
+
+https://flexbox.help
+TEST CSS FLEXBOX RULES
+* css
+* flexbox
+* rules
+* test
+
+https://loading.io/flexbox/
+interactive Flexbox Generator
+* flexbox
+* generator
+* css
+* test
+
+https://dev.to/drews256/ridiculously-easy-row-and-column-layouts-with-flexbox-1k01
+Ridiculously easy row and column layouts with Flexbox
+* flexbox
+* columns
+* rows
+* layouts
+* article
+* example
+* tutorial
+
+https://philipwalton.github.io/solved-by-flexbox/demos/grids
+Better, Simpler Grid Systems
+* css
+* better
+* simple
+* grid
+* systems
+* flexbox
+
+https://yoksel.github.io/flex-cheatsheet
+Flexbox Cheatsheet
+* css
+* flexbox
+* demo
+* cheatsheet
+* examples
+
+https://devhints.io/css-flexbox
+CSS flexbox cheatsheet
+* css
+* flexbox
+* cheatsheet
+
 http://habrahabr.ru/company/htmlacademy/blog/254171
 Отличные рекомендации по верстке: Что такое хорошо: как мы разрабатывали критерии для оценки качества вёрстки веб-проектов.
 * css
@@ -3351,11 +3415,6 @@ AJAX loaders generator in pure CSS and HTML
 * css
 * html
 
-http://getskeleton.com
-A dead simple, responsive boilerplate.
-* grid
-* system
-
 https://css-tricks.com/dont-overthink-it-grids
 Don’t Overthink It Grids. The vast majority of websites out there use a grid. They may not explicitly have a grid system in place, but if they have a "main content area" floated to the left a "sidebar" floated to the right, it's a simple grid.
 * grid
@@ -3367,12 +3426,6 @@ The Semantic GRID SYSTEM. Page layout for tomorrow.
 * semantic
 * grid
 * system
-
-http://unsemantic.com
-The Unsemantic CSS framework was created by Nathan Smith. He works as a Principal Front-End Architect at TandemSeven.
-* unsemantic
-* framework
-* grid
 
 http://www.profoundgrid.com
 A responsive grid system for fixed and fluid layouts. Built in SCSS, it gives you flexibility and full control.
@@ -3395,24 +3448,11 @@ A grid system for humans.
 * system
 * for humans
 
-http://purecss.io
-Start your next web project with Pure.
-* grid
-* project
-* pure
-
 http://haml.info
 Haml is a markup language that’s used to cleanly and simply describe the HTML of any web document without the use of inline code.
 * haml
 * markup
 * language
-
-https://metroui.org.ua
-Metro UI. The front-end framework for developing projects on the web in Windows Metro Style.
-* metro
-* UI
-* front-end
-* framework
 
 http://www.responsivegridsystem.com
 Responsive Grid System. Spectacularly Easy Responsive Design. The Responsive Grid System isn't a framework. It's not a boilerplate either. It's a quick, easy & flexible way to create a responsive web site.
@@ -3968,49 +4008,6 @@ Using SVG with CSS3 and HTML5 — Supplementary Material
 * svg
 * css
 * html
-
-
-# CSS
-
-https://www.w3.org/TR/CSS
-CSS Snapshot 2015 w3
-* css
-* reference
-
-https://www.w3.org/Style/CSS
-Cascading Style Sheets home page
-* css
-* reference
-
-http://flexboxgrid.com
-Flexbox Grid. A grid system based on the flex display property.
-* css
-* flexboxgrid
-* grid
-* system
-
-https://philipwalton.github.io/solved-by-flexbox/demos/grids
-Better, Simpler Grid Systems
-* css
-* better
-* simple
-* grid
-* systems
-* flexbox
-
-https://yoksel.github.io/flex-cheatsheet
-Flexbox Cheatsheet
-* css
-* flexbox
-* demo
-* cheatsheet
-* examples
-
-https://devhints.io/css-flexbox
-CSS flexbox cheatsheet
-* css
-* flexbox
-* cheatsheet
 
 
 # Browsers
@@ -5462,6 +5459,7 @@ Skeleton only styles a handful of standard HTML elements and includes a grid, bu
 * css
 * js
 * framework
+* grid
 
 http://www.gumbyframework.com
 A Flexible, Responsive CSS Framework - Powered by Sass.
@@ -5568,6 +5566,32 @@ Create responsive web interfaces quick and efficiently
 * css
 * framework
 * ui
+
+https://minicss.org
+minimal, responsive, style-agnostic CSS framework
+* css
+* framework
+* minimal
+
+http://unsemantic.com
+The Unsemantic CSS framework was created by Nathan Smith. He works as a Principal Front-End Architect at TandemSeven.
+* unsemantic
+* framework
+* grid
+
+https://metroui.org.ua
+Metro UI. The front-end framework for developing projects on the web in Windows Metro Style.
+* metro
+* UI
+* front-end
+* framework
+
+http://purecss.io
+Start your next web project with Pure.
+* grid
+* project
+* pure
+* framework
 
 
 # Ionic Framework
