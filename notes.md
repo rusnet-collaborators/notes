@@ -461,6 +461,39 @@ A markdown editor
 * editor
 * javascript
 
+https://github.com/uhub/awesome-javascript
+A curated list of awesome JavaScript frameworks, libraries and software
+* awesome
+* javascript
+* collections
+* libraries
+* frameworks
+
+https://github.com/micromata/awesome-javascript-learning
+A tiny list limited to the best JavaScript Learning Resources
+* awesome
+* javascript
+* collections
+* libraries
+* frameworks
+* learning
+
+https://github.com/sorrycc/awesome-javascript
+A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* awesome
+* javascript
+* collections
+* libraries
+* frameworks
+
+https://github.com/petk/awesome-jquery
+A curated list of awesome jQuery plugins, resources and other shiny things.
+* awesome
+* javascript
+* jQuery
+* collections
+* plugins
+
 
 # Typescript
 
@@ -2511,6 +2544,13 @@ https://github.com/codedokode/pasta
 * collection
 * PHP
 * other
+
+https://github.com/sindresorhus/awesome
+Curated list of awesome lists
+* awesome
+* collection
+* list
+* more
 
 
 # Useful help tools
@@ -8109,6 +8149,20 @@ Vue.js для сомневающихся. Все, что нужно знать
 * vuejs
 * habrahabr
 * article
+
+https://github.com/vuejs/awesome-vue
+A curated list of awesome things related to Vue.js
+* vuejs
+* collection
+* awesome
+* resources
+
+https://riptutorial.com/vue-js
+Getting started with Vue.js
+* vuejs
+* tutorials
+* started
+* collections
 
 
 # Patterns
