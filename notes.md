@@ -5039,6 +5039,13 @@ Getting up and running with Go
 * collections
 * education
 
+https://awesome-go.com
+Awesome Go
+* awesome
+* go
+* collections
+* links
+
 
 # YAML
 
