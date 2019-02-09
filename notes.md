@@ -7443,6 +7443,14 @@ Testing Tools
 * webmaster
 * tools
 
+https://habr.com/ru/post/437618
+42 оператора расширенного поиска Google (полный список)
+* google
+* операторы
+* habrahabr
+* article
+* seo
+
 
 # Jade / Pug
 
@@ -8498,3 +8506,105 @@ animista
 * library
 * collection
 * effect
+
+
+# openCL
+
+https://www.khronos.org/opencl/resources
+OpenCL Resources
+* khronos
+* openCL
+* resources
+* links
+
+http://opencl.ru
+openCL
+* openCL
+* resource
+
+https://software.intel.com/en-us/intel-opencl-support/code-samples
+Intel® SDK for OpenCL™ Applications Support. Code Samples
+* intel
+* openCL
+* code
+* samples
+* resources
+
+https://github.com/rsnemmen/OpenCL-examples
+Simple OpenCL examples for exploiting GPU computing
+* openCL
+* github
+* examples
+* simple
+
+https://habr.com/ru/post/73526
+OpenCL. Практика
+* openCL
+* habrahabr
+* практика
+* статья
+* примеры
+
+https://cmp.phys.msu.ru/sites/default/files/OpenCL.pdf
+OpenCL. Открытый язык для параллельных программ. Антонюк Валерий Алексеевич
+* openCL
+* книга
+* примеры
+
+http://sa10.idav.ucdavis.edu
+SIGGRAPH Asia 2010 - OpenCL by Example
+* openCL
+* exampels
+
+https://cs.petrsu.ru/~kulakov/courses/parallel/lect/opencl.pdf
+Методы и алгоритмы параллельных вычислений. Кулаков Кирилл Александрович.
+* openCL
+* презентация
+* перевод
+
+https://habr.com/ru/post/146823
+Первые шаги с OpenCL или сказ о том как одинаковый код на GPU и CPU запускать
+* openCL
+* habrahabr
+* article
+* examples
+
+https://users.ece.utexas.edu/~adnan/c-refcard.pdf
+C Reference Card (ANSI)
+* C
+* ansi
+* C99
+* cheatsheet
+
+https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf
+Quick and Dirty Guide to C
+* C
+* ansi
+* cheatsheet
+
+https://www.math.brown.edu/~jhs/ReferenceCards/CRefCard.v2.2.pdf
+C Reference Card (ANSI)
+* C
+* ansi
+* cheatsheet
+
+https://www.engr.uvic.ca/~mech410/ACAD_and_C/c_reference.pdf
+A Quick Reference to C Programming Language
+* C
+* ansi
+* cheatsheet
+
+https://www.cs.mun.ca/~dchurchill/pc/pdf/c.pdf
+C Reference Cheat Sheet by Ashlyn Black
+* C
+* cheatsheet
+
+http://ws3.ntcu.edu.tw/ACS099133/cheatsheet/c-libraries-cheatsheet.pdf
+Cheat Sheets of the C standard library
+* C
+* cheatsheet
+
+https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf
+The C Cheat Sheet An Introduction to Programming in C
+* C
+* cheatsheet
