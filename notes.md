@@ -2782,14 +2782,6 @@ The Nu Html Checker
 * java
 * validator
 
-https://developers.google.com/speed/docs/insights/rules
-PageSpeed Insights Rules
-* google
-* speed
-* docs
-* insights
-* rules
-
 https://checkgzipcompression.com
 Check GZIP compression
 * gzip
@@ -8107,6 +8099,12 @@ Reason lets you write simple, fast and quality type safe code while leveraging b
 * ocaml
 * github
 
+http://xahlee.info/ocaml/ocaml.html
+OCaml Tutorial
+* OCaml
+* tutorials
+* examples
+
 
 # VBS & VBA
 
@@ -8608,3 +8606,51 @@ https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf
 The C Cheat Sheet An Introduction to Programming in C
 * C
 * cheatsheet
+
+
+# Page Speed Rank
+
+https://developers.google.com/speed/docs/insights/rules
+PageSpeed Insights Rules
+* google
+* speed
+* docs
+* insights
+* rules
+* test
+
+https://developers.google.com/speed/pagespeed/insights
+PageSpeed Insights
+* google
+* page
+* speed
+* rank
+* test
+
+https://www.webpagetest.org
+WebPageTest - Website Performance and Optimization Test
+* page
+* speed
+* rank
+* test
+
+https://gtmetrix.com/
+GTmetrix
+* page
+* speed
+* rank
+* test
+
+http://sitespeed.me
+Проверить доступность и скорость загрузки сайта со всего мира
+* page
+* speed
+* rank
+* test
+
+https://tools.pingdom.com
+Pingdom Tools
+* page
+* speed
+* rank
+* test
