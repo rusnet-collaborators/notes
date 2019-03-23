@@ -6927,6 +6927,46 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 * collection
 * github
 
+https://qntm.org/files/perl/perl.html
+Learn Perl in about 2 hours 30 minutes
+* perl
+* documentation
+* learning
+* description
+* examples
+
+https://www.opennet.ru/docs/RUS/perl-maslov/
+Введение в Perl. Маслов Владимир Викторович.
+* книга
+* учебник
+* Маслов
+* perl
+* обучение
+* примеры
+
+https://perlmaven.com/
+Perl tutorials and courses
+* perl
+* tutorial
+* education
+* examples
+* collections
+
+http://perl101.org/
+Welcome to perl101.org
+* examples
+* education
+* perl
+* collection
+* articles
+
+http://www.perltutorial.org/
+Perl Tutorial
+* perl
+* tutorials
+* examples
+* collection
+
 
 # ALSA
 
@@ -8654,3 +8694,14 @@ Pingdom Tools
 * speed
 * rank
 * test
+
+
+# BEM
+
+http://getbem.com
+BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
+* bem
+* markup
+* methodology
+* yandex
+* вёрстка
