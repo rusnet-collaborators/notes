@@ -6967,6 +6967,16 @@ Perl Tutorial
 * examples
 * collection
 
+http://mvp.kablamo.org/
+Minimum Viable Perl. Concise tutorials for experienced developers. Learn just enough Perl
+* perl
+* tutorials
+* learning
+* examples
+* libraries
+* recommendations
+* description
+
 
 # ALSA
 
