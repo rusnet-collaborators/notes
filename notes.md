@@ -8079,6 +8079,34 @@ Compile & run code in Crystal
 * compile
 * paste
 
+https://sysadminblog.ru/blog/crystal-lang/
+Crystal: от просто - go к сложному
+* crystal
+* language
+* blog
+* articles
+* notes
+* collection
+
+https://github.com/veelenga/awesome-crystal
+Awesome Crystal
+* crystal
+* language
+* github
+* awesome
+* links
+* collection
+* description
+
+https://vk.com/crystal_lang
+Crystal Programming Language
+* crystal
+* language
+* programming
+* vk
+* links
+* community
+
 
 # Ocaml
 
