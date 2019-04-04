@@ -4691,6 +4691,28 @@ Tcl client side interface to PostgreSQL (libpgtcl)
 * interface
 * PostgreSQL
 
+https://www.magicsplat.com/articles/index.html
+Topics in Tcl Programming. Various articles related to programming in Tcl.
+* tcl
+* programming
+* articles
+
+https://www.sqlite.org/tclsqlite.html
+The Tcl interface to the SQLite library
+* tcl
+* Interface
+* sqlite
+* library
+* examples
+* documentation
+
+https://jan.newmarch.name/ProgrammingUnix/tcl/tcl_tut.html
+Tool Command Language. CheatSheet with examples
+* tcl
+* cheatsheet
+* examples
+* articles
+
 
 # Haskell
 
