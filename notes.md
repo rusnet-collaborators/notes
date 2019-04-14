@@ -580,6 +580,13 @@ PureScript by Example
 * book
 * online
 
+https://github.com/joshburgess/purescript-cheat-sheet
+A quick reference sheet for PureScript syntax and features
+* joshburgess
+* purescript
+* cheatsheet
+* features
+
 
 # Elm
 
@@ -2362,6 +2369,17 @@ http://sysadminwiki.ru
 * system administration
 * collection
 * articles
+
+https://tproger.ru/articles/free-programming-books
+Бесплатные материалы для программистов
+* free
+* books
+* articles
+* programming
+* collections
+* list
+* learning
+* reading
 
 http://www.microhowto.info
 Documentation for Open Source software is often presented in the form of a HOWTO: a set of instructions that tell you how to use the product. A miniHOWTO is a shortened HOWTO that covers the main points only, and a microHOWTO is shorter still.
@@ -6061,6 +6079,14 @@ The Open Group Base Specifications Issue 6. IEEE Std 1003.1, 2004 Edition
 * onlinepubs
 * documentation
 * manual
+
+http://www.grymoire.com/Unix/Awk.html
+Awk - A Tutorial and Introduction - by Bruce Barnett
+* awk
+* tutorial
+* introducing
+* examples
+* Bruce Barnett
 
 
 # ReactJS
