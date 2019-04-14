@@ -3123,6 +3123,15 @@ Vim Bootstrap. A generator which provides a simple method of generating a .vimrc
 * plugin
 * settings
 
+https://vim.fandom.com/wiki/Category:Todo
+Todo. Category page. This category lists tips with specific to-do suggestions.
+* todo
+* category list
+* tips
+* todo
+* vim
+* articles
+
 
 # EMACS
 
@@ -5431,6 +5440,13 @@ https://rocket.rs
 Rocket is a web framework for Rust that makes it simple to write fast web applications without sacrificing flexibility or type safety. All with minimal code.
 * rust
 * rocket
+* framework
+* web
+
+https://actix.rs
+Actix - rust's powerful actor system and most fun web framework
+* actix
+* rust
 * framework
 * web
 
