@@ -8621,6 +8621,13 @@ Download high quality free fonts for Windows, Mac and websites for commercial us
 * fonts
 * collections
 
+https://simpleicons.org
+Free SVG icons for popular brands
+* icons
+* brands
+* free
+* svg
+
 
 # Animation JS&CSS
 
