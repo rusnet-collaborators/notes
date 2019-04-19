@@ -8171,6 +8171,12 @@ Crystal Programming Language
 * links
 * community
 
+https://github.com/crystal-lang/crystal/tree/master/samples
+crystal samples
+* crystal
+* samples
+* examples
+
 
 # Ocaml
 
