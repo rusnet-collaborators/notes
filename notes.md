@@ -2570,6 +2570,20 @@ Curated list of awesome lists
 * list
 * more
 
+https://www.staticgen.com
+StaticGen. A List of Static Site Generators for JAMstack Sites
+* static
+* site
+* generator
+* list
+
+https://staticsitegenerators.net
+Static Site Generators
+* static
+* site
+* generator
+* list
+
 
 # Useful help tools
 
@@ -3149,6 +3163,36 @@ Todo. Category page. This category lists tips with specific to-do suggestions.
 * todo
 * vim
 * articles
+
+https://devhints.io/vim
+Vim cheatsheet
+* vim
+* cheatsheet
+* tips
+* examples
+
+https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf
+Great Practical Ideas for Computer Scientists. Vim cheat sheet
+* vim
+* cheatsheet
+* tips
+* description
+
+https://github.com/johngrib/vimscript-cheatsheet
+vimscript-cheatsheet
+* vimscript
+* cheatsheet
+* vim
+* examples
+* scripting
+
+https://devhints.io/vimscript
+Vim scripting cheatsheet
+* vimscript
+* cheatsheet
+* vim
+* examples
+* scripting
 
 
 # EMACS
@@ -5086,6 +5130,14 @@ Awesome Go
 * go
 * collections
 * links
+
+http://networkbit.ch
+NetworkBit.ch Golang Fuzzing: A go-fuzz Tutorial and Example
+* go
+* articles
+* blog
+* examples
+* tutorials
 
 
 # YAML
