@@ -8686,6 +8686,14 @@ Free SVG icons for popular brands
 * free
 * svg
 
+https://www.ikonate.com/
+Ikonate. fully customisable & accessible vector icons
+* ikonate
+* vector
+* icons
+* customizable
+* collection
+
 
 # Animation JS&CSS
 
