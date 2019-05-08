@@ -494,6 +494,25 @@ A curated list of awesome jQuery plugins, resources and other shiny things.
 * collections
 * plugins
 
+https://fingerprintjs.com
+Fingerprint.js is the most advanced open-source fraud detection JS library
+* fingerprint
+* identification
+* javascript
+* library
+* client
+* detection
+
+https://github.com/sindresorhus/awesome-nodejs
+Delightful Node.js packages and resources
+* node.js
+* awesome
+* javascript
+* collection
+* best
+* plugins
+* libraries
+
 
 # Typescript
 
@@ -3268,6 +3287,13 @@ Interested in learning Git? Well you've come to the right place! "Learn Git Bran
 * game
 * learn
 
+https://learngitbranching.js.org/
+Learn Git Branching
+* git
+* learning
+* game
+* branching
+
 http://uleming.github.io/gitbook/index.html
 The Git Community Book
 * git
@@ -4555,14 +4581,13 @@ Erlang web MVC, now featuring Comet.
 * framework
 * web
 
-
-# Koa
-
-http://koajs.com
-Koa is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-* koa
-* framework
-* express
+https://dyp2000.gitbooks.io/russian-armstrong-erlang/content/
+Программирование на Эрланге. Джо Армстронг.
+* erlang
+* книга
+* перевод
+* gitbooks
+* russian
 
 
 # Web 3.0
