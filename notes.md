@@ -4939,6 +4939,49 @@ http://www.haskell.ru
 * перевод
 * документация
 
+https://ru.wikipedia.org/wiki/Haskell
+Haskell
+* haskell
+* wiki
+
+https://www.parsonsmatt.org
+Matt Parsons. Blog.
+* Matt Parsons
+* blog
+* haskell
+* functional programming
+* tutorials
+* collection
+
+https://riptutorial.com/haskell
+Haskell Language. Getting started with Haskell Language
+* haskell
+* language
+* tutorials
+* collection
+* articles
+
+https://ruhaskell.org
+Сообщество русскоговорящих Haskell-разработчиков
+* haskell
+* community
+* articles
+* blog
+* articles
+
+https://www.ohaskell.guide/
+О Haskell по-человечески. Д. Шевченко.
+* haskell
+* Д. Шевченко
+* book
+* online
+
+https://ocharles.org.uk/
+ocharles.org.uk
+* blog
+* articles
+* collection
+
 
 # Go
 
