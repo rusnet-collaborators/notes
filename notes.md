@@ -5419,6 +5419,51 @@ http://javarush.ru
 * java
 * learning
 
+https://github.com/mhrimaz/AwesomeJavaFX
+Awesome JavaFX. A curated list of awesome JavaFX libraries, books, frameworks, etc.
+* java
+* javafx
+* awesome
+* libraries
+* collections
+* list
+* links
+
+https://code.makery.ch/ru/library/javafx-tutorial
+code.makery. Learning how to code. Учебник по JavaFX
+* java
+* javafx
+* learning
+* examples
+* articles
+* collection
+
+https://metanit.com/java/javafx/1.1.php
+METANIT.COM Сайт о программировании. Введение в Java FX
+* java
+* javafx
+* learning
+* examples
+* articles
+* collection
+
+https://o7planning.org/ru/10623/javafx-tutorial-for-beginners
+o7planning Руководство JavaFX для начинающих
+* java
+* javafx
+* learning
+* examples
+* articles
+* collection
+
+https://habr.com/ru/post/335074
+Пишем и собираем приложения для Android в linux консоли
+* habrahabr
+* android
+* linux
+* build
+* console
+
 
 # Command line
 
