@@ -3213,6 +3213,13 @@ Vim scripting cheatsheet
 * examples
 * scripting
 
+http://vimcolors.com
+Vim Colors. Change color scheme for vim.
+* vim
+* colorscheme
+* changes
+* editors
+
 
 # EMACS
 
