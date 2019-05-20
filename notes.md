@@ -5471,6 +5471,53 @@ https://habr.com/ru/post/335074
 * build
 * console
 
+https://lzone.de/cheat-sheet/Maven
+Maven Cheat Sheet
+* java
+* maven
+* cheatsheet
+
+http://files.zeroturnaround.com/pdf/Maven-cheat-sheet.pdf
+Maven Cheat Sheet
+* java
+* maven
+* cheatsheet
+
+https://eckobar.files.wordpress.com/2007/02/maven-cheatsheet.pdf
+Maven Cheat Sheet
+* java
+* maven
+* cheatsheet
+
+https://www.mkyong.com/tutorials/maven-tutorials/
+Apache Maven Tutorial
+* java
+* maven
+* examples
+* tutorials
+
+https://ronnieroller.com/maven
+Maven Cheat Sheet and Tips
+* java
+* maven
+* examples
+* tutorials
+
+https://repo.maven.apache.org/maven2/
+Maven Central Repository
+* java
+* maven
+* repository
+* central
+
+http://www.avajava.com/tutorials/
+Welcome to the avaJava.com Web Tutorials
+* java
+* web
+* tutorials
+* examples
+* collection
+
 
 # Command line
 
