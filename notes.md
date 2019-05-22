@@ -5518,6 +5518,65 @@ Welcome to the avaJava.com Web Tutorials
 * examples
 * collection
 
+https://cs2113f18.github.io/java/JavaCheatSheet.pdf
+THE JAVA LANGUAGE CHEAT SHEET
+* java
+* cheatsheet
+
+https://lemus.webs.upv.es/wordpress/wp-content/uploads/2018/02/cheat-sheets.pdf
+Java Collections Cheat Sheet
+* java
+* cheatsheet
+* git
+* maven
+* sql
+* regex
+
+http://enos.itcollege.ee/~jpoial/java/naited/pildid/corejava.pdf
+Core Java By Cay S. Horstmann
+* java
+* cheatsheet
+* dzone
+* refcardz
+
+http://ezzylearning.com/CheatSheets/Java-QuickReferenceGuide.pdf
+Java Language Quick-Reference Guide
+* java
+* cheatsheet
+* examples
+* learning
+
+http://overapi.com/java
+Java Cheat Sheet | OverAPI
+* java
+* cheatsheet
+* collection
+* links
+
+http://javalite.io
+JavaLite is a cohesive collection of frameworks designed from ground up to add pleasure back to your daily life
+* java
+* framework
+* collection
+* activejdbc
+* jdbc
+* jspec
+* activeweb
+* http
+* db
+* async
+
+https://www.apache-maven.ru
+Руководство по Maven. Ржевский Дмитрий
+* java
+* Ржевский Дмитрий
+* maven
+* guide
+* learning
+* examples
+* collection
+* articles
+
 
 # Command line
 
@@ -6898,6 +6957,13 @@ https://www.youtube.com/user/TPMGTU
 * youtube
 * tech
 * courses
+
+https://practice.geeksforgeeks.org
+Practice GeeksforGeeks
+* geeksforgeeks
+* practice
+* training
+* teach
 
 
 # Linux
