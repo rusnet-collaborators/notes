@@ -7726,6 +7726,22 @@ Postfix
 * postfix
 * settings
 
+https://gist.github.com/richardjoo/9bd73de71c74a8c777b7
+how to manage exim
+* gist
+* github
+* exim
+* howto
+* management
+
+https://vds-admin.ru/mail/poleznye-komandy-pochtovogo-servera-exim-shpargalka
+Полезные команды почтового сервера Exim, шпаргалка
+* exim
+* examples
+* howto
+* команды
+* почтового
+
 
 # Racket
 
@@ -8058,6 +8074,23 @@ Gallery Items tagged Presentation
 * list
 * template
 * source
+
+http://www.ccas.ru/voron/download/voron05latex.pdf
+LATEX2ε в примерах К. В. Воронцов
+* latex
+* examples
+* книга
+
+https://ru.wikipedia.org/wiki/LaTeX
+LaTeX наиболее популярный набор макрорасширений (или макропакет) системы компьютерной вёрстки TeX, который облегчает набор сложных документов.
+* latex
+* wiki
+
+http://grammarware.net/text/syutkin/RusInLaTeX.pdf
+Русский язык в LATEX
+* latex
+* russian
+* language
 
 
 # Regular Expressions
