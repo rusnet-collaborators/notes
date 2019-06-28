@@ -2938,6 +2938,12 @@ https://dpaste.de
 dpaste.de is powered by dpaste, which is open source.
 * paste
 
+https://paste.gg
+paste.gg is a public paste instance run by the author of paste, Kyle Clemens (jkcclemens). It is free to use for all.
+* paste
+* service
+* free
+
 
 # Wiki
 
@@ -6528,6 +6534,14 @@ http://rezerford-svg.blogspot.ru
 * notes
 * blog
 
+https://svgontheweb.com
+SVG ON THE WEB. A Practical Guide
+* svg
+* article
+* web
+
+two.js
+
 
 # MongoDB
 
@@ -7459,6 +7473,12 @@ Guide to Windows Batch Scripting
 * scripting
 * guide
 
+http://regedit.su
+Все о реестре
+* windows
+* registry
+* regedit
+
 
 # Mast Have
 
@@ -8091,6 +8111,21 @@ http://grammarware.net/text/syutkin/RusInLaTeX.pdf
 * latex
 * russian
 * language
+
+http://www.latextemplates.com
+LaTeX templates
+* latex
+* templates
+* collection
+
+https://ctan.org
+CTAN: Comprehensive TeX Archive Network
+* latex
+* ctan
+* packages
+* archive
+* collection
+* modules
 
 
 # Regular Expressions
