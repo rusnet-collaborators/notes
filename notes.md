@@ -8127,6 +8127,24 @@ CTAN: Comprehensive TeX Archive Network
 * collection
 * modules
 
+http://texblog.net
+TeXblog News in TeX
+* latex
+* tex
+* news
+* blogs
+* articles
+* collection
+
+https://en.wikibooks.org/wiki/LaTeX
+This is a guide to the LaTeX typesetting system.
+* tex
+* latex
+* wiki
+* book
+* guide
+* collection
+
 
 # Regular Expressions
 
