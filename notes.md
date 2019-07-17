@@ -8145,6 +8145,14 @@ This is a guide to the LaTeX typesetting system.
 * guide
 * collection
 
+https://texfaq.org
+This is a set of Frequently Asked Questions (FAQ) for English-speaking users of TeX.
+* tex
+* latex
+* FAQ
+* TeX
+* collections
+
 
 # Regular Expressions
 
@@ -9012,6 +9020,13 @@ Ikonate. fully customisable & accessible vector icons
 * icons
 * customizable
 * collection
+
+https://www.utf8icons.com/
+Search your UTF-8 icons below
+* icons
+* utf-8
+* utf
+* collections
 
 
 # Animation JS&CSS
