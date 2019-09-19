@@ -1455,12 +1455,6 @@ a Ruby regular expression editor
 * tools
 * experimenting
 
-http://pythondigest.ru
-PYTHON ДАЙДЖЕСТ. Всё самое интересное прямо здесь и сейчас!
-* python
-* info
-* news
-
 http://railsdiff.org
 RailsDiff is about what you'd have to change about your app's configuration when upgrading Rails versions, not about what Rails has changed internally.
 * railsdiff
@@ -1607,6 +1601,31 @@ ruby style guide
 * style
 * guide
 * russian
+
+https://medium.com/@kopilov.vlad/цикл-статей-паттерны-ооп-в-ruby-46666b260303
+Цикл статей паттерны ООП в Ruby
+* ruby
+* learning
+* OOP
+* patterns
+* articles
+
+https://betterdocs.info/
+Что такое Better Docs
+* ruby
+* docs
+* better
+* examples
+* links
+* collection
+
+https://medium.com/roonyx/solid-ruby-ad046727ec26
+Принципы SOLID на примере ruby
+* ruby
+* solid
+* principles
+* examples
+* learning
 
 
 # Python
@@ -1943,6 +1962,12 @@ https://python-scripts.com
 * learning
 * articles
 * community
+
+http://pythondigest.ru
+PYTHON ДАЙДЖЕСТ. Всё самое интересное прямо здесь и сейчас!
+* python
+* info
+* news
 
 
 # Django
