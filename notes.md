@@ -2628,6 +2628,19 @@ Static Site Generators
 * generator
 * list
 
+http://aalhour.com/awesome-compilers
+awesome-compilers. Curated list of awesome resources on Compilers, Interpreters and Runtimes
+* awesome
+* compiles
+* collection
+* list
+* resources
+* interpreters
+* runtimes
+* VMs
+* virtual
+* machines
+
 
 # Useful help tools
 
@@ -5222,7 +5235,7 @@ Applied Go. Go beyond the Go tutorials
 * examples
 
 http://www.golangprograms.com
-Getting up and running with Go
+Golang is designed by computer science heavyweights for solving real-world problem.
 * go
 * tutorials
 * examples
@@ -5244,6 +5257,20 @@ NetworkBit.ch Golang Fuzzing: A go-fuzz Tutorial and Example
 * blog
 * examples
 * tutorials
+
+https://github.com/SimonWaldherr/golang-examples
+Golang examples
+* golang
+* examples
+* collection
+* learning
+
+https://golang.org/doc/effective_go.html
+Effective Go
+* golang
+* examples
+* guidelines
+* learning
 
 
 # YAML
@@ -8806,6 +8833,20 @@ ES2017 VS TYPESCRIPT VS DART. СРАВНИВАЕМ БЕЗ ЭМОЦИЙ. Алек
 * Золотых
 * slide
 
+https://dart.dev
+Dart 2.5.0: Super-charged development with ML Complete and dart:ffi
+* dart
+* ML
+* development
+* language
+
+https://pub.dev
+Find and use packages to build Flutter and web apps with Dart
+* dart
+* flutter
+* packages
+* collection
+
 
 # Redmine
 
@@ -9080,7 +9121,7 @@ animista
 * effect
 
 
-# openCL
+# openCL & openGL
 
 https://www.khronos.org/opencl/resources
 OpenCL Resources
@@ -9180,6 +9221,13 @@ https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf
 The C Cheat Sheet An Introduction to Programming in C
 * C
 * cheatsheet
+
+http://www.opengl-tutorial.org/ru/beginners-tutorials/
+Базовые уроки. Здесь представлены базовые уроки OpenGL.
+* openGL
+* learning
+* lessons
+
 
 
 # Page Speed Rank
