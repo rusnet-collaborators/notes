@@ -1635,6 +1635,22 @@ Python 3 для начинающих
 * python
 * beginner
 
+http://wombat.org.ua/AByteOfPython/toc.html
+“Укус Питона” – “A Byte of Python” по-русски
+* python
+* learning
+* book
+* free
+* language
+
+https://python.swaroopch.com
+A Byte of Python. "A Byte of Python" is a free book on programming using the Python language.
+* python
+* book
+* free
+* learning
+* languages
+
 https://www.ibm.com/developerworks/ru/library/l-python_details_01/index.html
 Тонкости использования языка Python: Часть 1. Версии и совместимость
 * python
@@ -2935,6 +2951,7 @@ Deliver Faster Through Crowdsourcing | Topcoder
 * top
 * growing
 * topcoder
+* skills
 
 https://leetcode.com
 LeetCode - The World's Leading Online Programming Learning Platform
@@ -2943,6 +2960,7 @@ LeetCode - The World's Leading Online Programming Learning Platform
 * top
 * growing
 * leetcode
+* skills
 
 https://www.hackerrank.com
 Practice coding. Compete. Find jobs. Join over 3 million programmers and improve your skills.
@@ -2952,6 +2970,60 @@ Practice coding. Compete. Find jobs. Join over 3 million programmers and improve
 * jobs
 * growing
 * improve
+* skills
+
+https://cssbattle.dev
+CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code.
+* css
+* code
+* growing
+* improve
+* learning
+* coding
+* skills
+
+https://bloc.io/ruby-warrior
+Ruby Warrior - Popular Free Ruby Programming Tutorial Game
+* ruby
+* warrior
+* free
+* programming
+* growing
+* improve
+* skills
+
+https://screeps.com
+The world's first. MMO strategy open world game for programmers.
+* screeps
+* games
+* programmers
+* skills
+
+https://codingame.com
+Coding Games and Programming Challenges to Code Better
+* coding
+* games
+* improve
+* growing
+* learning
+* skills
+
+https://app.codesignal.com
+CodeSignal is the most advanced assessment platform on the market. Simulate a realistic coding environment with features engineers use on the job every day.
+* coding
+* improve
+* growing
+* learning
+* skills
+
+https://exercism.io
+Code Practice and Mentorship for Everyone. Level up your programming skills
+* coding
+* improve
+* growing
+* learning
+* programming
+* skills
 
 
 # Paste service
@@ -4088,12 +4160,6 @@ http://www.rwpod.com
 
 
 # Games & Competition
-
-https://screeps.com
-The world's first. MMO strategy open world game for programmers.
-* screeps
-* games
-* programmers
 
 http://habrahabr.ru/post/273003
 Игры, которые учат программированию
