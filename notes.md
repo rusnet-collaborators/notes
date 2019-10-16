@@ -1627,6 +1627,13 @@ https://medium.com/roonyx/solid-ruby-ad046727ec26
 * examples
 * learning
 
+https://seanchas116.github.io/ruby-qml/
+A QML / Qt Quick bindings for Ruby
+* ruby
+* QML
+* binding
+* UI
+
 
 # Python
 
