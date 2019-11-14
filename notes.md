@@ -2928,6 +2928,13 @@ AST expolorer
 * tools
 * multiple
 
+https://www.json2yaml.com
+Convert JSON to YAML online
+* json
+* yaml
+* tool
+* online
+
 
 # Тренировки и развитие
 
@@ -9360,3 +9367,29 @@ BEM — Block Element Modifier is a methodology that helps you to create reu
 * methodology
 * yandex
 * вёрстка
+
+
+# SSL
+
+https://www.ssllabs.com/ssltest/analyze.html
+SSL Server Test
+* ssl
+* test
+* check
+* analyze
+
+https://certbot.eff.org
+Certbot is a free, open source software tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS.
+* certifications
+* encrypt
+* free
+* bot
+* tool
+* automatically
+
+https://letsencrypt.org
+Let’s Encrypt - это бесплатный, автоматизированный и открытый Центр Сертификации.
+* certifications
+* encrypt
+* free
+* center
