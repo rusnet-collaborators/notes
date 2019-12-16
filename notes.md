@@ -513,6 +513,12 @@ Delightful Node.js packages and resources
 * plugins
 * libraries
 
+http://frenetic.be/tricks/simple-timer.php
+In this post, we will implement a simple JavaScript timer, using Web Workers in HTML5.
+* javascript
+* web worker
+* example
+
 
 # Typescript
 
