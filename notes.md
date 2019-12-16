@@ -2288,6 +2288,11 @@ http://rghost.ru
 * file
 * sharing
 
+https://femto.pw
+Upload and share any file for free, instantly from anywhere.
+* file
+* sharing
+
 http://zetcode.com
 ZetCode brings tutorials for programmers in various areas. The main are Graphical User Interfaces, databases, and programming languages. The website's mission is to provide competent, quick and easy to understand tutorials for modern-day technologies.
 * zetcode
@@ -3752,6 +3757,53 @@ This Sass tutorial explains what Sass is, how to install it, and how to use it
 * tutorial
 * howto
 * examples
+
+https://sassme.jim-nielsen.com
+Visualize Sass HSL color functions in real-time without compiling. Made by Jim Nielsen.
+* sass
+* colors
+* real-time
+* functions
+
+http://scg.ar-ch.org
+Sass Color Generator
+* sass
+* colors
+* real-time
+* functions
+* gradient
+
+https://razorltd.github.io/sasscolourfunctioncalculator
+Sass Colour Function Calculator. A tool for calculating the SASS colour function required to get from one colour to another.
+* sass
+* colors
+* real-time
+* functions
+* calculator
+
+https://www.calculator.net/hex-calculator.html
+Hex Calculator
+* hex
+* calculator
+* convert
+* decimal
+
+https://uigradients.com/
+uiGradients - Beautiful colored
+* css
+* gradient
+* colored
+* beautiful
+* gallery
+
+https://leaverou.github.io/css3patterns/
+CSS3 Patterns Gallery
+* css
+* gradient
+* beautiful
+* patterns
+* gallery
+* background
 
 
 # Graphviz
@@ -5351,6 +5403,14 @@ Effective Go
 * examples
 * guidelines
 * learning
+
+http://go-lang.cat-v.org
+Go Programming Language Resources. Go is not meant to innovate programming theory. It’s meant to innovate programming practice.
+* go
+* programming
+* resources
+* links
+* collections
 
 
 # YAML
@@ -9308,6 +9368,14 @@ http://www.opengl-tutorial.org/ru/beginners-tutorials/
 * learning
 * lessons
 
+https://futhark-lang.org
+The Futhark Programming Language. High-performance purely functional data-parallel array programming on the GPU.
+* gpu
+* openCL
+* openGL
+* fp
+* functional
+* futhark
 
 
 # Page Speed Rank
@@ -9393,3 +9461,22 @@ Let’s Encrypt - это бесплатный, автоматизированн�
 * encrypt
 * free
 * center
+
+
+# Qt
+
+http://zetcode.com/gui/qt5/
+Qt5 tutorial
+* qt
+* tutorials
+* c++
+* cpp
+* collection
+
+http://knzsoft.ru/qt-bgr-ls1/
+Qt для начинающих
+* qt
+* tutorials
+* c++
+* cpp
+* collection
