@@ -519,6 +519,13 @@ In this post, we will implement a simple JavaScript timer, using Web Workers in 
 * web worker
 * example
 
+http://www.jsnice.org
+JSnice Statistical renaming, Type inference and Deobfuscation
+* javascript
+* deobfuscate
+* beautifier
+* tool
+
 
 # Typescript
 
@@ -6325,7 +6332,7 @@ luainspect.vim Semantic highlighting for Lua in Vim
 * highlights
 
 https://love2d.org
-LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
+LÖVE is an \*awesome\* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
 * love
 * framework
 * game
@@ -6513,6 +6520,14 @@ Lua Unofficial FAQ (uFAQ)
 * faq
 * unofficial
 * documentation
+
+https://fennel-lang.org
+Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
+* lua
+* fennel
+* lisp
+* language
+* official
 
 
 # Moonscript
