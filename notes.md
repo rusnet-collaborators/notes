@@ -6753,7 +6753,13 @@ SVG ON THE WEB. A Practical Guide
 * article
 * web
 
-two.js
+https://habr.com/ru/post/450924
+Все об SVG анимации
+* habrahabr
+* svg
+* animation
+* animate
+* article
 
 
 # MongoDB
