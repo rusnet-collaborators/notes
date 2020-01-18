@@ -6020,6 +6020,13 @@ http://www.stolyarov.info/books/asm_unix
 * tutorials
 * learning
 
+https://ravesli.com/uroki-assemblera
+Уроки по Ассемблеру
+* assembler
+* learning
+* articles
+* nasm
+
 
 # HTML CSS JS Framework UI
 
