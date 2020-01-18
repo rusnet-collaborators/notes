@@ -6704,7 +6704,6 @@ SVG is short for Scalable Vector Graphics.
 * svg
 * doc
 
-
 https://svg-art.ru
 SVG – Scalable Vector Graphics. Доминирующей причиной появления этого блога стало незаслуженное забвение на целых десять лет языка разметки масштабируемой векторной графики – SVG (Scalable Vector Graphics), входящего в подмножество расширяемого языка разметки XML.
 * svg
@@ -6760,6 +6759,13 @@ https://habr.com/ru/post/450924
 * animation
 * animate
 * article
+
+https://webplatform.github.io/docs/svg
+Scalable Vector Graphics (SVG) is an XML markup language for structurally describing two-dimensional vector graphics
+* svg
+* learning
+* articles
+* collection
 
 
 # MongoDB
