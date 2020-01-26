@@ -5426,6 +5426,14 @@ Go Programming Language Resources. Go is not meant to innovate programming theor
 * links
 * collections
 
+https://blog.maddevs.io/golang-logging-7fdd3da5152f
+Готовим логи в Go проекте. Часть 1
+* go
+* golang
+* programming
+* logging
+* log
+
 
 # YAML
 
