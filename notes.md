@@ -5219,6 +5219,7 @@ https://4gophers.ru
 * examples
 * articles
 * go
+* golang
 
 http://golanglibs.com
 go libs collection
@@ -9520,3 +9521,15 @@ Qt для начинающих
 * c++
 * cpp
 * collection
+
+
+# Machine Learning
+
+https://studio.azureml.net
+Microsoft Azure Machine Learning Studio (classic)
+* machine learning
+* tool
+* platform
+* datascience
+* data
+* science
