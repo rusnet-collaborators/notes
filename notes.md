@@ -1640,12 +1640,19 @@ https://medium.com/roonyx/solid-ruby-ad046727ec26
 * examples
 * learning
 
-https://seanchas116.github.io/ruby-qml/
+https://seanchas116.github.io/ruby-qml
 A QML / Qt Quick bindings for Ruby
 * ruby
 * QML
 * binding
 * UI
+
+https://rubyreferences.github.io
+Ruby documentation and reference
+* ruby
+* documentation
+* reference
+* changes
 
 
 # Python
@@ -5004,6 +5011,12 @@ Tool Command Language. CheatSheet with examples
 * cheatsheet
 * examples
 * articles
+
+http://pleac.sourceforge.net/pleac_tcl/index.html
+PLEAC-Tcl. Подсказки и шпаргалки.
+* tcl
+* helpers
+* collections
 
 
 # Haskell
