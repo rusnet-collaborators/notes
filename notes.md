@@ -5191,6 +5191,13 @@ ocharles.org.uk
 * articles
 * collection
 
+https://wiki.haskell.org/Monad_tutorials_timeline
+Monad tutorials timeline
+* haskell
+* monad
+* tutorials
+* collection
+
 
 # Go
 
@@ -5473,6 +5480,30 @@ Golang - Asterisk and Ampersand Cheatsheet
 * cheatsheet
 * gist
 * github
+
+https://habr.com/ru/post/307554
+Разбираемся в Go: пакеты bytes и strings
+* go
+* habrahabr
+* string
+* rune
+* article
+
+https://sefus.ru/little-go-book
+Маленькая книга о Go
+* go
+* book
+* Roman Dolgopolov
+* articles
+
+https://blog.golang.org/strings
+The Go Blog. Strings, bytes, runes and characters in Go.
+* go
+* articles
+* blog
+* bytes
+* runes
+* characters
 
 
 # NES Cover & Chiptune & Demoscene & other
