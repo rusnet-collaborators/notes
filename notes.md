@@ -5053,7 +5053,13 @@ Learn You a Haskell for Great Good!
 * haskell
 * learn
 
-http://anton-k.github.io/ru-haskell-book/book/toc.html
+http://anton-k.github.io/ru-haskell-book/book/home.html
+Некий классный учебник по haskell
+* learn
+* doc
+* online
+
+https://anton-k.github.io/ru-haskell-book/files/ru-haskell-book.pdf
 Некий классный учебник по haskell
 * learn
 * doc
