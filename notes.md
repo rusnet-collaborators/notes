@@ -5204,6 +5204,12 @@ Monad tutorials timeline
 * tutorials
 * collection
 
+https://lotz84.github.io/haskellbyexample
+Haskell by Example
+* haskell
+* examples
+* collection
+
 
 # Go
 
