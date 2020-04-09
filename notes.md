@@ -7653,6 +7653,18 @@ Minimum Viable Perl. Concise tutorials for experienced developers. Learn just en
 * recommendations
 * description
 
+https://learnxinyminutes.com/docs/perl
+Learn X in Y minutes Where X=perl
+* perl
+* article
+* learning
+
+https://learnxinyminutes.com/docs/perl6
+Learn X in Y minutes Where X=perl6
+* perl
+* article
+* learning
+
 
 # ALSA
 
