@@ -5210,6 +5210,14 @@ Haskell by Example
 * examples
 * collection
 
+http://dev.stephendiehl.com/hask
+What I Wish I Knew When Learning Haskell
+* haskell
+* learning
+* articles
+* collection
+* examples
+
 
 # Go
 
@@ -6600,6 +6608,14 @@ Fennel is a programming language that brings together the speed, simplicity, and
 * lisp
 * language
 * official
+
+https://yszheda.github.io/lua-table-talk
+Table in Lua
+* lua
+* table
+* slides
+* examples
+* learning
 
 
 # Moonscript
