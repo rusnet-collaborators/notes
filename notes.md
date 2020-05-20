@@ -2689,6 +2689,14 @@ awesome-compilers. Curated list of awesome resources on Compilers, Interpreters 
 * virtual
 * machines
 
+https://github.com/EbookFoundation/free-programming-books
+Freely available programming books/courses/links
+* collection
+* free
+* books
+* courses
+* links
+
 
 # Useful help tools
 
@@ -9120,6 +9128,14 @@ Find and use packages to build Flutter and web apps with Dart
 * packages
 * collection
 
+https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6
+The Ultimate Javascript vs Dart Syntax Guide
+* dart
+* javascript
+* compare
+* syntax
+* guide
+
 
 # Redmine
 
@@ -9625,3 +9641,39 @@ Microsoft Azure Machine Learning Studio (classic)
 * datascience
 * data
 * science
+
+
+# Minetest
+
+https://rubenwardy.com/minetest_modding_book/en/index.html
+Minetest Modding Book
+* minetest
+* mods
+* development
+* lua
+
+http://luatut.com/crash_course.html
+We Don't Have Chapters The Crash Course to Lua. CRASHING INTO LUA
+* learning
+* lua
+
+https://dev.minetest.net/Main_Page
+Api Minetest Main Page
+* minetest
+* api
+* development
+* learning
+
+https://minetest.gitlab.io/minetest
+Minetest Lua Modding API Reference
+* minetest
+* lua
+* development
+* api
+* modding
+
+https://minetest-mods.github.io/mods.html
+List of mods
+* minetest
+* modding
+* list
