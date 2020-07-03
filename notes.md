@@ -8899,7 +8899,7 @@ OCaml is an industrial strength programming language supporting functional, impe
 * language
 * programming
 
-http://caml.inria.fr/pub/docs/manual-ocaml/libref/index.html
+https://caml.inria.fr/pub/docs/manual-ocaml/libref/index.html
 manual-ocaml
 * ocaml
 * manual
@@ -8964,6 +8964,14 @@ OCaml Tutorial
 * OCaml
 * tutorials
 * examples
+
+http://dev.realworldocaml.org/toc.html
+Real World OCaml. 2nd Edition (in progress)
+* OCaml
+* learning
+* tutorials
+* examples
+* book
 
 
 # VBS & VBA
