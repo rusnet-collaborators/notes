@@ -5026,6 +5026,21 @@ PLEAC-Tcl. Подсказки и шпаргалки.
 * helpers
 * collections
 
+https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/snit/snitfaq.md
+snitfaq - Snit Frequently Asked Questions
+* tcl
+* snit
+* faq
+* modules
+
+https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/toc1.md
+Tcl modules
+* tcl
+* modules
+* doc
+* list
+* embedded
+
 
 # Haskell
 
