@@ -5497,6 +5497,13 @@ https://blog.maddevs.io/golang-logging-7fdd3da5152f
 * logging
 * log
 
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go-ru
+Программирование на Go
+* статьи
+* руководство
+* golang
+* go
+
 
 # YAML
 
