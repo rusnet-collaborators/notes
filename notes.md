@@ -5033,6 +5033,13 @@ snitfaq - Snit Frequently Asked Questions
 * faq
 * modules
 
+https://core.tcl-lang.org/tcllib/doc/tcllib-1-19/embedded/www/toc0.html
+Library Source Code Table Of Contents
+* tcl
+* modules
+* groups
+* list
+
 https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/toc1.md
 Tcl modules
 * tcl
