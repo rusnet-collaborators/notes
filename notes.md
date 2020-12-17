@@ -3383,6 +3383,11 @@ Vim Colors. Change color scheme for vim.
 * changes
 * editors
 
+http://givi.olnd.ru/vim-galore/grok-vi.html
+Ваша проблема с Vim заключается в том, что вы не въехали в vi
+* vim
+* cheatsheet
+
 
 # EMACS
 
