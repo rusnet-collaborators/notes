@@ -3503,6 +3503,14 @@ Self-hosting with fossil, an alternative to git
 * examples
 * alternative
 
+http://chiselapp.com/user/aplsimple/repository/HOWTO_chisel/doc/trunk/doc/www/chisel_ru.html
+How to chisel, или как ваять на chiselapp.com
+* chiselapp
+* fossil
+* manual
+* readme
+* article
+
 
 # Алгоритмы
 
