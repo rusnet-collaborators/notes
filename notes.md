@@ -8931,6 +8931,36 @@ crystal samples
 * samples
 * examples
 
+https://shards.info
+View of all repositories on Github and Gitlab that have Crystal code in them. See what the Crystal community is most excited about today.
+* crystal
+* packages
+* collection
+* modules
+
+https://shardbox.org
+A Database of Crystal Shards
+* crystal
+* packages
+* collection
+* modules
+
+https://github.com/crystal-community/icr
+ICR - Interactive Crystal
+* crystal
+* pry
+* irb
+* irc
+* interactive
+* tools
+
+https://crystal-lang.org/api
+Crystal API docs
+* crystal
+* API
+* docs
+* documentation
+
 
 # Ocaml
 
