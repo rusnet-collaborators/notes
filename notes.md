@@ -7772,6 +7772,12 @@ Phoenix is a web development framework written in Elixir which implements the se
 * development
 * web
 
+https://elixir-examples.github.io
+Elixir Examples
+* elixir
+* examples
+* collection
+
 
 # AutoDoc Generators
 
@@ -8960,6 +8966,13 @@ Crystal API docs
 * API
 * docs
 * documentation
+
+https://github.com/askn/crystal-by-example
+Crystal Programming Language Examples
+* crystal
+* programming
+* examples
+* collection
 
 
 # Ocaml
