@@ -4369,7 +4369,7 @@ http://caniuse.com
 "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * browsers
 * html
-* css
+ css
 * js
 * standart
 * supported
@@ -4519,6 +4519,12 @@ Directory bookmarks for the shell
 * speed
 * folder
 * bashrc
+
+https://shellmagic.xyz
+Bash Cheatsheet
+* bash
+* cheatsheet
+* examples
 
 
 # JS framework & JS library
