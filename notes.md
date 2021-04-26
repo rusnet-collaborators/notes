@@ -2799,13 +2799,6 @@ Choose Your Stack to Get Started
 * speed
 * code
 
-https://asciinema.org
-Record and share your terminal sessions, the right way. asciinema is a free and open source solution for recording the terminal sessions and sharing them on the web.
-* asciinema
-* record
-* terminal
-* online
-
 http://www.paratype.ru
 Шрифты для работы и для дома: шрифтовая библиотека ПараТайп и лучшие кириллические шрифты отечественных и иностранных производителей.
 * fonts
@@ -4266,6 +4259,15 @@ http://www.rwpod.com
 * podcast
 
 
+# Game Developers
+
+http://www.crunchzilla.com
+Crunchzilla
+* game
+* developers
+* learning
+
+
 # Games & Competition
 
 http://habrahabr.ru/post/273003
@@ -4818,6 +4820,54 @@ https://dyp2000.gitbooks.io/russian-armstrong-erlang/content/
 * перевод
 * gitbooks
 * russian
+
+
+# WebTools
+
+https://html-css-js.com/css/generator
+CSS Code Generators
+* tools
+* css
+* code
+* generator
+
+https://getwaves.io
+Make some waves!
+* svg
+* generator
+* wave
+* code
+
+https://cssgrid-generator.netlify.app
+CSS Grid Generator
+* css
+* grid
+* generator
+
+https://learnui.design/tools/data-color-picker.html
+Data Viz Color Palette Generator
+* css
+* colors
+* palettes
+* generator
+
+https://9elements.github.io/fancy-border-radius
+Fancy Border Radius
+* border
+* radius
+* generator
+
+https://neumorphism.io
+Generate Soft-UI CSS code
+* generator
+* css
+* shadow
+
+https://spritegen.website-performance.org
+CSS Sprite Generator
+* css
+* sprite
+* generator
 
 
 # Web 3.0
@@ -5529,6 +5579,12 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go-ru
 * руководство
 * golang
 * go
+
+https://yourbasic.org
+Algorithms to Go
+* go
+* algorithm
+* learning
 
 
 # YAML
@@ -6380,6 +6436,12 @@ lua-users.org is an internet site for and by users of the programming language L
 * scripting
 * resource
 
+http://lua-users.org/wiki/SampleCode
+Sample Code
+* lua
+* examples
+* samples
+
 http://www.lua.ru
 lua - русская документация.
 * lua
@@ -6672,6 +6734,14 @@ Table in Lua
 * slides
 * examples
 * learning
+
+https://fingercomp.gitbooks.io/oc-cookbook/content
+OC Cookbook. OpenComputers Cookbook
+* fingercomp
+* lua
+* cookbook
+* learning
+* examples
 
 
 # Moonscript
