@@ -6743,6 +6743,12 @@ OC Cookbook. OpenComputers Cookbook
 * learning
 * examples
 
+https://habr.com/ru/post/346892
+Lua. Краткое введение в метатаблицы для чайников
+* lua
+* metatables
+* tutorial
+
 
 # Moonscript
 
@@ -7919,6 +7925,23 @@ Welcome to the FFmpeg Bug Tracker and Wiki. This Wiki is intended for all kinds 
 * ffmpeg
 * wiki
 * multimedia
+
+
+# Windows
+
+https://meldmerge.org
+Meld is a visual diff and merge tool targeted at developers
+* diff
+* tools
+* windows
+* merge
+
+https://winmerge.org
+WinMerge является Open Source инструментом сравнения и слияния для Windows
+* diff
+* tools
+* windows
+* merge
 
 
 # Windows Batch Scripting
@@ -9846,3 +9869,54 @@ List of mods
 * minetest
 * modding
 * list
+
+
+# WebRTC
+
+https://webrtc.org/getting-started/overview
+API WebRTC
+* webrtc
+* api
+* guide
+
+https://xakep.ru/2014/10/27/web-rtc
+WebRTC + сокеты для звонков из чистого браузера
+* webrtc
+* socket
+
+https://ru.bmstu.wiki/WebRTC
+WebRTC
+* webrtc
+
+https://habr.com/ru/post/501416
+Немного о WebRTC: что где использовать и случай из практики
+* webrtc
+
+https://habr.com/ru/post/144293
+SIPML5 — SIP клиент для браузера на базе WebRTC
+* webrtc
+
+https://habr.com/ru/post/512496
+Серверный WebRTC в 2020 году — обзор возможностей
+* webrtc
+* server
+
+https://webrtc.github.io/samples
+WebRTC samples
+* webrtc
+* api
+
+https://webrtc.github.io/webrtc-org/native-code
+WebRTC Native Code
+* webrtc
+
+https://developer.mozilla.org/ru/docs/Web/API/WebRTC_API
+WebRTC API
+* webrtc
+* guide
+* api
+
+https://www.html5rocks.com/en/tutorials/webrtc/basics
+Get Started with WebRTC
+* webrtc
+* tutorials
