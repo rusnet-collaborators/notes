@@ -7805,6 +7805,16 @@ Learn X in Y minutes Where X=perl6
 * learning
 
 
+# Raku
+
+https://cro.services/
+Cro is a set of libraries for building reactive distributed systems, lovingly crafted to take advantage of all Raku has to offer. The high level APIs make the easy things easy, and the asynchronous pipeline concept at Cro's heart makes the hard things possible
+* cro
+* raku
+* web
+* http
+
+
 # ALSA
 
 https://wiki.gentoo.org/wiki/ALSA
@@ -9927,3 +9937,12 @@ https://www.html5rocks.com/en/tutorials/webrtc/basics
 Get Started with WebRTC
 * webrtc
 * tutorials
+
+
+# Crypt
+
+https://ctcrypt.ru/
+Современные тенденции в криптографии
+* crypto
+* ctcrypt
+* криптография
