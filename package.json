@@ -28,7 +28,7 @@
     "debug"         : "3.1.0",
     "del"           : "3.0.0",
     "ejs"           : "2.6.1",
-    "express"       : "4.16.3",
+    "express"       : "4.19.2",
 
     "gulp"              : "3.9.1",
     "gulp-autoprefixer" : "5.0.0",
